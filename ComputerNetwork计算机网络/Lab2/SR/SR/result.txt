@@ -1,0 +1,3291 @@
+******Ä£ÄâÍøÂç»·¾³******£ºÄ£ÄâÍøÂç»·¾³³õÊ¼»¯...
+******Ä£ÄâÍøÂç»·¾³******£ºÄ£ÄâÍøÂç»·¾³Æô¶¯...
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 29556, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 29556, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 29556, AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºAAAAAAAAAAAAAAAAAAAA
+ÏÂÒ»¸öĞòºÅ£º1
+-1	AAAAAAAAAAAAAAAAAAAA
+ÍÍÍ”Öi
+-1	ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ”Öi
+-1	ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ”Öi
+-1	ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ”Öi
+-1	ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ”Öi
+-1	ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 29556, AAAAAAAAAAAAAAAAAAAA
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+0
+	: seqnum = 0, acknum = 0, checksum = 29556, AAAAAAAAAAAAAAAAAAAA
+this->packetSentNumber:1
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:1
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 26985, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 24414, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 1, acknum = -1, checksum = 26985, BBBBBBBBBBBBBBBBBBBB
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 26985, BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºBBBBBBBBBBBBBBBBBBBB
+ÏÂÒ»¸öĞòºÅ£º2
+-1	BBBBBBBBBBBBBBBBBBBB
+ÍÍÍ”Öi
+-1	ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ”Öi
+-1	ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ”Öi
+-1	ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 2, acknum = -1, checksum = 24414, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 24414, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºCCCCCCCCCCCCCCCCCCCC
+ÏÂÒ»¸öĞòºÅ£º3
+-1	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍ”Öi
+-1	ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 26985, BBBBBBBBBBBBBBBBBBBB
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+1
+	: seqnum = 1, acknum = 1, checksum = 26985, BBBBBBBBBBBBBBBBBBBB
+2
+	: seqnum = 2, acknum = -1, checksum = 24414, CCCCCCCCCCCCCCCCCCCC
+3
+	: seqnum = 3, acknum = -1, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+4
+	: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:2
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = -1, checksum = 24414, CCCCCCCCCCCCCCCCCCCC
+3
+	: seqnum = 3, acknum = -1, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+4
+	: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+
+==========
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 24414, CCCCCCCCCCCCCCCCCCCC
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = 2, checksum = 24414, CCCCCCCCCCCCCCCCCCCC
+3
+	: seqnum = 3, acknum = -1, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+4
+	: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:3
+NEWthis->packetSentNumber:2
+»¬¶¯ºó´°¿Ú£º
+
+3
+	: seqnum = 3, acknum = -1, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+4
+	: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºDDDDDDDDDDDDDDDDDDDD
+ÏÂÒ»¸öĞòºÅ£º4
+-1	DDDDDDDDDDDDDDDDDDDD
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+3
+	: seqnum = 3, acknum = 3, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+4
+	: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+this->packetSentNumber:2
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:4
+NEWthis->packetSentNumber:1
+»¬¶¯ºó´°¿Ú£º
+
+4
+	: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEEEEEEEEEEEEEEEEEEEE
+ÏÂÒ»¸öĞòºÅ£º5
+-1	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 3, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+4
+	: seqnum = 4, acknum = 4, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+this->packetSentNumber:1
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:5
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 4, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 4, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 16701, FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 5, acknum = -1, checksum = 16701, FFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 16701, FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºFFFFFFFFFFFFFFFFFFFF
+ÏÂÒ»¸öĞòºÅ£º6
+-1	FFFFFFFFFFFFFFFFFFFF
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 16701, FFFFFFFFFFFFFFFFFFFF
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+5
+	: seqnum = 5, acknum = 5, checksum = 16701, FFFFFFFFFFFFFFFFFFFF
+6
+	: seqnum = 6, acknum = -1, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+7
+	: seqnum = 7, acknum = -1, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+0
+	: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:6
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = -1, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+7
+	: seqnum = 7, acknum = -1, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+0
+	: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºGGGGGGGGGGGGGGGGGGGG
+ÏÂÒ»¸öĞòºÅ£º7
+-1	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºHHHHHHHHHHHHHHHHHHHH
+ÏÂÒ»¸öĞòºÅ£º0
+-1	HHHHHHHHHHHHHHHHHHHH
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºIIIIIIIIIIIIIIIIIIII
+ÏÂÒ»¸öĞòºÅ£º1
+-1	IIIIIIIIIIIIIIIIIIII
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 6, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = 6, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+7
+	: seqnum = 7, acknum = 7, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+0
+	: seqnum = 0, acknum = 0, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:3
+NEWthis->expectedSeqNumber:1
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 0, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 6, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 6425, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 64247, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 1, acknum = -1, checksum = 6425, JJJJJJJJJJJJJJJJJJJJ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 6425, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºJJJJJJJJJJJJJJJJJJJJ
+ÏÂÒ»¸öĞòºÅ£º2
+-1	JJJJJJJJJJJJJJJJJJJJ
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 2, acknum = -1, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºKKKKKKKKKKKKKKKKKKKK
+ÏÂÒ»¸öĞòºÅ£º3
+-1	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 6425, JJJJJJJJJJJJJJJJJJJJ
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+1
+	: seqnum = 1, acknum = 1, checksum = 6425, JJJJJJJJJJJJJJJJJJJJ
+2
+	: seqnum = 2, acknum = -1, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+3
+	: seqnum = 3, acknum = -1, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+4
+	: seqnum = 4, acknum = -1, checksum = 64247, MMMMMMMMMMMMMMMMMMMM
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:2
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = -1, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+3
+	: seqnum = 3, acknum = -1, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+4
+	: seqnum = 4, acknum = -1, checksum = 64247, MMMMMMMMMMMMMMMMMMMM
+
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 64247, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºLLLLLLLLLLLLLLLLLLLL
+ÏÂÒ»¸öĞòºÅ£º4
+-1	LLLLLLLLLLLLLLLLLLLL
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 64247, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 64247, MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºMMMMMMMMMMMMMMMMMMMM
+ÏÂÒ»¸öĞòºÅ£º5
+-1	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 2, acknum = -1, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 2, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = 2, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+3
+	: seqnum = 3, acknum = 3, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+4
+	: seqnum = 4, acknum = 4, checksum = 64247, MMMMMMMMMMMMMMMMMMMM
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:3
+NEWthis->expectedSeqNumber:5
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 3, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 64247, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 4, checksum = 64247, MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 61676, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 59105, OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 5, acknum = -1, checksum = 61676, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 61676, NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºNNNNNNNNNNNNNNNNNNNN
+ÏÂÒ»¸öĞòºÅ£º6
+-1	NNNNNNNNNNNNNNNNNNNN
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 61676, NNNNNNNNNNNNNNNNNNNN
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+5
+	: seqnum = 5, acknum = 5, checksum = 61676, NNNNNNNNNNNNNNNNNNNN
+6
+	: seqnum = 6, acknum = -1, checksum = 59105, OOOOOOOOOOOOOOOOOOOO
+7
+	: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+0
+	: seqnum = 0, acknum = -1, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:6
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = -1, checksum = 59105, OOOOOOOOOOOOOOOOOOOO
+7
+	: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+0
+	: seqnum = 0, acknum = -1, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 59105, OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 59105, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 59105, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºOOOOOOOOOOOOOOOOOOOO
+ÏÂÒ»¸öĞòºÅ£º7
+-1	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 59105, OOOOOOOOOOOOOOOOOOOO
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = 6, checksum = 59105, OOOOOOOOOOOOOOOOOOOO
+7
+	: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+0
+	: seqnum = 0, acknum = 0, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:7
+NEWthis->packetSentNumber:2
+»¬¶¯ºó´°¿Ú£º
+
+7
+	: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+0
+	: seqnum = 0, acknum = 0, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºPPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºQQQQQQQQQQQQQQQQQQQQ
+ÏÂÒ»¸öĞòºÅ£º1
+-1	PPPPPPPPPPPPPPPPPPPP
+ÍÍÍ”Öi
+-1	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+7
+	: seqnum = 7, acknum = 7, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+0
+	: seqnum = 0, acknum = 0, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+this->packetSentNumber:2
+ackedNumBeforeFirstUnacked:2
+NEWthis->expectedSeqNumber:1
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 7, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 51400, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 1, acknum = -1, checksum = 51400, RRRRRRRRRRRRRRRRRRRR
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 51400, RRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºRRRRRRRRRRRRRRRRRRRR
+ÏÂÒ»¸öĞòºÅ£º2
+-1	RRRRRRRRRRRRRRRRRRRR
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 2, acknum = -1, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºSSSSSSSSSSSSSSSSSSSS
+ÏÂÒ»¸öĞòºÅ£º3
+-1	SSSSSSSSSSSSSSSSSSSS
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 51400, RRRRRRRRRRRRRRRRRRRR
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+1
+	: seqnum = 1, acknum = 1, checksum = 51400, RRRRRRRRRRRRRRRRRRRR
+2
+	: seqnum = 2, acknum = -1, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+3
+	: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+4
+	: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:2
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = -1, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+3
+	: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+4
+	: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+
+==========
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = 2, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+3
+	: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+4
+	: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:3
+NEWthis->packetSentNumber:2
+»¬¶¯ºó´°¿Ú£º
+
+3
+	: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+4
+	: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºTTTTTTTTTTTTTTTTTTTT
+ÏÂÒ»¸öĞòºÅ£º4
+-1	TTTTTTTTTTTTTTTTTTTT
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+3
+	: seqnum = 3, acknum = 3, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+4
+	: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+this->packetSentNumber:2
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:4
+NEWthis->packetSentNumber:1
+»¬¶¯ºó´°¿Ú£º
+
+4
+	: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºUUUUUUUUUUUUUUUUUUUU
+ÏÂÒ»¸öĞòºÅ£º5
+-1	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 4, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+4
+	: seqnum = 4, acknum = 4, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+this->packetSentNumber:1
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:5
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 41116, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 5, acknum = -1, checksum = 41116, VVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 41116, VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºVVVVVVVVVVVVVVVVVVVV
+ÏÂÒ»¸öĞòºÅ£º6
+-1	VVVVVVVVVVVVVVVVVVVV
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºWWWWWWWWWWWWWWWWWWWW
+ÏÂÒ»¸öĞòºÅ£º7
+-1	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 41116, VVVVVVVVVVVVVVVVVVVV
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+5
+	: seqnum = 5, acknum = 5, checksum = 41116, VVVVVVVVVVVVVVVVVVVV
+6
+	: seqnum = 6, acknum = -1, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+7
+	: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+0
+	: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:6
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = -1, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+7
+	: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+0
+	: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = 6, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+7
+	: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+0
+	: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:7
+NEWthis->packetSentNumber:2
+»¬¶¯ºó´°¿Ú£º
+
+7
+	: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+0
+	: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 6, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºXXXXXXXXXXXXXXXXXXXX
+ÏÂÒ»¸öĞòºÅ£º0
+-1	XXXXXXXXXXXXXXXXXXXX
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºYYYYYYYYYYYYYYYYYYYY
+ÏÂÒ»¸öĞòºÅ£º1
+-1	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 7, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+7
+	: seqnum = 7, acknum = 7, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+0
+	: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+this->packetSentNumber:2
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:0
+NEWthis->packetSentNumber:1
+»¬¶¯ºó´°¿Ú£º
+
+0
+	: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 0, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+0
+	: seqnum = 0, acknum = 0, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+this->packetSentNumber:1
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:1
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 30840, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 26983, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 1, acknum = -1, checksum = 30840, ZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 30840, ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºZZZZZZZZZZZZZZZZZZZZ
+ÏÂÒ»¸öĞòºÅ£º2
+-1	ZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 30840, ZZZZZZZZZZZZZZZZZZZZ
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+1
+	: seqnum = 1, acknum = 1, checksum = 30840, ZZZZZZZZZZZZZZZZZZZZ
+2
+	: seqnum = 2, acknum = -1, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+3
+	: seqnum = 3, acknum = -1, checksum = 26983, BBBBBBBBBBBBBBBBBBBB
+4
+	: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:2
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = -1, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+3
+	: seqnum = 3, acknum = -1, checksum = 26983, BBBBBBBBBBBBBBBBBBBB
+4
+	: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 2, acknum = -1, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºAAAAAAAAAAAAAAAAAAAA
+ÏÂÒ»¸öĞòºÅ£º3
+-1	AAAAAAAAAAAAAAAAAAAA
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 26983, BBBBBBBBBBBBBBBBBBBB
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 26983, BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºBBBBBBBBBBBBBBBBBBBB
+ÏÂÒ»¸öĞòºÅ£º4
+-1	BBBBBBBBBBBBBBBBBBBB
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 26983, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºCCCCCCCCCCCCCCCCCCCC
+ÏÂÒ»¸öĞòºÅ£º5
+-1	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 2, acknum = -1, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 2, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 26983, BBBBBBBBBBBBBBBBBBBB
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 3, checksum = 26983, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = 2, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+3
+	: seqnum = 3, acknum = 3, checksum = 26983, BBBBBBBBBBBBBBBBBBBB
+4
+	: seqnum = 4, acknum = 4, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:3
+NEWthis->expectedSeqNumber:5
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 4, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 21841, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 5, acknum = -1, checksum = 21841, DDDDDDDDDDDDDDDDDDDD
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 21841, DDDDDDDDDDDDDDDDDDDD
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºDDDDDDDDDDDDDDDDDDDD
+ÏÂÒ»¸öĞòºÅ£º6
+-1	DDDDDDDDDDDDDDDDDDDD
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 21841, DDDDDDDDDDDDDDDDDDDD
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+5
+	: seqnum = 5, acknum = 5, checksum = 21841, DDDDDDDDDDDDDDDDDDDD
+6
+	: seqnum = 6, acknum = -1, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+7
+	: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+0
+	: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:6
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = -1, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+7
+	: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+0
+	: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEEEEEEEEEEEEEEEEEEEE
+ÏÂÒ»¸öĞòºÅ£º7
+-1	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 6, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºFFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºGGGGGGGGGGGGGGGGGGGG
+ÏÂÒ»¸öĞòºÅ£º1
+-1	FFFFFFFFFFFFFFFFFFFF
+ÍÍÍ”Öi
+-1	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = 6, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+7
+	: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+0
+	: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:7
+NEWthis->packetSentNumber:2
+»¬¶¯ºó´°¿Ú£º
+
+7
+	: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+0
+	: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 7, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+7
+	: seqnum = 7, acknum = 7, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+0
+	: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+this->packetSentNumber:2
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:0
+NEWthis->packetSentNumber:1
+»¬¶¯ºó´°¿Ú£º
+
+0
+	: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 0, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+0
+	: seqnum = 0, acknum = 0, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+this->packetSentNumber:1
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:1
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 11565, HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 1, acknum = -1, checksum = 11565, HHHHHHHHHHHHHHHHHHHH
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 11565, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºHHHHHHHHHHHHHHHHHHHH
+ÏÂÒ»¸öĞòºÅ£º2
+-1	HHHHHHHHHHHHHHHHHHHH
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 2, acknum = -1, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºIIIIIIIIIIIIIIIIIIII
+ÏÂÒ»¸öĞòºÅ£º3
+-1	IIIIIIIIIIIIIIIIIIII
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºJJJJJJJJJJJJJJJJJJJJ
+ÏÂÒ»¸öĞòºÅ£º4
+-1	JJJJJJJJJJJJJJJJJJJJ
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 11565, HHHHHHHHHHHHHHHHHHHH
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+1
+	: seqnum = 1, acknum = 1, checksum = 11565, HHHHHHHHHHHHHHHHHHHH
+2
+	: seqnum = 2, acknum = -1, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+3
+	: seqnum = 3, acknum = -1, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+4
+	: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:2
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = -1, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+3
+	: seqnum = 3, acknum = -1, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+4
+	: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºKKKKKKKKKKKKKKKKKKKK
+ÏÂÒ»¸öĞòºÅ£º5
+-1	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = 2, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+3
+	: seqnum = 3, acknum = -1, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+4
+	: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:3
+NEWthis->packetSentNumber:2
+»¬¶¯ºó´°¿Ú£º
+
+3
+	: seqnum = 3, acknum = -1, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+4
+	: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 2, acknum = -1, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 2, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+3
+	: seqnum = 3, acknum = 3, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+4
+	: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+this->packetSentNumber:2
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:4
+NEWthis->packetSentNumber:1
+»¬¶¯ºó´°¿Ú£º
+
+4
+	: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 3, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+4
+	: seqnum = 4, acknum = 4, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+this->packetSentNumber:1
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:5
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 4, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 4, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 1281, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 64245, MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 5, acknum = -1, checksum = 1281, LLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 1281, LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºLLLLLLLLLLLLLLLLLLLL
+ÏÂÒ»¸öĞòºÅ£º6
+-1	LLLLLLLLLLLLLLLLLLLL
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 1281, LLLLLLLLLLLLLLLLLLLL
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+5
+	: seqnum = 5, acknum = 5, checksum = 1281, LLLLLLLLLLLLLLLLLLLL
+6
+	: seqnum = 6, acknum = -1, checksum = 64245, MMMMMMMMMMMMMMMMMMMM
+7
+	: seqnum = 7, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+0
+	: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:6
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = -1, checksum = 64245, MMMMMMMMMMMMMMMMMMMM
+7
+	: seqnum = 7, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+0
+	: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 64245, MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 64245, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 64245, MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºMMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºNNNNNNNNNNNNNNNNNNNN
+ÏÂÒ»¸öĞòºÅ£º0
+-1	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍ”Öi
+-1	NNNNNNNNNNNNNNNNNNNN
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 7, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºOOOOOOOOOOOOOOOOOOOO
+ÏÂÒ»¸öĞòºÅ£º1
+-1	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 64245, MMMMMMMMMMMMMMMMMMMM
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = 6, checksum = 64245, MMMMMMMMMMMMMMMMMMMM
+7
+	: seqnum = 7, acknum = 7, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+0
+	: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:2
+NEWthis->expectedSeqNumber:0
+NEWthis->packetSentNumber:1
+»¬¶¯ºó´°¿Ú£º
+
+0
+	: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+0
+	: seqnum = 0, acknum = 0, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+this->packetSentNumber:1
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:1
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 0, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 56540, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 53969, QQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 1, acknum = -1, checksum = 56540, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 56540, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºPPPPPPPPPPPPPPPPPPPP
+ÏÂÒ»¸öĞòºÅ£º2
+-1	PPPPPPPPPPPPPPPPPPPP
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 2, acknum = -1, checksum = 53969, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 53969, QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºQQQQQQQQQQQQQQQQQQQQ
+ÏÂÒ»¸öĞòºÅ£º3
+-1	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 56540, PPPPPPPPPPPPPPPPPPPP
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+1
+	: seqnum = 1, acknum = 1, checksum = 56540, PPPPPPPPPPPPPPPPPPPP
+2
+	: seqnum = 2, acknum = -1, checksum = 53969, QQQQQQQQQQQQQQQQQQQQ
+3
+	: seqnum = 3, acknum = -1, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+4
+	: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:2
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = -1, checksum = 53969, QQQQQQQQQQQQQQQQQQQQ
+3
+	: seqnum = 3, acknum = -1, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+4
+	: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 53969, QQQQQQQQQQQQQQQQQQQQ
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = 2, checksum = 53969, QQQQQQQQQQQQQQQQQQQQ
+3
+	: seqnum = 3, acknum = -1, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+4
+	: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:3
+NEWthis->packetSentNumber:2
+»¬¶¯ºó´°¿Ú£º
+
+3
+	: seqnum = 3, acknum = -1, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+4
+	: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºRRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºSSSSSSSSSSSSSSSSSSSS
+ÏÂÒ»¸öĞòºÅ£º5
+-1	RRRRRRRRRRRRRRRRRRRR
+ÍÍÍ”Öi
+-1	SSSSSSSSSSSSSSSSSSSS
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+3
+	: seqnum = 3, acknum = 3, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+4
+	: seqnum = 4, acknum = 4, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+this->packetSentNumber:2
+ackedNumBeforeFirstUnacked:2
+NEWthis->expectedSeqNumber:5
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 46256, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 41114, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 5, acknum = -1, checksum = 46256, TTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 46256, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºTTTTTTTTTTTTTTTTTTTT
+ÏÂÒ»¸öĞòºÅ£º6
+-1	TTTTTTTTTTTTTTTTTTTT
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 46256, TTTTTTTTTTTTTTTTTTTT
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+5
+	: seqnum = 5, acknum = 5, checksum = 46256, TTTTTTTTTTTTTTTTTTTT
+6
+	: seqnum = 6, acknum = -1, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+7
+	: seqnum = 7, acknum = -1, checksum = 41114, VVVVVVVVVVVVVVVVVVVV
+0
+	: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:6
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = -1, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+7
+	: seqnum = 7, acknum = -1, checksum = 41114, VVVVVVVVVVVVVVVVVVVV
+0
+	: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºUUUUUUUUUUUUUUUUUUUU
+ÏÂÒ»¸öĞòºÅ£º7
+-1	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 41114, VVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 41114, VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºVVVVVVVVVVVVVVVVVVVV
+ÏÂÒ»¸öĞòºÅ£º0
+-1	VVVVVVVVVVVVVVVVVVVV
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºWWWWWWWWWWWWWWWWWWWW
+ÏÂÒ»¸öĞòºÅ£º1
+-1	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 6, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 0, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = 6, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+7
+	: seqnum = 7, acknum = 7, checksum = 41114, VVVVVVVVVVVVVVVVVVVV
+0
+	: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:2
+NEWthis->expectedSeqNumber:0
+NEWthis->packetSentNumber:1
+»¬¶¯ºó´°¿Ú£º
+
+0
+	: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+
+==========
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+0
+	: seqnum = 0, acknum = 0, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+this->packetSentNumber:1
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:1
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 35980, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 33409, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 2, acknum = -1, checksum = 33409, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 33409, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 33409, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 33409, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 35980, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 1, acknum = -1, checksum = 35980, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 35980, XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºXXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºYYYYYYYYYYYYYYYYYYYY
+ÏÂÒ»¸öĞòºÅ£º3
+-1	XXXXXXXXXXXXXXXXXXXX
+ÍÍÍ”Öi
+-1	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	AAAAAAAAAAAAAAAAAAAA
+ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	AAAAAAAAAAAAAAAAAAAA
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 35980, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 35980, XXXXXXXXXXXXXXXXXXXX
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+1
+	: seqnum = 1, acknum = 1, checksum = 35980, XXXXXXXXXXXXXXXXXXXX
+2
+	: seqnum = 2, acknum = 2, checksum = 33409, YYYYYYYYYYYYYYYYYYYY
+3
+	: seqnum = 3, acknum = -1, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+4
+	: seqnum = 4, acknum = 4, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:2
+NEWthis->expectedSeqNumber:3
+NEWthis->packetSentNumber:2
+»¬¶¯ºó´°¿Ú£º
+
+3
+	: seqnum = 3, acknum = -1, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+4
+	: seqnum = 4, acknum = 4, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 1, acknum = -1, checksum = 35980, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 1, checksum = 35980, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºAAAAAAAAAAAAAAAAAAAA
+ÏÂÒ»¸öĞòºÅ£º5
+-1	ZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍ”Öi
+-1	AAAAAAAAAAAAAAAAAAAA
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 3, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+3
+	: seqnum = 3, acknum = 3, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+4
+	: seqnum = 4, acknum = 4, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+this->packetSentNumber:2
+ackedNumBeforeFirstUnacked:2
+NEWthis->expectedSeqNumber:5
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 26981, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 24410, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 21839, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 24410, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 24410, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 24410, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 24410, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 21839, DDDDDDDDDDDDDDDDDDDD
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 21839, DDDDDDDDDDDDDDDDDDDD
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 21839, DDDDDDDDDDDDDDDDDDDD
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 21839, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 26981, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 21839, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 5, acknum = -1, checksum = 26981, BBBBBBBBBBBBBBBBBBBB
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 26981, BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºBBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºCCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºDDDDDDDDDDDDDDDDDDDD
+ÏÂÒ»¸öĞòºÅ£º0
+-1	BBBBBBBBBBBBBBBBBBBB
+ÍÍÍ”Öi
+-1	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍ”Öi
+-1	DDDDDDDDDDDDDDDDDDDD
+ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 21839, DDDDDDDDDDDDDDDDDDDD
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 7, checksum = 21839, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 26981, BBBBBBBBBBBBBBBBBBBB
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+5
+	: seqnum = 5, acknum = 5, checksum = 26981, BBBBBBBBBBBBBBBBBBBB
+6
+	: seqnum = 6, acknum = 6, checksum = 24410, CCCCCCCCCCCCCCCCCCCC
+7
+	: seqnum = 7, acknum = 7, checksum = 21839, DDDDDDDDDDDDDDDDDDDD
+0
+	: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:3
+NEWthis->expectedSeqNumber:0
+NEWthis->packetSentNumber:1
+»¬¶¯ºó´°¿Ú£º
+
+0
+	: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEEEEEEEEEEEEEEEEEEEE
+ÏÂÒ»¸öĞòºÅ£º1
+-1	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 0, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 0, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+0
+	: seqnum = 0, acknum = 0, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+this->packetSentNumber:1
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:1
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 16705, FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 14134, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 1, acknum = -1, checksum = 16705, FFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 16705, FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºFFFFFFFFFFFFFFFFFFFF
+ÏÂÒ»¸öĞòºÅ£º2
+-1	FFFFFFFFFFFFFFFFFFFF
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 16705, FFFFFFFFFFFFFFFFFFFF
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+1
+	: seqnum = 1, acknum = 1, checksum = 16705, FFFFFFFFFFFFFFFFFFFF
+2
+	: seqnum = 2, acknum = -1, checksum = 14134, GGGGGGGGGGGGGGGGGGGG
+3
+	: seqnum = 3, acknum = -1, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+4
+	: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:2
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = -1, checksum = 14134, GGGGGGGGGGGGGGGGGGGG
+3
+	: seqnum = 3, acknum = -1, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+4
+	: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 2, acknum = -1, checksum = 14134, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 14134, GGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºGGGGGGGGGGGGGGGGGGGG
+ÏÂÒ»¸öĞòºÅ£º3
+-1	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºHHHHHHHHHHHHHHHHHHHH
+ÏÂÒ»¸öĞòºÅ£º4
+-1	HHHHHHHHHHHHHHHHHHHH
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 14134, GGGGGGGGGGGGGGGGGGGG
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = 2, checksum = 14134, GGGGGGGGGGGGGGGGGGGG
+3
+	: seqnum = 3, acknum = -1, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+4
+	: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:3
+NEWthis->packetSentNumber:2
+»¬¶¯ºó´°¿Ú£º
+
+3
+	: seqnum = 3, acknum = -1, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+4
+	: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºIIIIIIIIIIIIIIIIIIII
+ÏÂÒ»¸öĞòºÅ£º5
+-1	IIIIIIIIIIIIIIIIIIII
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+3
+	: seqnum = 3, acknum = 3, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+4
+	: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+this->packetSentNumber:2
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:4
+NEWthis->packetSentNumber:1
+»¬¶¯ºó´°¿Ú£º
+
+4
+	: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+4
+	: seqnum = 4, acknum = 4, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+this->packetSentNumber:1
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:5
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 4, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 6421, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 5, acknum = -1, checksum = 6421, JJJJJJJJJJJJJJJJJJJJ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 6421, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºJJJJJJJJJJJJJJJJJJJJ
+ÏÂÒ»¸öĞòºÅ£º6
+-1	JJJJJJJJJJJJJJJJJJJJ
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 6421, JJJJJJJJJJJJJJJJJJJJ
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+5
+	: seqnum = 5, acknum = 5, checksum = 6421, JJJJJJJJJJJJJJJJJJJJ
+6
+	: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+7
+	: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+0
+	: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:6
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+7
+	: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+0
+	: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºKKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºLLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºMMMMMMMMMMMMMMMMMMMM
+ÏÂÒ»¸öĞòºÅ£º1
+-1	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍ”Öi
+-1	LLLLLLLLLLLLLLLLLLLL
+ÍÍÍ”Öi
+-1	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = 6, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+7
+	: seqnum = 7, acknum = 7, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+0
+	: seqnum = 0, acknum = 0, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:3
+NEWthis->expectedSeqNumber:1
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 61680, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 59109, OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 1, acknum = -1, checksum = 61680, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 61680, NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºNNNNNNNNNNNNNNNNNNNN
+ÏÂÒ»¸öĞòºÅ£º2
+-1	NNNNNNNNNNNNNNNNNNNN
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 61680, NNNNNNNNNNNNNNNNNNNN
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+1
+	: seqnum = 1, acknum = 1, checksum = 61680, NNNNNNNNNNNNNNNNNNNN
+2
+	: seqnum = 2, acknum = -1, checksum = 59109, OOOOOOOOOOOOOOOOOOOO
+3
+	: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+4
+	: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:2
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = -1, checksum = 59109, OOOOOOOOOOOOOOOOOOOO
+3
+	: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+4
+	: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 2, acknum = -1, checksum = 59109, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 59109, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºOOOOOOOOOOOOOOOOOOOO
+ÏÂÒ»¸öĞòºÅ£º3
+-1	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 59109, OOOOOOOOOOOOOOOOOOOO
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = 2, checksum = 59109, OOOOOOOOOOOOOOOOOOOO
+3
+	: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+4
+	: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:3
+NEWthis->packetSentNumber:2
+»¬¶¯ºó´°¿Ú£º
+
+3
+	: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+4
+	: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºPPPPPPPPPPPPPPPPPPPP
+ÏÂÒ»¸öĞòºÅ£º4
+-1	PPPPPPPPPPPPPPPPPPPP
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºQQQQQQQQQQQQQQQQQQQQ
+ÏÂÒ»¸öĞòºÅ£º5
+-1	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+3
+	: seqnum = 3, acknum = 3, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+4
+	: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+this->packetSentNumber:2
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:4
+NEWthis->packetSentNumber:1
+»¬¶¯ºó´°¿Ú£º
+
+4
+	: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 4, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+4
+	: seqnum = 4, acknum = 4, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+this->packetSentNumber:1
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:5
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 48825, SSSSSSSSSSSSSSSSSSSS
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 5, acknum = -1, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºRRRRRRRRRRRRRRRRRRRR
+ÏÂÒ»¸öĞòºÅ£º6
+-1	RRRRRRRRRRRRRRRRRRRR
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 48825, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 48825, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºSSSSSSSSSSSSSSSSSSSS
+ÏÂÒ»¸öĞòºÅ£º7
+-1	SSSSSSSSSSSSSSSSSSSS
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+5
+	: seqnum = 5, acknum = 5, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+6
+	: seqnum = 6, acknum = -1, checksum = 48825, SSSSSSSSSSSSSSSSSSSS
+7
+	: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+0
+	: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:6
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = -1, checksum = 48825, SSSSSSSSSSSSSSSSSSSS
+7
+	: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+0
+	: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+
+==========
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 48825, SSSSSSSSSSSSSSSSSSSS
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = 6, checksum = 48825, SSSSSSSSSSSSSSSSSSSS
+7
+	: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+0
+	: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:7
+NEWthis->packetSentNumber:2
+»¬¶¯ºó´°¿Ú£º
+
+7
+	: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+0
+	: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºTTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºUUUUUUUUUUUUUUUUUUUU
+ÏÂÒ»¸öĞòºÅ£º1
+-1	TTTTTTTTTTTTTTTTTTTT
+ÍÍÍ”Öi
+-1	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 0, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+7
+	: seqnum = 7, acknum = 7, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+0
+	: seqnum = 0, acknum = 0, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+this->packetSentNumber:2
+ackedNumBeforeFirstUnacked:2
+NEWthis->expectedSeqNumber:1
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 41120, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 38549, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 41120, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 38549, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 1, acknum = -1, checksum = 41120, VVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 41120, VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºVVVVVVVVVVVVVVVVVVVV
+ÏÂÒ»¸öĞòºÅ£º2
+-1	VVVVVVVVVVVVVVVVVVVV
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	XXXXXXXXXXXXXXXXXXXX
+ÍÍÍ”Öi
+-1	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	XXXXXXXXXXXXXXXXXXXX
+ÍÍÍ”Öi
+-1	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 41120, VVVVVVVVVVVVVVVVVVVV
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+1
+	: seqnum = 1, acknum = 1, checksum = 41120, VVVVVVVVVVVVVVVVVVVV
+2
+	: seqnum = 2, acknum = -1, checksum = 38549, WWWWWWWWWWWWWWWWWWWW
+3
+	: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+4
+	: seqnum = 4, acknum = 4, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:2
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = -1, checksum = 38549, WWWWWWWWWWWWWWWWWWWW
+3
+	: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+4
+	: seqnum = 4, acknum = 4, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 2, acknum = -1, checksum = 38549, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 38549, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºWWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºXXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºYYYYYYYYYYYYYYYYYYYY
+ÏÂÒ»¸öĞòºÅ£º5
+-1	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍ”Öi
+-1	XXXXXXXXXXXXXXXXXXXX
+ÍÍÍ”Öi
+-1	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 38549, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 38549, WWWWWWWWWWWWWWWWWWWW
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = 2, checksum = 38549, WWWWWWWWWWWWWWWWWWWW
+3
+	: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+4
+	: seqnum = 4, acknum = 4, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:3
+NEWthis->packetSentNumber:2
+»¬¶¯ºó´°¿Ú£º
+
+3
+	: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+4
+	: seqnum = 4, acknum = 4, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 3, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 4, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+3
+	: seqnum = 3, acknum = 3, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+4
+	: seqnum = 4, acknum = 4, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+this->packetSentNumber:2
+ackedNumBeforeFirstUnacked:2
+NEWthis->expectedSeqNumber:5
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 3, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 30836, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 5, acknum = -1, checksum = 30836, ZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 30836, ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºZZZZZZZZZZZZZZZZZZZZ
+ÏÂÒ»¸öĞòºÅ£º6
+-1	ZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 30836, ZZZZZZZZZZZZZZZZZZZZ
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+5
+	: seqnum = 5, acknum = 5, checksum = 30836, ZZZZZZZZZZZZZZZZZZZZ
+6
+	: seqnum = 6, acknum = -1, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+7
+	: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+0
+	: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:6
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = -1, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+7
+	: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+0
+	: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºAAAAAAAAAAAAAAAAAAAA
+ÏÂÒ»¸öĞòºÅ£º7
+-1	AAAAAAAAAAAAAAAAAAAA
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºBBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºCCCCCCCCCCCCCCCCCCCC
+ÏÂÒ»¸öĞòºÅ£º1
+-1	BBBBBBBBBBBBBBBBBBBB
+ÍÍÍ”Öi
+-1	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = 6, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+7
+	: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+0
+	: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:7
+NEWthis->packetSentNumber:2
+»¬¶¯ºó´°¿Ú£º
+
+7
+	: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+0
+	: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 0, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+7
+	: seqnum = 7, acknum = 7, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+0
+	: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+this->packetSentNumber:2
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:0
+NEWthis->packetSentNumber:1
+»¬¶¯ºó´°¿Ú£º
+
+0
+	: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+0
+	: seqnum = 0, acknum = 0, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+this->packetSentNumber:1
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:1
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 0, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 21845, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 1, acknum = -1, checksum = 21845, DDDDDDDDDDDDDDDDDDDD
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 21845, DDDDDDDDDDDDDDDDDDDD
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºDDDDDDDDDDDDDDDDDDDD
+ÏÂÒ»¸öĞòºÅ£º2
+-1	DDDDDDDDDDDDDDDDDDDD
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 2, acknum = -1, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEEEEEEEEEEEEEEEEEEEE
+ÏÂÒ»¸öĞòºÅ£º3
+-1	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 21845, DDDDDDDDDDDDDDDDDDDD
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+1
+	: seqnum = 1, acknum = 1, checksum = 21845, DDDDDDDDDDDDDDDDDDDD
+2
+	: seqnum = 2, acknum = -1, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+3
+	: seqnum = 3, acknum = -1, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+4
+	: seqnum = 4, acknum = -1, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:2
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = -1, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+3
+	: seqnum = 3, acknum = -1, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+4
+	: seqnum = 4, acknum = -1, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+
+==========
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = 2, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+3
+	: seqnum = 3, acknum = -1, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+4
+	: seqnum = 4, acknum = -1, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:3
+NEWthis->packetSentNumber:2
+»¬¶¯ºó´°¿Ú£º
+
+3
+	: seqnum = 3, acknum = -1, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+4
+	: seqnum = 4, acknum = -1, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºFFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºGGGGGGGGGGGGGGGGGGGG
+ÏÂÒ»¸öĞòºÅ£º5
+-1	FFFFFFFFFFFFFFFFFFFF
+ÍÍÍ”Öi
+-1	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+3
+	: seqnum = 3, acknum = 3, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+4
+	: seqnum = 4, acknum = 4, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+this->packetSentNumber:2
+ackedNumBeforeFirstUnacked:2
+NEWthis->expectedSeqNumber:5
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 11561, HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 5, acknum = -1, checksum = 11561, HHHHHHHHHHHHHHHHHHHH
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 11561, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºHHHHHHHHHHHHHHHHHHHH
+ÏÂÒ»¸öĞòºÅ£º6
+-1	HHHHHHHHHHHHHHHHHHHH
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºIIIIIIIIIIIIIIIIIIII
+ÏÂÒ»¸öĞòºÅ£º7
+-1	IIIIIIIIIIIIIIIIIIII
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 11561, HHHHHHHHHHHHHHHHHHHH
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+5
+	: seqnum = 5, acknum = 5, checksum = 11561, HHHHHHHHHHHHHHHHHHHH
+6
+	: seqnum = 6, acknum = -1, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+7
+	: seqnum = 7, acknum = -1, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+0
+	: seqnum = 0, acknum = -1, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:6
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = -1, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+7
+	: seqnum = 7, acknum = -1, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+0
+	: seqnum = 0, acknum = -1, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = 6, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+7
+	: seqnum = 7, acknum = -1, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+0
+	: seqnum = 0, acknum = -1, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:7
+NEWthis->packetSentNumber:2
+»¬¶¯ºó´°¿Ú£º
+
+7
+	: seqnum = 7, acknum = -1, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+0
+	: seqnum = 0, acknum = -1, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºJJJJJJJJJJJJJJJJJJJJ
+ÏÂÒ»¸öĞòºÅ£º0
+-1	JJJJJJJJJJJJJJJJJJJJ
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºKKKKKKKKKKKKKKKKKKKK
+ÏÂÒ»¸öĞòºÅ£º1
+-1	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+7
+	: seqnum = 7, acknum = 7, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+0
+	: seqnum = 0, acknum = -1, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+this->packetSentNumber:2
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:0
+NEWthis->packetSentNumber:1
+»¬¶¯ºó´°¿Ú£º
+
+0
+	: seqnum = 0, acknum = -1, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 6, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+0
+	: seqnum = 0, acknum = 0, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+this->packetSentNumber:1
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:1
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 7, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 1285, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 64249, MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 2, acknum = -1, checksum = 64249, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 64249, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 64249, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 64249, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 1285, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 1, acknum = -1, checksum = 1285, LLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 1285, LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºLLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºMMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºNNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºOOOOOOOOOOOOOOOOOOOO
+ÏÂÒ»¸öĞòºÅ£º5
+-1	LLLLLLLLLLLLLLLLLLLL
+ÍÍÍ”Öi
+-1	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍ”Öi
+-1	NNNNNNNNNNNNNNNNNNNN
+ÍÍÍ”Öi
+-1	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 1285, LLLLLLLLLLLLLLLLLLLL
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+1
+	: seqnum = 1, acknum = 1, checksum = 1285, LLLLLLLLLLLLLLLLLLLL
+2
+	: seqnum = 2, acknum = 2, checksum = 64249, MMMMMMMMMMMMMMMMMMMM
+3
+	: seqnum = 3, acknum = 3, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+4
+	: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:3
+NEWthis->expectedSeqNumber:4
+NEWthis->packetSentNumber:1
+»¬¶¯ºó´°¿Ú£º
+
+4
+	: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 3, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 4, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 4, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+4
+	: seqnum = 4, acknum = 4, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+this->packetSentNumber:1
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:5
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 53965, QQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 51394, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 48831, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 53965, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 53965, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 53965, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 53965, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 51394, RRRRRRRRRRRRRRRRRRRR
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 51394, RRRRRRRRRRRRRRRRRRRR
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 51394, RRRRRRRRRRRRRRRRRRRR
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 51394, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 51394, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 48831, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 48831, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 48831, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 48831, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 48831, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 5, acknum = -1, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºPPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºQQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºRRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºSSSSSSSSSSSSSSSSSSSS
+ÏÂÒ»¸öĞòºÅ£º1
+-1	PPPPPPPPPPPPPPPPPPPP
+ÍÍÍ”Öi
+-1	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍ”Öi
+-1	RRRRRRRRRRRRRRRRRRRR
+ÍÍÍ”Öi
+-1	SSSSSSSSSSSSSSSSSSSS
+ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 51394, RRRRRRRRRRRRRRRRRRRR
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 7, checksum = 51394, RRRRRRRRRRRRRRRRRRRR
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 48831, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 0, checksum = 48831, SSSSSSSSSSSSSSSSSSSS
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 5, acknum = -1, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 5, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+5
+	: seqnum = 5, acknum = 5, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+6
+	: seqnum = 6, acknum = 6, checksum = 53965, QQQQQQQQQQQQQQQQQQQQ
+7
+	: seqnum = 7, acknum = 7, checksum = 51394, RRRRRRRRRRRRRRRRRRRR
+0
+	: seqnum = 0, acknum = 0, checksum = 48831, SSSSSSSSSSSSSSSSSSSS
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:4
+NEWthis->expectedSeqNumber:1
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 46260, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 1, acknum = -1, checksum = 46260, TTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 46260, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºTTTTTTTTTTTTTTTTTTTT
+ÏÂÒ»¸öĞòºÅ£º2
+-1	TTTTTTTTTTTTTTTTTTTT
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 46260, TTTTTTTTTTTTTTTTTTTT
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+1
+	: seqnum = 1, acknum = 1, checksum = 46260, TTTTTTTTTTTTTTTTTTTT
+2
+	: seqnum = 2, acknum = -1, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+3
+	: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+4
+	: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:2
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = -1, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+3
+	: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+4
+	: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÌáÇ°ÊÕµ½±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 2, acknum = -1, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºUUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºVVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºWWWWWWWWWWWWWWWWWWWW
+ÏÂÒ»¸öĞòºÅ£º5
+-1	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍ”Öi
+-1	VVVVVVVVVVVVVVVVVVVV
+ÍÍÍ”Öi
+-1	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+2
+	: seqnum = 2, acknum = 2, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+3
+	: seqnum = 3, acknum = 3, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+4
+	: seqnum = 4, acknum = 4, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:3
+NEWthis->expectedSeqNumber:5
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 35976, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 5, acknum = -1, checksum = 35976, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 35976, XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºXXXXXXXXXXXXXXXXXXXX
+ÏÂÒ»¸öĞòºÅ£º6
+-1	XXXXXXXXXXXXXXXXXXXX
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºYYYYYYYYYYYYYYYYYYYY
+ÏÂÒ»¸öĞòºÅ£º7
+-1	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 35976, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 35976, XXXXXXXXXXXXXXXXXXXX
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+5
+	: seqnum = 5, acknum = 5, checksum = 35976, XXXXXXXXXXXXXXXXXXXX
+6
+	: seqnum = 6, acknum = -1, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+7
+	: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+0
+	: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+this->packetSentNumber:4
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:6
+NEWthis->packetSentNumber:3
+»¬¶¯ºó´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = -1, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+7
+	: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+0
+	: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºZZZZZZZZZZZZZZZZZZZZ
+ÏÂÒ»¸öĞòºÅ£º0
+-1	ZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 29873, EOF                 
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEOF                  
+ÏÂÒ»¸öĞòºÅ£º1
+-1	EOF
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+==============
+ÉÏ½»ºó£º
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍ”Öi
+-1	.....................ÍÍÍıııı
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 5, acknum = -1, checksum = 35976, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 5, checksum = 35976, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 6, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+6
+	: seqnum = 6, acknum = 6, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+7
+	: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+0
+	: seqnum = 0, acknum = 0, checksum = 29873, EOF                 
+this->packetSentNumber:3
+ackedNumBeforeFirstUnacked:1
+NEWthis->expectedSeqNumber:7
+NEWthis->packetSentNumber:2
+»¬¶¯ºó´°¿Ú£º
+
+7
+	: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+0
+	: seqnum = 0, acknum = 0, checksum = 29873, EOF                 
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 7, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 0, checksum = 29873, EOF                 
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+==========
+»¬¶¯Ç°´°¿Ú£º
+
+7
+	: seqnum = 7, acknum = 7, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+0
+	: seqnum = 0, acknum = 0, checksum = 29873, EOF                 
+this->packetSentNumber:2
+ackedNumBeforeFirstUnacked:2
+NEWthis->expectedSeqNumber:1
+NEWthis->packetSentNumber:0
+»¬¶¯ºó´°¿Ú£º
+
+
+==========
+½ÓÊÕ·½ÊÕµ½±¨ÎÄ´ı´¦Àí: seqnum = 6, acknum = -1, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ(ÖØ¸´): seqnum = -1, acknum = 6, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£ºÄ£ÄâÍøÂç»·¾³ÒÑ·¢ËÍÍêÓ¦ÓÃ²ãÊı¾İ£¬¹Ø±ÕÄ£ÄâÍøÂç»·¾³
+ÒÑ·¢ËÍÓ¦ÓÃ²ãMessage¸öÊı: 105
+·¢ËÍµ½ÍøÂç²ãÊı¾İPacket¸öÊı: 197
+ÍøÂç²ã¶ªÊ§µÄÊı¾İPacket¸öÊı: 24
+ÍøÂç²ãËğ»µµÄÊı¾İpakcet¸öÊı:12
+·¢ËÍµ½ÍøÂç²ãÈ·ÈÏPacket¸öÊı:161
+ÍøÂç²ã¶ªÊ§µÄÈ·ÈÏPacket¸öÊı: 15
+ÍøÂç²ãËğ»µµÄÈ·ÈÏPacket¸öÊı: 14
+

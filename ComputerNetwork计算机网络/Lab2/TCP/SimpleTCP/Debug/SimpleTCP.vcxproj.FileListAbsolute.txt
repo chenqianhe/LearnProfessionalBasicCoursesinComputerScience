@@ -1,0 +1,2 @@
+G:\Cqh_files\2021CoputerNetworkExperiment\lab\Lab2\TCP\SimpleTCP\Debug\SimpleTCP.exe
+G:\Cqh_files\2021CoputerNetworkExperiment\lab\Lab2\TCP\SimpleTCP\Debug\SimpleTCP.pdb

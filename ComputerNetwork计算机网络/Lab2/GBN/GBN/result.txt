@@ -1,0 +1,3860 @@
+******Ä£ÄâÍøÂç»·¾³******£ºÄ£ÄâÍøÂç»·¾³³õÊ¼»¯...
+******Ä£ÄâÍøÂç»·¾³******£ºÄ£ÄâÍøÂç»·¾³Æô¶¯...
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 29556, AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2.375, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 22.375
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ9.365µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 29556,payload = AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 29556, AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºAAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ12.045µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 0, checksum = 12851, ....................
+==========
+»¬¶¯Ç°£º
+
+0	AAAAAAAAAAAAAAAAAAAA
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 12.045, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 26985, BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 12.6925, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 32.6925
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ15.4025µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 26985,payload = BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 24414, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 12.8375, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 32.8375
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ23.7225µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 24414,payload = CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 13.1625, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 33.1625
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ28.9125µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 21843,payload = DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 13.9025, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 33.9025
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 4, acknum = -1,checksum = 19272,payload = FEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ31.3825µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 19272,payload = FEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 26985, BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºBBBBBBBBBBBBBBBBBBBB
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ18.7625µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+==========
+»¬¶¯Ç°£º
+
+1	BBBBBBBBBBBBBBBBBBBB
+ÍÍÍœçÔ
+2	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍœçÔ
+3	DDDDDDDDDDDDDDDDDDDD
+ÍÍÍœçÔ
+4	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 18.7625, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+2	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍœçÔ
+3	DDDDDDDDDDDDDDDDDDDD
+ÍÍÍœçÔ
+4	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 24414, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºCCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 2,checksum = 12849,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ32.6825µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 2,checksum = 12849,payload = /....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºDDDDDDDDDDDDDDDDDDDD
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ40.4925µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 3,checksum = 12848,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 4, acknum = -1, checksum = 19272, FEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ43.8325µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 3,checksum = 12848,payload = .....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 24414, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 32.8375, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 32.8375, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 52.8375
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ38.0375µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 24414,payload = CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 32.8375, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 32.8375, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 52.8375
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 3, acknum = -1,checksum = 21843,payload = EDDDDDDDDDDDDDDDDDDD
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ42.6875µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 21843,payload = EDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 32.8375, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 32.8375, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 52.8375
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ47.6375µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 19272,payload = EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 24414, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ45.0825µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 3,checksum = 12848,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+==========
+»¬¶¯Ç°£º
+
+2	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍœçÔ
+3	DDDDDDDDDDDDDDDDDDDD
+ÍÍÍœçÔ
+4	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 40.4925, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 40.4925, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+4	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 3, acknum = -1, checksum = 21843, EDDDDDDDDDDDDDDDDDDD
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ49.6825µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 3,checksum = 12848,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 43.8325, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 43.8325, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 63.8325
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ58.1775µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 19272,payload = EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 45.0825, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 45.0825, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 65.0825
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ61.8675µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 19272,payload = EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ57.7725µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 49.6825, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 49.6825, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 69.6825
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ63.1275µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 19272,payload = EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 4, checksum = 12847, ....................
+==========
+»¬¶¯Ç°£º
+
+4	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 57.7725, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ67.7775µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ73.7075µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ77.5675µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 16701, FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 78.0675, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 98.0675
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ79.5975µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 5, acknum = -1,checksum = 16701,payload = FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 78.595, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 98.595
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ83.3475µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 14130,payload = GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 78.8075, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 98.8075
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 7, acknum = -1,checksum = 11559,payload = HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 79.325, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 99.325
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ85.4275µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 8996,payload = IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 16701, FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºFFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ89.4875µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºGGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ98.6575µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = /....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ102.688µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+==========
+»¬¶¯Ç°£º
+
+5	FFFFFFFFFFFFFFFFFFFF
+ÍÍÍœçÔ
+6	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍœçÔ
+7	HHHHHHHHHHHHHHHHHHHH
+ÍÍÍœçÔ
+0	IIIIIIIIIIIIIIIIIIII
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 89.4875, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+6	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍœçÔ
+7	HHHHHHHHHHHHHHHHHHHH
+ÍÍÍœçÔ
+0	IIIIIIIIIIIIIIIIIIII
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 98.595, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 98.595, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 118.595
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ103.045µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 14130,payload = GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 98.595, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 98.595, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 118.595
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ111.605µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 11559,payload = HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 98.595, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 98.595, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 118.595
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ119.205µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 8996,payload = IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+==========
+»¬¶¯Ç°£º
+
+6	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍœçÔ
+7	HHHHHHHHHHHHHHHHHHHH
+ÍÍÍœçÔ
+0	IIIIIIIIIIIIIIIIIIII
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 102.688, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+7	HHHHHHHHHHHHHHHHHHHH
+ÍÍÍœçÔ
+0	IIIIIIIIIIIIIIIIIIII
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ110.175µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = /....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºHHHHHHHHHHHHHHHHHHHH
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ119.955µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 7,checksum = 12844,payload = .....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 118.595, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 118.595, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 138.595
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ121.395µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 11559,payload = HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 118.595, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 118.595, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 138.595
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ131.955µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 8996,payload = IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 118.595, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 118.595, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 138.595
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ140.975µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 11559,payload = HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 118.595, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 118.595, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 138.595
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ150.775µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 8996,payload = IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºIIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ129.695µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+==========
+»¬¶¯Ç°£º
+
+7	HHHHHHHHHHHHHHHHHHHH
+ÍÍÍœçÔ
+0	IIIIIIIIIIIIIIIIIIII
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 119.955, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+0	IIIIIIIIIIIIIIIIIIII
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ136.125µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 0, checksum = 12851, ....................
+==========
+»¬¶¯Ç°£º
+
+0	IIIIIIIIIIIIIIIIIIII
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 129.695, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ151.895µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ152.955µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = /....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 6425, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 153.135, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 173.135
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ160.545µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 6425,payload = JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 153.26, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 173.26
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ170.965µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 3854,payload = KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 153.268, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 173.268
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ181.755µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 1283,payload = LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 64247, MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 154.335, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 174.335
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ186.745µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 64247,payload = MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 6425, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºJJJJJJJJJJJJJJJJJJJJ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ168.715µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+==========
+»¬¶¯Ç°£º
+
+1	JJJJJJJJJJJJJJJJJJJJ
+ÍÍÍœçÔ
+2	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍœçÔ
+3	LLLLLLLLLLLLLLLLLLLL
+ÍÍÍœçÔ
+4	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 168.715, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+2	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍœçÔ
+3	LLLLLLLLLLLLLLLLLLLL
+ÍÍÍœçÔ
+4	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºKKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -999999, acknum = 2,checksum = 12849,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ180.335µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -999999, acknum = 2,checksum = 12849,payload = .....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 173.26, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 173.26, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 193.26
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ196.695µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 3854,payload = KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 173.26, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 173.26, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 193.26
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ203.575µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 1283,payload = LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 64247, MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 173.26, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 173.26, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 193.26
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ207.795µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 64247,payload = MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºLLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ186.865µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 3,checksum = 12848,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 64247, MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºMMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ190.225µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+==========
+»¬¶¯Ç°£º
+
+2	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍœçÔ
+3	LLLLLLLLLLLLLLLLLLLL
+ÍÍÍœçÔ
+4	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 186.865, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 186.865, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+4	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 4, checksum = 12847, ....................
+==========
+»¬¶¯Ç°£º
+
+4	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 190.225, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ200.115µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ205.035µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 64247, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ218.515µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 61676, NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 218.627, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 238.627
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ224.618µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 5, acknum = -1,checksum = 61676,payload = NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 59105, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 219.155, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 239.155
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ227.317µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 59105,payload = OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 219.667, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 239.667
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ229.998µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 56534,payload = PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 219.77, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 239.77
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ234.817µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 53971,payload = QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 61676, NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºNNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ229.907µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 59105, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºOOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ237.817µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+==========
+»¬¶¯Ç°£º
+
+5	NNNNNNNNNNNNNNNNNNNN
+ÍÍÍœçÔ
+6	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍœçÔ
+7	PPPPPPPPPPPPPPPPPPPP
+ÍÍÍœçÔ
+0	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 229.907, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+6	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍœçÔ
+7	PPPPPPPPPPPPPPPPPPPP
+ÍÍÍœçÔ
+0	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºPPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ245.338µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 7,checksum = 12844,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºQQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ254.588µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+==========
+»¬¶¯Ç°£º
+
+6	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍœçÔ
+7	PPPPPPPPPPPPPPPPPPPP
+ÍÍÍœçÔ
+0	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 237.817, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+7	PPPPPPPPPPPPPPPPPPPP
+ÍÍÍœçÔ
+0	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 239.667, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 239.667, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 259.668
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ243.487µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 56534,payload = PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 239.667, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 239.667, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 259.668
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ249.567µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 53971,payload = QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ255.938µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+==========
+»¬¶¯Ç°£º
+
+7	PPPPPPPPPPPPPPPPPPPP
+ÍÍÍœçÔ
+0	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 245.338, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+0	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ260.168µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 0, checksum = 12851, ....................
+==========
+»¬¶¯Ç°£º
+
+0	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 254.588, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 51400, RRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 261.058, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 281.058
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ271.928µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 51400,payload = RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 261.465, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 281.465
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 2, acknum = -1,checksum = 48829,payload = SSSSSSSSSSSSSSSSSSSS
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 261.483, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 281.483
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ280.538µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 46258,payload = TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 262.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 282.59
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ290.228µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 43687,payload = UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 51400, RRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºRRRRRRRRRRRRRRRRRRRR
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ274.017µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+==========
+»¬¶¯Ç°£º
+
+1	RRRRRRRRRRRRRRRRRRRR
+ÍÍÍœçÔ
+2	SSSSSSSSSSSSSSSSSSSS
+ÍÍÍœçÔ
+3	TTTTTTTTTTTTTTTTTTTT
+ÍÍÍœçÔ
+4	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 274.017, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+2	SSSSSSSSSSSSSSSSSSSS
+ÍÍÍœçÔ
+3	TTTTTTTTTTTTTTTTTTTT
+ÍÍÍœçÔ
+4	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ287.817µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 281.465, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 281.465, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 301.465
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ298.698µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 48829,payload = SSSSSSSSSSSSSSSSSSSS
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 281.465, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 281.465, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 301.465
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ306.668µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 46258,payload = TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 281.465, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 281.465, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 301.465
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ315.638µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 43687,payload = UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 287.817, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 287.817, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 307.817
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ324.588µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 48829,payload = SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 287.817, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 287.817, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 307.817
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ332.658µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 46258,payload = TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 287.817, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 287.817, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 307.817
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ335.528µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 43687,payload = UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ293.948µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 293.948, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 293.948, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 313.948
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ341.988µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 48829,payload = SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 293.948, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 293.948, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 313.948
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ352.498µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 46258,payload = TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 293.948, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 293.948, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 313.948
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ358.118µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 43687,payload = UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºSSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ307.328µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 2,checksum = 12849,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºTTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ315.958µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 3,checksum = 12848,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+==========
+»¬¶¯Ç°£º
+
+2	SSSSSSSSSSSSSSSSSSSS
+ÍÍÍœçÔ
+3	TTTTTTTTTTTTTTTTTTTT
+ÍÍÍœçÔ
+4	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 307.328, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+3	TTTTTTTTTTTTTTTTTTTT
+ÍÍÍœçÔ
+4	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 313.948, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 313.948, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 333.948
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 3, acknum = -1,checksum = 46258,payload = TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 313.948, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 313.948, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 333.948
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ361.568µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 43687,payload = UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 313.948, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 313.948, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 333.948
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ370.688µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 46258,payload = TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 313.948, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 313.948, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 333.948
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ371.798µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 43687,payload = UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºUUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ326.938µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+==========
+»¬¶¯Ç°£º
+
+3	TTTTTTTTTTTTTTTTTTTT
+ÍÍÍœçÔ
+4	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 315.958, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+4	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ328.048µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 4, checksum = 12847, ....................
+==========
+»¬¶¯Ç°£º
+
+4	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 326.938, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ339.188µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ341.428µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ350.648µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ353.928µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ369.848µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ380.538µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ384.268µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 41116, VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 384.528, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 404.528
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ394.778µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 5, acknum = -1,checksum = 41116,payload = VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 385.708, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 405.708
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ401.848µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 38545,payload = WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 386.268, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 406.268
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 7, acknum = -1,checksum = 35974,payload = XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 386.308, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 406.308
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ412.648µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 33411,payload = YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 41116, VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºVVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ403.038µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºWWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ413.288µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+==========
+»¬¶¯Ç°£º
+
+5	VVVVVVVVVVVVVVVVVVVV
+ÍÍÍœçÔ
+6	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍœçÔ
+7	XXXXXXXXXXXXXXXXXXXX
+ÍÍÍœçÔ
+0	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 403.038, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+6	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍœçÔ
+7	XXXXXXXXXXXXXXXXXXXX
+ÍÍÍœçÔ
+0	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 405.708, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 405.708, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 425.708
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ418.368µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 38545,payload = WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 405.708, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 405.708, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 425.708
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 7, acknum = -1,checksum = 35974,payload = XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 405.708, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 405.708, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 425.708
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ419.768µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 33411,payload = YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ416.338µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = /....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+==========
+»¬¶¯Ç°£º
+
+6	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍœçÔ
+7	XXXXXXXXXXXXXXXXXXXX
+ÍÍÍœçÔ
+0	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 413.288, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+7	XXXXXXXXXXXXXXXXXXXX
+ÍÍÍœçÔ
+0	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 6,checksum = 12845,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ425.078µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 425.078, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 425.078, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 445.078
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ433.228µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 35974,payload = XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 425.078, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 425.078, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 445.078
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ439.268µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 33411,payload = YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºXXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ443.788µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 7,checksum = 12844,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºYYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ450.298µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+==========
+»¬¶¯Ç°£º
+
+7	XXXXXXXXXXXXXXXXXXXX
+ÍÍÍœçÔ
+0	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 443.788, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+0	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 445.078, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 445.078, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 465.078
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 0, acknum = -1,checksum = 33411,payload = YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 0, checksum = 12851, ....................
+==========
+»¬¶¯Ç°£º
+
+0	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 450.298, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 30840, ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 450.585, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 470.585
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ455.255µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 30840,payload = ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 451.06, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 471.06
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ463.035µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 29554,payload = AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 26983, BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 452.388, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 472.388
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ469.755µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 26983,payload = BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 452.455, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 472.455
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ474.455µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 24412,payload = CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 30840, ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºAAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ468.165µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 2,checksum = 12849,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+==========
+»¬¶¯Ç°£º
+
+1	ZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍœçÔ
+2	AAAAAAAAAAAAAAAAAAAA
+ÍÍÍœçÔ
+3	BBBBBBBBBBBBBBBBBBBB
+ÍÍÍœçÔ
+4	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 468.165, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 468.165, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+3	BBBBBBBBBBBBBBBBBBBB
+ÍÍÍœçÔ
+4	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 26983, BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºBBBBBBBBBBBBBBBBBBBB
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ471.045µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 3,checksum = 12848,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+==========
+»¬¶¯Ç°£º
+
+3	BBBBBBBBBBBBBBBBBBBB
+ÍÍÍœçÔ
+4	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 471.045, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+4	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 472.455, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 472.455, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 492.455
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ480.665µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 24412,payload = CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºCCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ481.405µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ490.365µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 4, checksum = 12847, ....................
+==========
+»¬¶¯Ç°£º
+
+4	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 481.405, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 21841, DDDDDDDDDDDDDDDDDDDD
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 490.935, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 510.935
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ499.515µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 5, acknum = -1,checksum = 21841,payload = DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 490.978, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 510.978
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ502.365µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 19270,payload = EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 491.385, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 511.385
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ508.385µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 16699,payload = FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 491.693, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 511.693
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ513.655µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 14136,payload = GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 21841, DDDDDDDDDDDDDDDDDDDD
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºDDDDDDDDDDDDDDDDDDDD
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ502.845µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ513.615µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = /....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+==========
+»¬¶¯Ç°£º
+
+5	DDDDDDDDDDDDDDDDDDDD
+ÍÍÍœçÔ
+6	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍœçÔ
+7	FFFFFFFFFFFFFFFFFFFF
+ÍÍÍœçÔ
+0	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 502.845, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+6	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍœçÔ
+7	FFFFFFFFFFFFFFFFFFFF
+ÍÍÍœçÔ
+0	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºFFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ520.225µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 7,checksum = 12844,payload = .....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 510.978, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 510.978, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 530.978
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ515.505µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 19270,payload = EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 510.978, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 510.978, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 530.978
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ522.985µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 16699,payload = FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 510.978, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 510.978, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 530.978
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ524.825µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 14136,payload = GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºGGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ522.725µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ524.275µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+==========
+»¬¶¯Ç°£º
+
+6	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍœçÔ
+7	FFFFFFFFFFFFFFFFFFFF
+ÍÍÍœçÔ
+0	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 520.225, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 520.225, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+0	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 0, checksum = 12851, ....................
+==========
+»¬¶¯Ç°£º
+
+0	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 522.725, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ530.855µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ532.185µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 11565, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 532.985, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 552.985
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ542.535µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 11565,payload = HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 533.14, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 553.14
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ546.385µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 8994,payload = IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 533.728, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 553.728
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ551.645µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 6423,payload = JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 533.883, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 553.883
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ557.375µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 3852,payload = KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 11565, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºHHHHHHHHHHHHHHHHHHHH
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ552.115µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºIIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ562.015µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 2,checksum = 12849,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºJJJJJJJJJJJJJJJJJJJJ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ570.085µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 3,checksum = 12848,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+==========
+»¬¶¯Ç°£º
+
+1	HHHHHHHHHHHHHHHHHHHH
+ÍÍÍœçÔ
+2	IIIIIIIIIIIIIIIIIIII
+ÍÍÍœçÔ
+3	JJJJJJJJJJJJJJJJJJJJ
+ÍÍÍœçÔ
+4	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 552.115, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+2	IIIIIIIIIIIIIIIIIIII
+ÍÍÍœçÔ
+3	JJJJJJJJJJJJJJJJJJJJ
+ÍÍÍœçÔ
+4	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 553.14, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 553.14, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 573.14
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ567.515µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 8994,payload = IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 553.14, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 553.14, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 573.14
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ571.175µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 6423,payload = JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 553.14, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 553.14, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 573.14
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ576.805µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 3852,payload = KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºKKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ576.075µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+==========
+»¬¶¯Ç°£º
+
+2	IIIIIIIIIIIIIIIIIIII
+ÍÍÍœçÔ
+3	JJJJJJJJJJJJJJJJJJJJ
+ÍÍÍœçÔ
+4	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 562.015, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+3	JJJJJJJJJJJJJJJJJJJJ
+ÍÍÍœçÔ
+4	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ580.995µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+==========
+»¬¶¯Ç°£º
+
+3	JJJJJJJJJJJJJJJJJJJJ
+ÍÍÍœçÔ
+4	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 570.085, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+4	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ585.055µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 573.14, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 573.14, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 593.14
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 4, acknum = -1,checksum = 3852,payload = LKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ583.235µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 3852,payload = LKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 4, checksum = 12847, ....................
+==========
+»¬¶¯Ç°£º
+
+4	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 576.075, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ587.925µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 4, acknum = -1, checksum = 3852, LKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ597.685µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = /....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 1281, LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 598.197, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 618.197
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ605.577µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 5, acknum = -1,checksum = 1281,payload = LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 64245, MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 598.477, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 618.477
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 6, acknum = -1,checksum = 64245,payload = MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 599.12, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 619.12
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 7, acknum = -1,checksum = 61674,payload = NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 599.125, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 619.125
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 0, acknum = -999999,checksum = 59111,payload = OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ608.408µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -999999,checksum = 59111,payload = OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 1281, LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºLLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ613.447µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 0, acknum = -999999, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ617.528µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+==========
+»¬¶¯Ç°£º
+
+5	LLLLLLLLLLLLLLLLLLLL
+ÍÍÍœçÔ
+6	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍœçÔ
+7	NNNNNNNNNNNNNNNNNNNN
+ÍÍÍœçÔ
+0	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 613.447, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+6	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍœçÔ
+7	NNNNNNNNNNNNNNNNNNNN
+ÍÍÍœçÔ
+0	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍœçÔ
+==========
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 617.528, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 617.528, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 637.528
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -999999, acknum = -1,checksum = 64245,payload = MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ622.158µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = -999999, acknum = -1,checksum = 64245,payload = MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 617.528, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 617.528, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 637.528
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ631.327µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 61674,payload = NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 617.528, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 617.528, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 637.528
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ632.678µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 59111,payload = OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = -999999, acknum = -1, checksum = 64245, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ628.508µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 628.508, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 628.508, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 648.508
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ637.418µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 64245,payload = MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 628.508, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 628.508, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 648.508
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ643.317µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 61674,payload = NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 628.508, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 628.508, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 648.508
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 0, acknum = -1,checksum = 59111,payload = OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ632.957µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ635.457µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 632.957, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 632.957, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 652.957
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ644.367µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 64245,payload = MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 632.957, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 632.957, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 652.957
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -999999, acknum = -1,checksum = 61674,payload = NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ651.907µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = -999999, acknum = -1,checksum = 61674,payload = NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 632.957, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 632.957, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 652.957
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ662.757µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 59111,payload = OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 635.457, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 635.457, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 655.457
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ671.047µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 64245,payload = MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 635.457, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 635.457, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 655.457
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 7, acknum = -1,checksum = 61674,payload = ONNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ681.957µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 61674,payload = ONNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 635.457, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 635.457, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 655.457
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ686.847µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 59111,payload = OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 64245, MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºMMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ640.168µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+==========
+»¬¶¯Ç°£º
+
+6	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍœçÔ
+7	NNNNNNNNNNNNNNNNNNNN
+ÍÍÍœçÔ
+0	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 640.168, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+7	NNNNNNNNNNNNNNNNNNNN
+ÍÍÍœçÔ
+0	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºNNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ649.798µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 7,checksum = 12844,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 64245, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ657.248µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 7,checksum = 12844,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+==========
+»¬¶¯Ç°£º
+
+7	NNNNNNNNNNNNNNNNNNNN
+ÍÍÍœçÔ
+0	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 649.798, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+0	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = -999999, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ666.808µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 7,checksum = 12844,payload = .....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 655.457, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 655.457, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 675.457
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ695.917µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 59111,payload = OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 657.248, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 657.248, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 677.248
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ699.267µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 59111,payload = OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºOOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -999999, acknum = 0,checksum = 12851,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ671.498µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -999999, acknum = 0,checksum = 12851,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 666.808, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 666.808, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 686.808
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ709.277µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 59111,payload = OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 64245, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ681.658µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 0, checksum = 12851, ....................
+==========
+»¬¶¯Ç°£º
+
+0	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 681.658, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 7, acknum = -1, checksum = 61674, ONNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ685.127µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ697.037µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ707.857µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ713.947µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ719.087µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 56540, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 719.497, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 739.497
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ729.147µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 56540,payload = PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 53969, QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 719.642, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 739.642
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ734.747µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 53969,payload = QQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 720.17, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 740.17
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ740.277µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 51398,payload = RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 720.385, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 740.385
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ746.347µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 48827,payload = SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 56540, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºPPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ738.277µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 53969, QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºQQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ747.497µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 2,checksum = 12849,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+==========
+»¬¶¯Ç°£º
+
+1	PPPPPPPPPPPPPPPPPPPP
+ÍÍÍœçÔ
+2	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍœçÔ
+3	RRRRRRRRRRRRRRRRRRRR
+ÍÍÍœçÔ
+4	SSSSSSSSSSSSSSSSSSSS
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 738.277, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+2	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍœçÔ
+3	RRRRRRRRRRRRRRRRRRRR
+ÍÍÍœçÔ
+4	SSSSSSSSSSSSSSSSSSSS
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 53969, QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 739.642, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 739.642, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 759.642
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ750.428µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 53969,payload = QQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 739.642, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 739.642, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 759.642
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 3, acknum = -1,checksum = 51398,payload = SRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ757.518µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 51398,payload = SRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 739.642, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 739.642, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 759.642
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ763.398µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 48827,payload = SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºRRRRRRRRRRRRRRRRRRRR
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ757.787µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 3,checksum = 12848,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºSSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ764.847µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+==========
+»¬¶¯Ç°£º
+
+2	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍœçÔ
+3	RRRRRRRRRRRRRRRRRRRR
+ÍÍÍœçÔ
+4	SSSSSSSSSSSSSSSSSSSS
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 747.497, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+3	RRRRRRRRRRRRRRRRRRRR
+ÍÍÍœçÔ
+4	SSSSSSSSSSSSSSSSSSSS
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 53969, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ768.947µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 3, acknum = -1, checksum = 51398, SRRRRRRRRRRRRRRRRRRR
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ779.417µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+==========
+»¬¶¯Ç°£º
+
+3	RRRRRRRRRRRRRRRRRRRR
+ÍÍÍœçÔ
+4	SSSSSSSSSSSSSSSSSSSS
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 757.787, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+4	SSSSSSSSSSSSSSSSSSSS
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 759.642, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 759.642, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 779.642
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ770.998µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 48827,payload = SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ781.387µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 4, checksum = 12847, ....................
+==========
+»¬¶¯Ç°£º
+
+4	SSSSSSSSSSSSSSSSSSSS
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 764.847, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ790.827µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 46256, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 791.082, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 811.082
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ801.183µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 5, acknum = -1,checksum = 46256,payload = TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 791.472, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 811.472
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 6, acknum = -1,checksum = 43685,payload = UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 41114, VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 791.96, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 811.96
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ807.492µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 41114,payload = VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 792.645, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 812.645
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 0, acknum = -1,checksum = 38551,payload = XWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ809.422µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 38551,payload = XWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 46256, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºTTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ811.393µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 41114, VVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 0, acknum = -1, checksum = 38551, XWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ819.923µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 46256, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 811.082, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 811.082, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 831.082
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ813.222µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 5, acknum = -1,checksum = 46256,payload = TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 811.082, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 811.082, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 831.082
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ818.072µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 43685,payload = UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 41114, VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 811.082, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 811.082, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 831.082
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ825.382µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 41114,payload = VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 811.082, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 811.082, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 831.082
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ829.972µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 38551,payload = WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+==========
+»¬¶¯Ç°£º
+
+5	TTTTTTTTTTTTTTTTTTTT
+ÍÍÍœçÔ
+6	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍœçÔ
+7	VVVVVVVVVVVVVVVVVVVV
+ÍÍÍœçÔ
+0	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 811.393, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+6	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍœçÔ
+7	VVVVVVVVVVVVVVVVVVVV
+ÍÍÍœçÔ
+0	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 5, acknum = -1, checksum = 46256, TTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ827.663µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºUUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ831.683µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 819.923, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 819.923, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 839.923
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ832.442µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 43685,payload = UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 819.923, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 819.923, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 839.923
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ837.572µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 41114,payload = VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 819.923, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 819.923, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 839.923
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ841.972µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 38551,payload = WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 41114, VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºVVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ833.322µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 7,checksum = 12844,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 827.663, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 827.663, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 847.663
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -999999, acknum = -1,checksum = 43685,payload = UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ850.082µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = -999999, acknum = -1,checksum = 43685,payload = UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 827.663, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 827.663, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 847.663
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 7, acknum = -1,checksum = 41114,payload = WVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ855.773µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 41114,payload = WVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 827.663, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 827.663, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 847.663
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ865.033µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 38551,payload = WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºWWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ840.382µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+==========
+»¬¶¯Ç°£º
+
+6	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍœçÔ
+7	VVVVVVVVVVVVVVVVVVVV
+ÍÍÍœçÔ
+0	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 831.683, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+7	VVVVVVVVVVVVVVVVVVVV
+ÍÍÍœçÔ
+0	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ849.852µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+==========
+»¬¶¯Ç°£º
+
+7	VVVVVVVVVVVVVVVVVVVV
+ÍÍÍœçÔ
+0	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 833.322, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+0	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 41114, VVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ859.342µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 0, checksum = 12851, ....................
+==========
+»¬¶¯Ç°£º
+
+0	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 840.382, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ863.322µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = -999999, acknum = -1, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ871.803µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 7, acknum = -1, checksum = 41114, WVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ881.873µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ890.123µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 35980, XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 890.515, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 910.515
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ901.065µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 35980,payload = XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 33409, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 890.558, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 910.558
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ905.665µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 33409,payload = YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 890.83, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 910.83
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ912.695µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 30838,payload = ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 891.545, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 911.545
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ920.615µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 29552,payload = AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 35980, XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºXXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ902.705µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+==========
+»¬¶¯Ç°£º
+
+1	XXXXXXXXXXXXXXXXXXXX
+ÍÍÍœçÔ
+2	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍœçÔ
+3	ZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍœçÔ
+4	AAAAAAAAAAAAAAAAAAAA
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 902.705, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+2	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍœçÔ
+3	ZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍœçÔ
+4	AAAAAAAAAAAAAAAAAAAA
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 33409, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºYYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ908.265µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 2,checksum = 12849,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+==========
+»¬¶¯Ç°£º
+
+2	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍœçÔ
+3	ZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍœçÔ
+4	AAAAAAAAAAAAAAAAAAAA
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 908.265, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+3	ZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍœçÔ
+4	AAAAAAAAAAAAAAAAAAAA
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 910.83, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 910.83, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 930.83
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ927.265µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 30838,payload = ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 910.83, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 910.83, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 930.83
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ933.835µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 29552,payload = AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ915.325µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 3,checksum = 12848,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+==========
+»¬¶¯Ç°£º
+
+3	ZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍœçÔ
+4	AAAAAAAAAAAAAAAAAAAA
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 915.325, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+4	AAAAAAAAAAAAAAAAAAAA
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºAAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ928.215µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ929.445µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 4, checksum = 12847, ....................
+==========
+»¬¶¯Ç°£º
+
+4	AAAAAAAAAAAAAAAAAAAA
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 928.215, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 26981, BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 934.278, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 954.278
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ937.878µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 5, acknum = -1,checksum = 26981,payload = BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 24410, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 934.928, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 954.928
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ943.428µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 24410,payload = CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 21839, DDDDDDDDDDDDDDDDDDDD
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 935.003, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 955.003
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ951.308µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 21839,payload = DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 935.04, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 955.04
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ961.388µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 19276,payload = EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 26981, BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºBBBBBBBBBBBBBBBBBBBB
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ942.508µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+==========
+»¬¶¯Ç°£º
+
+5	BBBBBBBBBBBBBBBBBBBB
+ÍÍÍœçÔ
+6	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍœçÔ
+7	DDDDDDDDDDDDDDDDDDDD
+ÍÍÍœçÔ
+0	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 942.508, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+6	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍœçÔ
+7	DDDDDDDDDDDDDDDDDDDD
+ÍÍÍœçÔ
+0	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 24410, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºCCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ951.457µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 21839, DDDDDDDDDDDDDDDDDDDD
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºDDDDDDDDDDDDDDDDDDDD
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ953.827µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 7,checksum = 12844,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+==========
+»¬¶¯Ç°£º
+
+6	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍœçÔ
+7	DDDDDDDDDDDDDDDDDDDD
+ÍÍÍœçÔ
+0	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 951.457, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+7	DDDDDDDDDDDDDDDDDDDD
+ÍÍÍœçÔ
+0	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+==========
+»¬¶¯Ç°£º
+
+7	DDDDDDDDDDDDDDDDDDDD
+ÍÍÍœçÔ
+0	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 953.827, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+0	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 955.04, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 955.04, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 975.04
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ963.288µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 19276,payload = EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ971.638µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ977.778µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = /....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 0, checksum = 12851, ....................
+==========
+»¬¶¯Ç°£º
+
+0	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 971.638, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 16705, FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 978.12, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 998.12
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 1, acknum = -1,checksum = 16705,payload = GFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ982.71µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 16705,payload = GFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 14134, GGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 978.773, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 998.773
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ985.22µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 14134,payload = GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 979.082, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 999.082
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ995.46µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 11563,payload = HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 979.498, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 999.498
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1002.38µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 8992,payload = IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 1, acknum = -1, checksum = 16705, GFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ987.55µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = /....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 14134, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ992.51µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 992.51, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 992.51, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1012.51
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1006.2µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 16705,payload = FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 992.51, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 992.51, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1012.51
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1016.66µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 14134,payload = GGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 992.51, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 992.51, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1012.51
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1027.11µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 11563,payload = HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 992.51, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 992.51, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1012.51
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1028.82µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 8992,payload = IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1001.87µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1001.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1001.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1021.87
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1030.24µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 16705,payload = FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1001.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1001.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1021.87
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 2, acknum = -1,checksum = 14134,payload = HGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1031.42µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 14134,payload = HGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1001.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1001.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1021.87
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1034.83µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 11563,payload = HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1001.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1001.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1021.87
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1045.51µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 8992,payload = IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1010.59µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 16705, FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºFFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1013.3µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1010.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1010.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1030.59
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 1, acknum = -1,checksum = 16705,payload = GFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1054.17µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 16705,payload = GFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1010.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1010.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1030.59
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1060.91µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 14134,payload = GGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1010.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1010.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1030.59
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 3, acknum = -1,checksum = 11563,payload = IHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1066.11µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 11563,payload = IHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1010.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1010.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1030.59
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 4, acknum = -1,checksum = 8992,payload = IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+==========
+»¬¶¯Ç°£º
+
+1	FFFFFFFFFFFFFFFFFFFF
+ÍÍÍœçÔ
+2	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍœçÔ
+3	HHHHHHHHHHHHHHHHHHHH
+ÍÍÍœçÔ
+4	IIIIIIIIIIIIIIIIIIII
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1013.3, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+2	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍœçÔ
+3	HHHHHHHHHHHHHHHHHHHH
+ÍÍÍœçÔ
+4	IIIIIIIIIIIIIIIIIIII
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 14134, GGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºGGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1022.12µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 2,checksum = 12849,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+==========
+»¬¶¯Ç°£º
+
+2	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍœçÔ
+3	HHHHHHHHHHHHHHHHHHHH
+ÍÍÍœçÔ
+4	IIIIIIIIIIIIIIIIIIII
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1022.12, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+3	HHHHHHHHHHHHHHHHHHHH
+ÍÍÍœçÔ
+4	IIIIIIIIIIIIIIIIIIII
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºHHHHHHHHHHHHHHHHHHHH
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 3,checksum = 12848,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºIIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1035.53µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 1, acknum = -1, checksum = 16705, FFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1037.03µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1030.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1030.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1050.59
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1069.18µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 11563,payload = HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1030.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1030.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1050.59
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1071.26µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 8992,payload = IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1030.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1030.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1050.59
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1079.01µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 11563,payload = HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1030.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1030.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1050.59
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1088.21µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 8992,payload = IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 2, acknum = -1, checksum = 14134, HGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1045.53µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1052.92µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 4, checksum = 12847, ....................
+==========
+»¬¶¯Ç°£º
+
+3	HHHHHHHHHHHHHHHHHHHH
+ÍÍÍœçÔ
+4	IIIIIIIIIIIIIIIIIIII
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1035.53, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1035.53, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1062.78µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 1, acknum = -1, checksum = 16705, GFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1067.98µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 14134, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1076.26µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 3, acknum = -1, checksum = 11563, IHHHHHHHHHHHHHHHHHHH
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1083.73µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1090.14µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1092.04µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = /....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 6421, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1092.2, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1112.2
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1098.09µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 5, acknum = -1,checksum = 6421,payload = JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1092.47, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1112.47
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 6, acknum = -1,checksum = 3850,payload = LKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1105.75µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 3850,payload = LKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1093.6, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1113.6
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1107.29µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 1279,payload = LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1094.3, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1114.3
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1112.13µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 64251,payload = MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 6421, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºJJJJJJJJJJJJJJJJJJJJ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1107.73µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = /....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 6, acknum = -1, checksum = 3850, LKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1112.63µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = /....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1116.33µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 6421, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1112.2, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1112.2, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1132.2
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 5, acknum = -1,checksum = 6421,payload = JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1112.2, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1112.2, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1132.2
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -999999, acknum = -1,checksum = 3850,payload = KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1116.65µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = -999999, acknum = -1,checksum = 3850,payload = KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1112.2, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1112.2, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1132.2
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1119.76µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 1279,payload = LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1112.2, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1112.2, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1132.2
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1129.68µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 64251,payload = MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+==========
+»¬¶¯Ç°£º
+
+5	JJJJJJJJJJJJJJJJJJJJ
+ÍÍÍœçÔ
+6	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍœçÔ
+7	LLLLLLLLLLLLLLLLLLLL
+ÍÍÍœçÔ
+0	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1116.33, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+6	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍœçÔ
+7	LLLLLLLLLLLLLLLLLLLL
+ÍÍÍœçÔ
+0	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = -999999, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1120.59µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1127.34µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1120.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1120.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1140.59
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 6, acknum = -1,checksum = 3850,payload = LKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1139.57µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 3850,payload = LKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1120.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1120.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1140.59
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1145.9µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 1279,payload = LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1120.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1120.59, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1140.59
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1154.18µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 64251,payload = MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1127.34, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1127.34, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1147.34
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 6, acknum = -1,checksum = 3850,payload = LKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1158.68µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 3850,payload = LKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1127.34, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1127.34, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1147.34
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1159.97µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 1279,payload = LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1127.34, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1127.34, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1147.34
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1167.08µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 64251,payload = MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1134.31µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1134.31, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1134.31, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1154.31
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1168.65µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 3850,payload = KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1134.31, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1134.31, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1154.31
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1169.71µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 1279,payload = LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1134.31, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1134.31, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1154.31
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1171.7µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 64251,payload = MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 6, acknum = -1, checksum = 3850, LKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1141.15µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1141.15, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1141.15, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1161.15
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1181.67µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 3850,payload = KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1141.15, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1141.15, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1161.15
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 7, acknum = -1,checksum = 1279,payload = MLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1188.45µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 1279,payload = MLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1141.15, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1141.15, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1161.15
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1198.33µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 64251,payload = MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1153.88µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1153.88, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1153.88, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1173.88
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1200.25µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 3850,payload = KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1153.88, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1153.88, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1173.88
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1201.6µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 1279,payload = LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1153.88, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1153.88, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1173.88
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1212.51µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 64251,payload = MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1160.79µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 6, acknum = -1, checksum = 3850, LKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1166.61µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1176.89µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1160.79, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1160.79, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1180.79
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1222.8µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 3850,payload = KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1160.79, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1160.79, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1180.79
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1225.76µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 1279,payload = LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1160.79, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1160.79, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1180.79
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1230.84µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 64251,payload = MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1166.61, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1166.61, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1186.61
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1239.58µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 3850,payload = KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1166.61, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1166.61, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1186.61
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 7, acknum = -1,checksum = 1279,payload = LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1166.61, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1166.61, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1186.61
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1244.53µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 64251,payload = MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1180.18µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºKKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1184.31µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºLLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1193.57µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 7,checksum = 12844,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºMMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1198.84µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1176.89, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1176.89, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1196.89
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1247.32µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 3850,payload = KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1176.89, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1176.89, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1196.89
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -999999, acknum = -1,checksum = 1279,payload = LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1256.15µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = -999999, acknum = -1,checksum = 1279,payload = LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1176.89, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1176.89, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1196.89
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1259.71µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 64251,payload = MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1180.18, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1180.18, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1200.18
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1266.74µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 3850,payload = KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1180.18, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1180.18, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1200.18
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1276.72µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 1279,payload = LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1180.18, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1180.18, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1200.18
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1279.09µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 64251,payload = MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1204.95µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+==========
+»¬¶¯Ç°£º
+
+6	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍœçÔ
+7	LLLLLLLLLLLLLLLLLLLL
+ÍÍÍœçÔ
+0	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1184.31, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+7	LLLLLLLLLLLLLLLLLLLL
+ÍÍÍœçÔ
+0	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 7, acknum = -1, checksum = 1279, MLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1206.4µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = /....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+==========
+»¬¶¯Ç°£º
+
+7	LLLLLLLLLLLLLLLLLLLL
+ÍÍÍœçÔ
+0	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1193.57, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+0	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1207.57µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 0, checksum = 12851, ....................
+==========
+»¬¶¯Ç°£º
+
+0	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1198.84, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1216.3µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1219.93µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1228.27µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1238.07µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1244.68µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1250.42µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1257.99µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1262.4µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1265.6µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = -999999, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1271.53µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1280.08µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1283.45µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1292.27µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 61680, NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1292.29, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1312.29
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 1, acknum = -1,checksum = 61680,payload = NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 59109, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1293.44, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1313.44
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1297.62µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 59109,payload = OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1293.88, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1313.88
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1301.44µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 56538,payload = PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1293.96, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1313.96
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1309.54µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 53967,payload = QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 59109, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1301.07µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1301.07, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1301.07, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1321.07
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1315.11µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 61680,payload = NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1301.07, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1301.07, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1321.07
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 2, acknum = -1,checksum = 59109,payload = POOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1318.41µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 59109,payload = POOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1301.07, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1301.07, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1321.07
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1320.22µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 56538,payload = PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1301.07, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1301.07, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1321.07
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1328.85µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 53967,payload = QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1305.7µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1305.7, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1305.7, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1325.7
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1336.43µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 61680,payload = NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1305.7, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1305.7, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1325.7
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1345.84µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 59109,payload = OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1305.7, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1305.7, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1325.7
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1353.12µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 56538,payload = PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1305.7, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1305.7, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1325.7
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1362.29µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 53967,payload = QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1317.22µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 61680, NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºNNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1323.28µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1317.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1317.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1337.22
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 1, acknum = -1,checksum = 61680,payload = NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1317.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1317.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1337.22
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1364.06µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 59109,payload = OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1317.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1317.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1337.22
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1372.75µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 56538,payload = PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1317.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1317.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1337.22
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1379.13µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 53967,payload = QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 2, acknum = -1, checksum = 59109, POOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1331.29µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+==========
+»¬¶¯Ç°£º
+
+1	NNNNNNNNNNNNNNNNNNNN
+ÍÍÍœçÔ
+2	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍœçÔ
+3	PPPPPPPPPPPPPPPPPPPP
+ÍÍÍœçÔ
+4	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1323.28, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+2	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍœçÔ
+3	PPPPPPPPPPPPPPPPPPPP
+ÍÍÍœçÔ
+4	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1341.86µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1331.29, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1331.29, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1351.29
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1388.91µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 59109,payload = OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1331.29, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1331.29, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1351.29
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1392.35µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 56538,payload = PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1331.29, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1331.29, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1351.29
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1398.78µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 53967,payload = QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 1, acknum = -1, checksum = 61680, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1345.09µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1341.86, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1341.86, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1361.86
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1401.95µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 59109,payload = OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1341.86, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1341.86, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1361.86
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1403.96µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 56538,payload = PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1341.86, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1341.86, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1361.86
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1411.3µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 53967,payload = QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1345.09, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1345.09, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1365.09
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 2, acknum = -1,checksum = 59109,payload = POOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1415.71µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 59109,payload = POOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1345.09, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1345.09, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1365.09
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1424.97µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 56538,payload = PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1345.09, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1345.09, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1365.09
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1429.27µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 53967,payload = QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 59109, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºOOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1354.68µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 2,checksum = 12849,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºPPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 3,checksum = 12848,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1364.68µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 3,checksum = 12848,payload = /....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+==========
+»¬¶¯Ç°£º
+
+2	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍœçÔ
+3	PPPPPPPPPPPPPPPPPPPP
+ÍÍÍœçÔ
+4	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1354.68, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+3	PPPPPPPPPPPPPPPPPPPP
+ÍÍÍœçÔ
+4	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºQQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1366.72µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 59109, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1371.41µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1365.09, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1365.09, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1385.09
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1437.15µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 56538,payload = PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1365.09, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1365.09, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1385.09
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1441.98µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 53967,payload = QQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1365.09, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1365.09, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1385.09
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1447.7µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 56538,payload = PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1365.09, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1365.09, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1385.09
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1448.79µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 53967,payload = QQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 4, checksum = 12847, ....................
+==========
+»¬¶¯Ç°£º
+
+3	PPPPPPPPPPPPPPPPPPPP
+ÍÍÍœçÔ
+4	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1366.72, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1366.72, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1377.93µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1384.62µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 59109, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1391.31µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -999999, acknum = 4,checksum = 12847,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1403.01µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -999999, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 59109, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1412.38µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1421.29µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1427.57µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 2, acknum = -1, checksum = 59109, POOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1436.66µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1445.75µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1452.39µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1457.66µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1460.34µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1463.32µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1465.51µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1465.69, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1485.69
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 5, acknum = -1,checksum = 51396,payload = RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 48825, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1465.75, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1485.75
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1476.27µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 48825,payload = SSSSSSSSSSSSSSSSSSSS
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1466.08, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1486.08
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1478.56µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 46254,payload = TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1466.84, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1486.84
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1487.73µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 43691,payload = UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 48825, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1482.6µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1493.58µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1482.6, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1482.6, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1502.6
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1494.73µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 5, acknum = -1,checksum = 51396,payload = RRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1482.6, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1482.6, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1502.6
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1501.17µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 48825,payload = SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1482.6, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1482.6, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1502.6
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1505.71µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 46254,payload = TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1482.6, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1482.6, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1502.6
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 0, acknum = -1,checksum = 43691,payload = UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1502.71µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1493.58, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1493.58, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1513.58
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1508.23µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 5, acknum = -1,checksum = 51396,payload = RRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1493.58, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1493.58, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1513.58
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1513.34µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 48825,payload = SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1493.58, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1493.58, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1513.58
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1522.13µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 46254,payload = TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1493.58, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1493.58, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1513.58
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1532.28µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 43691,payload = UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºRRRRRRRRRRRRRRRRRRRR
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 48825, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºSSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1508.21µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1502.71, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1502.71, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1522.71
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1535.84µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 5, acknum = -1,checksum = 51396,payload = RRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1502.71, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1502.71, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1522.71
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1543.08µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 48825,payload = SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1502.71, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1502.71, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1522.71
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1554.06µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 46254,payload = TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1502.71, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1502.71, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1522.71
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1556.21µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 43691,payload = UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºTTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1509.27µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 7,checksum = 12844,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+==========
+»¬¶¯Ç°£º
+
+5	RRRRRRRRRRRRRRRRRRRR
+ÍÍÍœçÔ
+6	SSSSSSSSSSSSSSSSSSSS
+ÍÍÍœçÔ
+7	TTTTTTTTTTTTTTTTTTTT
+ÍÍÍœçÔ
+0	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1508.21, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1508.21, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+7	TTTTTTTTTTTTTTTTTTTT
+ÍÍÍœçÔ
+0	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 5, acknum = -1, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1512.74µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 7,checksum = 12844,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+==========
+»¬¶¯Ç°£º
+
+7	TTTTTTTTTTTTTTTTTTTT
+ÍÍÍœçÔ
+0	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1509.27, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+0	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍœçÔ
+==========
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1512.74, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1512.74, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1532.74
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1560.25µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 43691,payload = UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 48825, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 7,checksum = 12844,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1524.52µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 7,checksum = 12844,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1524.52, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1524.52, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1544.52
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1569.88µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 43691,payload = UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºUUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -999999, acknum = 0,checksum = 12851,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1533.46µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -999999, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 5, acknum = -1, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1537.55µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 0, checksum = 12851, ....................
+==========
+»¬¶¯Ç°£º
+
+0	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1537.55, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 48825, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1544.7µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1562.8µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1567.49µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1570.38µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1573.71µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 41120, VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1574.16, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1594.16
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1583.28µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 41120,payload = VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 38549, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1574.5, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1594.5
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 2, acknum = -1,checksum = 38549,payload = XWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1584.48µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 38549,payload = XWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1574.8, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1594.8
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1587.12µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 35978,payload = XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1575.96, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1595.96
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 4, acknum = -1,checksum = 33407,payload = ZYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1594.45µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 33407,payload = ZYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 41120, VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºVVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1586.14µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 2, acknum = -1, checksum = 38549, XWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1587.99µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+==========
+»¬¶¯Ç°£º
+
+1	VVVVVVVVVVVVVVVVVVVV
+ÍÍÍœçÔ
+2	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍœçÔ
+3	XXXXXXXXXXXXXXXXXXXX
+ÍÍÍœçÔ
+4	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1586.14, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+2	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍœçÔ
+3	XXXXXXXXXXXXXXXXXXXX
+ÍÍÍœçÔ
+4	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1589.39µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1587.99, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1587.99, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1607.99
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1595.52µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 38549,payload = WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1587.99, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1587.99, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1607.99
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1604.61µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 35978,payload = XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1587.99, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1587.99, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1607.99
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1614.96µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 33407,payload = YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1589.39, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1589.39, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1609.39
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 2, acknum = -1,checksum = 38549,payload = WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1589.39, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1589.39, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1609.39
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1624.48µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 35978,payload = XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1589.39, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1589.39, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1609.39
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 4, acknum = -1,checksum = 33407,payload = ZYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1626.96µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 33407,payload = ZYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 4, acknum = -1, checksum = 33407, ZYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1598.86µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = /....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 38549, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºWWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1604.24µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 2,checksum = 12849,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+==========
+»¬¶¯Ç°£º
+
+2	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍœçÔ
+3	XXXXXXXXXXXXXXXXXXXX
+ÍÍÍœçÔ
+4	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1604.24, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+3	XXXXXXXXXXXXXXXXXXXX
+ÍÍÍœçÔ
+4	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºXXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1615.49µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 3,checksum = 12848,payload = .....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1609.39, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1609.39, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1629.39
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1631.59µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 35978,payload = XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1609.39, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1609.39, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1629.39
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1639.11µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 33407,payload = YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1609.39, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1609.39, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1629.39
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1640.85µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 35978,payload = XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1609.39, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1609.39, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1629.39
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1650.24µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 33407,payload = YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºYYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1623.3µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+==========
+»¬¶¯Ç°£º
+
+3	XXXXXXXXXXXXXXXXXXXX
+ÍÍÍœçÔ
+4	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1615.49, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+4	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 4, checksum = 12847, ....................
+==========
+»¬¶¯Ç°£º
+
+4	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1623.3, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1627.61µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 4, acknum = -1, checksum = 33407, ZYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1632.23µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1640.53µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = /....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1649.97µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1659.93µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = /....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 30836, ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1660.42, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1680.42
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 5, acknum = -1,checksum = 30836,payload = ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1660.48, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1680.48
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1661.96µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 29550,payload = AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1661.04, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1681.04
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 7, acknum = -1,checksum = 26979,payload = CBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1670.14µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 26979,payload = CBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1661.44, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1681.44
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1678.37µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 24416,payload = CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1671.68µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 7, acknum = -1, checksum = 26979, CBBBBBBBBBBBBBBBBBBB
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1674.28µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1671.68, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1671.68, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1691.68
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1689.34µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 5, acknum = -1,checksum = 30836,payload = ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1671.68, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1671.68, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1691.68
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1690.67µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 29550,payload = AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1671.68, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1671.68, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1691.68
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1701.2µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 26979,payload = BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1671.68, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1671.68, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1691.68
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1703.14µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 24416,payload = CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1674.28, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1674.28, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1694.28
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1704.3µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 5, acknum = -1,checksum = 30836,payload = ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1674.28, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1674.28, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1694.28
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1708.84µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 29550,payload = AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1674.28, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1674.28, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1694.28
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1712µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 26979,payload = BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1674.28, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1674.28, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1694.28
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1722.24µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 24416,payload = CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1688.87µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1688.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1688.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1708.87
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 5, acknum = -1,checksum = 30836,payload = ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1688.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1688.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1708.87
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1727.68µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 29550,payload = AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1688.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1688.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1708.87
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1732.9µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 26979,payload = BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1688.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1688.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1708.87
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1737.26µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 24416,payload = CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 30836, ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1690.91µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºAAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1695.52µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+==========
+»¬¶¯Ç°£º
+
+5	ZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍœçÔ
+6	AAAAAAAAAAAAAAAAAAAA
+ÍÍÍœçÔ
+7	BBBBBBBBBBBBBBBBBBBB
+ÍÍÍœçÔ
+0	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1690.91, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+6	AAAAAAAAAAAAAAAAAAAA
+ÍÍÍœçÔ
+7	BBBBBBBBBBBBBBBBBBBB
+ÍÍÍœçÔ
+0	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+==========
+»¬¶¯Ç°£º
+
+6	AAAAAAAAAAAAAAAAAAAA
+ÍÍÍœçÔ
+7	BBBBBBBBBBBBBBBBBBBB
+ÍÍÍœçÔ
+0	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1695.52, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+7	BBBBBBBBBBBBBBBBBBBB
+ÍÍÍœçÔ
+0	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºBBBBBBBBBBBBBBBBBBBB
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1709.46µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 7,checksum = 12844,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºCCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1716.03µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = /....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 5, acknum = -1, checksum = 30836, ZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1723.53µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1734.01µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1708.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1708.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1728.87
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1741.51µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 26979,payload = BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1708.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1708.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1728.87
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 0, acknum = -1,checksum = 24416,payload = CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1708.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1708.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1728.87
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1745.84µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 26979,payload = BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1708.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1708.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1728.87
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1747.08µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 24416,payload = CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+==========
+»¬¶¯Ç°£º
+
+7	BBBBBBBBBBBBBBBBBBBB
+ÍÍÍœçÔ
+0	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1709.46, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+0	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1741.86µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1744.75µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 0, checksum = 12851, ....................
+==========
+»¬¶¯Ç°£º
+
+0	CCCCCCCCCCCCCCCCCCCC
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1723.53, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1755.65µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1757.2µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1767.07µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1777.39µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1781.08µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1783.16µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 21845, DDDDDDDDDDDDDDDDDDDD
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1783.75, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1803.75
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1788.44µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 21845,payload = DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1783.86, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1803.86
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -999999, acknum = -1,checksum = 19274,payload = EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1795.03µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = -999999, acknum = -1,checksum = 19274,payload = EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1784.56, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1804.56
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1805.49µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 16703,payload = FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1784.64, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1804.64
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1813.86µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 14132,payload = GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 21845, DDDDDDDDDDDDDDDDDDDD
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºDDDDDDDDDDDDDDDDDDDD
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1796.04µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = -999999, acknum = -1, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1802.06µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+==========
+»¬¶¯Ç°£º
+
+1	DDDDDDDDDDDDDDDDDDDD
+ÍÍÍœçÔ
+2	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍœçÔ
+3	FFFFFFFFFFFFFFFFFFFF
+ÍÍÍœçÔ
+4	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1796.04, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+2	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍœçÔ
+3	FFFFFFFFFFFFFFFFFFFF
+ÍÍÍœçÔ
+4	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍœçÔ
+==========
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1802.06, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1802.06, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1822.06
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1815.15µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 19274,payload = EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1802.06, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1802.06, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1822.06
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1821.12µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 16703,payload = FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1802.06, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1802.06, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1822.06
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1823.42µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 14132,payload = GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1812.12µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1812.12, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1812.12, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1832.12
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1830.73µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 19274,payload = EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1812.12, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1812.12, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1832.12
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1836.3µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 16703,payload = FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1812.12, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1812.12, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1832.12
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 4, acknum = -1,checksum = 14132,payload = GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1815.12µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = /....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1817.95µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 2,checksum = 12849,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+==========
+»¬¶¯Ç°£º
+
+2	EEEEEEEEEEEEEEEEEEEE
+ÍÍÍœçÔ
+3	FFFFFFFFFFFFFFFFFFFF
+ÍÍÍœçÔ
+4	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1817.95, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+3	FFFFFFFFFFFFFFFFFFFF
+ÍÍÍœçÔ
+4	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºFFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1825.12µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 3,checksum = 12848,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºGGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1827.07µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+==========
+»¬¶¯Ç°£º
+
+3	FFFFFFFFFFFFFFFFFFFF
+ÍÍÍœçÔ
+4	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1825.12, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+4	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 4, checksum = 12847, ....................
+==========
+»¬¶¯Ç°£º
+
+4	GGGGGGGGGGGGGGGGGGGG
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1827.07, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1832.38µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1845.56µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 11561, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1845.57, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1865.57
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1855.91µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 5, acknum = -1,checksum = 11561,payload = HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1846.91, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1866.91
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1857.05µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 8990,payload = IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1847.28, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1867.28
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1859.52µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 6419,payload = JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1847.74, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1867.74
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1861.2µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 3856,payload = KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 11561, HHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºHHHHHHHHHHHHHHHHHHHH
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1861.02µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºIIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1869.1µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºJJJJJJJJJJJJJJJJJJJJ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 7,checksum = 12844,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+==========
+»¬¶¯Ç°£º
+
+5	HHHHHHHHHHHHHHHHHHHH
+ÍÍÍœçÔ
+6	IIIIIIIIIIIIIIIIIIII
+ÍÍÍœçÔ
+7	JJJJJJJJJJJJJJJJJJJJ
+ÍÍÍœçÔ
+0	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1861.02, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+6	IIIIIIIIIIIIIIIIIIII
+ÍÍÍœçÔ
+7	JJJJJJJJJJJJJJJJJJJJ
+ÍÍÍœçÔ
+0	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºKKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1879.31µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1866.91, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1866.91, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1886.91
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1870.47µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 8990,payload = IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1866.91, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1866.91, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1886.91
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1876.75µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 6419,payload = JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1866.91, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1866.91, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1886.91
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -999999, acknum = -1,checksum = 3856,payload = KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1886.93µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = -999999, acknum = -1,checksum = 3856,payload = KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+==========
+»¬¶¯Ç°£º
+
+6	IIIIIIIIIIIIIIIIIIII
+ÍÍÍœçÔ
+7	JJJJJJJJJJJJJJJJJJJJ
+ÍÍÍœçÔ
+0	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1869.1, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+7	JJJJJJJJJJJJJJJJJJJJ
+ÍÍÍœçÔ
+0	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1884.04µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1889.97µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = /....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 0, checksum = 12851, ....................
+==========
+»¬¶¯Ç°£º
+
+7	JJJJJJJJJJJJJJJJJJJJ
+ÍÍÍœçÔ
+0	KKKKKKKKKKKKKKKKKKKK
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1879.31, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1879.31, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = -999999, acknum = -1, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1893.49µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 1285, LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1894.39, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1914.39
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1897.96µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 1285,payload = LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 64249, MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1894.74, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1914.74
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1904.24µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 64249,payload = MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1895.55, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1915.55
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 3, acknum = -1,checksum = 61678,payload = NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1895.64, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1915.64
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1913.37µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 59107,payload = OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 1285, LLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºLLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1904.67µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = /....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 64249, MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºMMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1912.38µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 2,checksum = 12849,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+==========
+»¬¶¯Ç°£º
+
+1	LLLLLLLLLLLLLLLLLLLL
+ÍÍÍœçÔ
+2	MMMMMMMMMMMMMMMMMMMM
+ÍÍÍœçÔ
+3	NNNNNNNNNNNNNNNNNNNN
+ÍÍÍœçÔ
+4	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1912.38, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1912.38, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+3	NNNNNNNNNNNNNNNNNNNN
+ÍÍÍœçÔ
+4	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 2,checksum = 12849,payload = .....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1915.55, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1915.55, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1935.55
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -999999, acknum = -1,checksum = 61678,payload = NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1925.33µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = -999999, acknum = -1,checksum = 61678,payload = NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1915.55, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1915.55, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1935.55
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1935.25µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 59107,payload = OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = -999999, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 2,checksum = 12849,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1944.97µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 2,checksum = 12849,payload = .....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1935.55, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1935.55, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1955.55
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1938.03µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 61678,payload = NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1935.55, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1935.55, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1955.55
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1946.19µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 59107,payload = OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1935.55, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1935.55, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1955.55
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1951.43µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 61678,payload = NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1935.55, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1935.55, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1955.55
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1956.95µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 59107,payload = OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºNNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -999999, acknum = 3,checksum = 12848,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1953.61µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -999999, acknum = 3,checksum = 12848,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1944.97, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1944.97, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1964.97
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1966.86µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 61678,payload = NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1944.97, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1944.97, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1964.97
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1977.66µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 59107,payload = OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºOOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1956.34µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1962.33µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1955.55, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1955.55, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1975.55
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1984.02µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 61678,payload = NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1955.55, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1955.55, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 1975.55
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1987.6µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 59107,payload = OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 4, checksum = 12847, ....................
+==========
+»¬¶¯Ç°£º
+
+3	NNNNNNNNNNNNNNNNNNNN
+ÍÍÍœçÔ
+4	OOOOOOOOOOOOOOOOOOOO
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1956.34, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1956.34, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1973.04µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1974.24µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1978.85µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = /....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1989.85µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ1992.89µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1992.93, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2012.93
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ1994.71µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 5, acknum = -1,checksum = 56536,payload = PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 53965, QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1992.97, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2012.97
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2002.17µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 53965,payload = QQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 51394, RRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1993.87, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2013.87
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2003.29µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 51394,payload = RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 48831, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 1994, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2014
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2005.69µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 48831,payload = SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºPPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 53965, QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºQQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2005.26µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 51394, RRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºRRRRRRRRRRRRRRRRRRRR
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 7,checksum = 12844,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+==========
+»¬¶¯Ç°£º
+
+5	PPPPPPPPPPPPPPPPPPPP
+ÍÍÍœçÔ
+6	QQQQQQQQQQQQQQQQQQQQ
+ÍÍÍœçÔ
+7	RRRRRRRRRRRRRRRRRRRR
+ÍÍÍœçÔ
+0	SSSSSSSSSSSSSSSSSSSS
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2005.26, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2005.26, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+7	RRRRRRRRRRRRRRRRRRRR
+ÍÍÍœçÔ
+0	SSSSSSSSSSSSSSSSSSSS
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 48831, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºSSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2006.92µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 0, checksum = 12851, ....................
+==========
+»¬¶¯Ç°£º
+
+7	RRRRRRRRRRRRRRRRRRRR
+ÍÍÍœçÔ
+0	SSSSSSSSSSSSSSSSSSSS
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2006.92, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2006.92, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 46260, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2007.47, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2027.47
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 1, acknum = -1,checksum = 46260,payload = UTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2017.01µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 46260,payload = UTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2007.92, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2027.92
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2018.09µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 43689,payload = UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2008.31, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2028.31
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2024.72µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 41118,payload = VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2008.48, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2028.48
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2028.17µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 38547,payload = WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 1, acknum = -1, checksum = 46260, UTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2025.1µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2030.98µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2032.89µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2025.1, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2025.1, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2045.1
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 1, acknum = -1,checksum = 46260,payload = UTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2036.89µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 46260,payload = UTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2025.1, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2025.1, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2045.1
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2044.69µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 43689,payload = UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2025.1, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2025.1, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2045.1
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2054.41µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 41118,payload = VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2025.1, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2025.1, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2045.1
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2059.35µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 38547,payload = WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2040µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2030.98, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2030.98, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2050.98
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2067.87µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 46260,payload = TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2030.98, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2030.98, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2050.98
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2076.85µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 43689,payload = UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2030.98, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2030.98, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2050.98
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2079.16µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 41118,payload = VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2030.98, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2030.98, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2050.98
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2087.24µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 38547,payload = WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2032.89, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2032.89, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2052.89
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2089.88µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 46260,payload = TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2032.89, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2032.89, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2052.89
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 2, acknum = -1,checksum = 43689,payload = UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2032.89, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2032.89, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2052.89
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2098.96µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 41118,payload = VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2032.89, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2032.89, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2052.89
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2099.99µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 38547,payload = WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 1, acknum = -1, checksum = 46260, UTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -999999, acknum = 0,checksum = 12851,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2041.85µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -999999, acknum = 0,checksum = 12851,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2040, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2040, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2060
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2110.39µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 46260,payload = TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2040, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2040, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2060
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2117.11µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 43689,payload = UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2040, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2040, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2060
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2120.76µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 41118,payload = VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2040, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2040, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2060
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2129.33µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 38547,payload = WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2049.91µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2049.91, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2049.91, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2069.91
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 1, acknum = -1,checksum = 46260,payload = TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2049.91, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2049.91, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2069.91
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2135.14µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 43689,payload = UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2049.91, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2049.91, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2069.91
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2140.34µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 41118,payload = VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2049.91, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2049.91, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2069.91
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 4, acknum = -1,checksum = 38547,payload = WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2065.22µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2074.54µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2065.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2065.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2085.22
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 1, acknum = -1,checksum = 46260,payload = UTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2150.23µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 46260,payload = UTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2065.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2065.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2085.22
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2156.88µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 43689,payload = UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2065.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2065.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2085.22
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = 3, acknum = -1,checksum = 41118,payload = WVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2160µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 41118,payload = WVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2065.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2065.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2085.22
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2163.93µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 38547,payload = WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 46260, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºTTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2081.73µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 1,checksum = 12850,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2074.54, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2074.54, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2094.54
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2171.1µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 1, acknum = -1,checksum = 46260,payload = TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2074.54, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2074.54, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2094.54
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2172.61µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 2, acknum = -1,checksum = 43689,payload = UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2074.54, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2074.54, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2094.54
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2180.28µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 3, acknum = -1,checksum = 41118,payload = VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2074.54, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2074.54, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2094.54
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2188.92µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 4, acknum = -1,checksum = 38547,payload = WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºUUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2086.15µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 2,checksum = 12849,payload = .....................
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºVVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2090.62µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 3,checksum = 12848,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+==========
+»¬¶¯Ç°£º
+
+1	TTTTTTTTTTTTTTTTTTTT
+ÍÍÍœçÔ
+2	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍœçÔ
+3	VVVVVVVVVVVVVVVVVVVV
+ÍÍÍœçÔ
+4	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2081.73, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 1
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+2	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍœçÔ
+3	VVVVVVVVVVVVVVVVVVVV
+ÍÍÍœçÔ
+4	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+==========
+»¬¶¯Ç°£º
+
+2	UUUUUUUUUUUUUUUUUUUU
+ÍÍÍœçÔ
+3	VVVVVVVVVVVVVVVVVVVV
+ÍÍÍœçÔ
+4	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2086.15, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 2
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+3	VVVVVVVVVVVVVVVVVVVV
+ÍÍÍœçÔ
+4	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍœçÔ
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºWWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2092.36µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 1, acknum = -1, checksum = 46260, TTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2098.74µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+==========
+»¬¶¯Ç°£º
+
+3	VVVVVVVVVVVVVVVVVVVV
+ÍÍÍœçÔ
+4	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2090.62, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 3
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+4	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍœçÔ
+==========
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 4, checksum = 12847, ....................
+==========
+»¬¶¯Ç°£º
+
+4	WWWWWWWWWWWWWWWWWWWW
+ÍÍÍœçÔ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2092.36, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 4
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2103.08µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 1, acknum = -1, checksum = 46260, TTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2127.55µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2136.87µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2140.73µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2146.87µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 1, acknum = -1, checksum = 46260, UTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2156.66µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2164.56µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,Êı¾İĞ£Ñé´íÎó: seqnum = 3, acknum = -1, checksum = 41118, WVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2173.41µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2182.29µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 1, acknum = -1, checksum = 46260, TTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2192.18µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 2, acknum = -1, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÍøÂç²ãÊı¾İ°üËğ»µ,Ëğ»µµÄ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = /....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2202.83µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = /....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2212.36µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 35976, XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2212.63, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2232.63
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½·¢ËÍµÄÊı¾İ°ü¶ªÊ§£ºseqnum = 5, acknum = -1,checksum = 35976,payload = XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2213.01, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2233.01
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2216.86µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 33405,payload = YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2213.09, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2233.09
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2220.32µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 30834,payload = ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2214.43, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2234.43
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2222.82µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 29873,payload = EOF                  
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2223.22µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½·¢ËÍµÄÈ·ÈÏ°ü¶ªÊ§£ºseqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2230.38µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 4,checksum = 12847,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2223.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2223.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2243.22
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2226.19µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 5, acknum = -1,checksum = 35976,payload = XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2223.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2223.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2243.22
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2232.08µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 33405,payload = YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2223.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2223.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2243.22
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2242.81µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 30834,payload = ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2223.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2223.22, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2243.22
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2249.08µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 29873,payload = EOF                  
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 35976, XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºXXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2236.9µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 5,checksum = 12846,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2230.38, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2230.38, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2250.38
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2259.24µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 5, acknum = -1,checksum = 35976,payload = XXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2230.38, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2230.38, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2250.38
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2263.14µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 6, acknum = -1,checksum = 33405,payload = YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2230.38, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2230.38, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2250.38
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2265.45µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 7, acknum = -1,checksum = 30834,payload = ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2230.38, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2230.38, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2250.38
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2270.5µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 29873,payload = EOF                  
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºYYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2243.82µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 6,checksum = 12845,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+==========
+»¬¶¯Ç°£º
+
+5	XXXXXXXXXXXXXXXXXXXX
+ÍÍÍœçÔ
+6	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍœçÔ
+7	ZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍœçÔ
+0	EOF
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2236.9, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 5
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+6	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍœçÔ
+7	ZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍœçÔ
+0	EOF
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2247.52µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 7,checksum = 12844,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+==========
+»¬¶¯Ç°£º
+
+6	YYYYYYYYYYYYYYYYYYYY
+ÍÍÍœçÔ
+7	ZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍœçÔ
+0	EOF
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2243.82, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 6
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+7	ZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍœçÔ
+0	EOF
+==========
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+==========
+»¬¶¯Ç°£º
+
+7	ZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍœçÔ
+0	EOF
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2247.52, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 7
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+0	EOF
+==========
+½ÓÊÕ·½ÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEOF                  
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2259.82µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2250.38, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+******Ä£ÄâÍøÂç»·¾³******£ºÆô¶¯¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2250.38, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0, ¶¨Ê±Æ÷TimeoutÊ±¼ä = 2270.38
+******Ä£ÄâÍøÂç»·¾³******£º·¢ËÍ·½µÄÊı¾İ°ü½«ÔÚ2276.45µ½´ï¶Ô·½, Êı¾İ°üÎª-->seqnum = 0, acknum = -1,checksum = 29873,payload = EOF                  
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 5, acknum = -1, checksum = 35976, XXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2268.35µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+·¢ËÍ·½ÕıÈ·½ÓÊÜACK: seqnum = -1, acknum = 0, checksum = 12851, ....................
+==========
+»¬¶¯Ç°£º
+
+0	EOF
+******Ä£ÄâÍøÂç»·¾³******£º¹Ø±Õ¶¨Ê±Æ÷, µ±Ç°Ê±¼ä = 2259.82, ¶¨Ê±Æ÷±¨ÎÄĞòºÅ = 0
+-+-+-+-+-+
+»¬¶¯ºó£º
+
+==========
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 6, acknum = -1, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2276.5µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2279.56µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2286.01µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+½ÓÊÕ·½Ã»ÓĞÕıÈ·ÊÕµ½·¢ËÍ·½µÄ±¨ÎÄ,±¨ÎÄĞòºÅ²»¶Ô: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+½ÓÊÕ·½ÖØĞÂ·¢ËÍÉÏ´ÎµÄÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£º½ÓÊÕ·½µÄÈ·ÈÏ°ü½«ÔÚ2295.49µ½´ï¶Ô·½, È·ÈÏ°üÎª-->seqnum = -1, acknum = 0,checksum = 12851,payload = .....................
+******Ä£ÄâÍøÂç»·¾³******£ºÄ£ÄâÍøÂç»·¾³ÒÑ·¢ËÍÍêÓ¦ÓÃ²ãÊı¾İ£¬¹Ø±ÕÄ£ÄâÍøÂç»·¾³
+ÒÑ·¢ËÍÓ¦ÓÃ²ãMessage¸öÊı: 105
+·¢ËÍµ½ÍøÂç²ãÊı¾İPacket¸öÊı: 350
+ÍøÂç²ã¶ªÊ§µÄÊı¾İPacket¸öÊı: 27
+ÍøÂç²ãËğ»µµÄÊı¾İpakcet¸öÊı:34
+·¢ËÍµ½ÍøÂç²ãÈ·ÈÏPacket¸öÊı:323
+ÍøÂç²ã¶ªÊ§µÄÈ·ÈÏPacket¸öÊı: 26
+ÍøÂç²ãËğ»µµÄÈ·ÈÏPacket¸öÊı: 29
+

@@ -1,0 +1,1605 @@
+******Ä£ÄâÍøÂç»·¾³******£ºÄ£ÄâÍøÂç»·¾³³õÊ¼»¯...
+******Ä£ÄâÍøÂç»·¾³******£ºÄ£ÄâÍøÂç»·¾³Æô¶¯...
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 29556, AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºAAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 0 ÄÚÈİAAAAAAAAAAAAAAAAAAAA
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 26985, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 24414, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºBBBBBBBBBBBBBBBBBBBB
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºCCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºDDDDDDDDDDDDDDDDDDDD
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 1 ÄÚÈİBBBBBBBBBBBBBBBBBBBB
+ÍÍÍÜï5
+ĞòºÅ 2 ÄÚÈİCCCCCCCCCCCCCCCCCCCC
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİDDDDDDDDDDDDDDDDDDDD
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİEEEEEEEEEEEEEEEEEEEE
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 2 ÄÚÈİCCCCCCCCCCCCCCCCCCCC
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİDDDDDDDDDDDDDDDDDDDD
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİEEEEEEEEEEEEEEEEEEEE
+ÍÍÍÜï5
+
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 24414, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 21843, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 2 ÄÚÈİCCCCCCCCCCCCCCCCCCCC
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİDDDDDDDDDDDDDDDDDDDD
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİEEEEEEEEEEEEEEEEEEEE
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+ĞòºÅ 3 ÄÚÈİDDDDDDDDDDDDDDDDDDDD
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİEEEEEEEEEEEEEEEEEEEE
+ÍÍÍÜï5
+
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 19272, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 3 ÄÚÈİDDDDDDDDDDDDDDDDDDDD
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİEEEEEEEEEEEEEEEEEEEE
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+ĞòºÅ 4 ÄÚÈİEEEEEEEEEEEEEEEEEEEE
+ÍÍÍÜï5
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 4 ÄÚÈİEEEEEEEEEEEEEEEEEEEE
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 16701, FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºFFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 5 ÄÚÈİFFFFFFFFFFFFFFFFFFFF
+ÍÍÍÜï5
+ĞòºÅ 6 ÄÚÈİGGGGGGGGGGGGGGGGGGGG
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİHHHHHHHHHHHHHHHHHHHH
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİIIIIIIIIIIIIIIIIIIII
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 6 ÄÚÈİGGGGGGGGGGGGGGGGGGGG
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİHHHHHHHHHHHHHHHHHHHH
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİIIIIIIIIIIIIIIIIIIII
+ÍÍÍÜï5
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 8996, IIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºGGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºHHHHHHHHHHHHHHHHHHHH
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºIIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+µÚ2¸ö
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 14130, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 11559, HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 6 ÄÚÈİGGGGGGGGGGGGGGGGGGGG
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİHHHHHHHHHHHHHHHHHHHH
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİIIIIIIIIIIIIIIIIIIII
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ2¸ö
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ3¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 6425, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 64247, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ1¸ö
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 6425, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 3854, KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 64247, MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºJJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºKKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 1 ÄÚÈİJJJJJJJJJJJJJJJJJJJJ
+ÍÍÍÜï5
+ĞòºÅ 2 ÄÚÈİKKKKKKKKKKKKKKKKKKKK
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİLLLLLLLLLLLLLLLLLLLL
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİMMMMMMMMMMMMMMMMMMMM
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 3 ÄÚÈİLLLLLLLLLLLLLLLLLLLL
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİMMMMMMMMMMMMMMMMMMMM
+ÍÍÍÜï5
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 1283, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 64247, MMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºLLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºMMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+µÚ2¸ö
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 3 ÄÚÈİLLLLLLLLLLLLLLLLLLLL
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİMMMMMMMMMMMMMMMMMMMM
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ2¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 61676, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 59105, OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºNNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºOOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 5 ÄÚÈİNNNNNNNNNNNNNNNNNNNN
+ÍÍÍÜï5
+ĞòºÅ 6 ÄÚÈİOOOOOOOOOOOOOOOOOOOO
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİPPPPPPPPPPPPPPPPPPPP
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİQQQQQQQQQQQQQQQQQQQQ
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 6 ÄÚÈİOOOOOOOOOOOOOOOOOOOO
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİPPPPPPPPPPPPPPPPPPPP
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİQQQQQQQQQQQQQQQQQQQQ
+ÍÍÍÜï5
+
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºPPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 59105, OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 56534, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 6 ÄÚÈİOOOOOOOOOOOOOOOOOOOO
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİPPPPPPPPPPPPPPPPPPPP
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİQQQQQQQQQQQQQQQQQQQQ
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+ĞòºÅ 0 ÄÚÈİQQQQQQQQQQQQQQQQQQQQ
+ÍÍÍÜï5
+
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 53971, QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºQQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 0 ÄÚÈİQQQQQQQQQQQQQQQQQQQQ
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 51400, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ2¸ö
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 51400, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 48829, SSSSSSSSSSSSSSSSSSSS
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 46258, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 43687, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ3¸ö
+ÊÕµ½Èı¸öÈßÓàACK£¬ÖØ·¢¶ÔÓ¦µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 51400, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ1¸ö
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºRRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºSSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºTTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºUUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 1 ÄÚÈİRRRRRRRRRRRRRRRRRRRR
+ÍÍÍÜï5
+ĞòºÅ 2 ÄÚÈİSSSSSSSSSSSSSSSSSSSS
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİTTTTTTTTTTTTTTTTTTTT
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİUUUUUUUUUUUUUUUUUUUU
+ÍÍÍ
+»¬¶¯ºó£º
+
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ2¸ö
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ3¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 41116, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºVVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºWWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 41116, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºXXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 41116, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 38545, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 35974, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºYYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 5 ÄÚÈİVVVVVVVVVVVVVVVVVVVV
+ÍÍÍÜï5
+ĞòºÅ 6 ÄÚÈİWWWWWWWWWWWWWWWWWWWW
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİXXXXXXXXXXXXXXXXXXXX
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİYYYYYYYYYYYYYYYYYYYY
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 0 ÄÚÈİYYYYYYYYYYYYYYYYYYYY
+ÍÍÍÜï5
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 33411, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 0 ÄÚÈİYYYYYYYYYYYYYYYYYYYY
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ2¸ö
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ3¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 30840, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 26983, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºAAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 1 ÄÚÈİZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍÜï5
+ĞòºÅ 2 ÄÚÈİAAAAAAAAAAAAAAAAAAAA
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİBBBBBBBBBBBBBBBBBBBB
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİCCCCCCCCCCCCCCCCCCCC
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 2 ÄÚÈİAAAAAAAAAAAAAAAAAAAA
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİBBBBBBBBBBBBBBBBBBBB
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİCCCCCCCCCCCCCCCCCCCC
+ÍÍÍÜï5
+
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 29554, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 26983, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 2 ÄÚÈİAAAAAAAAAAAAAAAAAAAA
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİBBBBBBBBBBBBBBBBBBBB
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİCCCCCCCCCCCCCCCCCCCC
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+ĞòºÅ 3 ÄÚÈİBBBBBBBBBBBBBBBBBBBB
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİCCCCCCCCCCCCCCCCCCCC
+ÍÍÍÜï5
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+µÚ2¸ö
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºBBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºCCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+µÚ3¸ö
+ÊÕµ½Èı¸öÈßÓàACK£¬ÖØ·¢¶ÔÓ¦µÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 26983, BBBBBBBBBBBBBBBBBBBB
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 24412, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 3 ÄÚÈİBBBBBBBBBBBBBBBBBBBB
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİCCCCCCCCCCCCCCCCCCCC
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 21841, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ2¸ö
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 21841, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ3¸ö
+ÊÕµ½Èı¸öÈßÓàACK£¬ÖØ·¢¶ÔÓ¦µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 21841, DDDDDDDDDDDDDDDDDDDD
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ1¸ö
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ2¸ö
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºDDDDDDDDDDDDDDDDDDDD
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºFFFFFFFFFFFFFFFFFFFF
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºGGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 21841, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ3¸ö
+ÊÕµ½Èı¸öÈßÓàACK£¬ÖØ·¢¶ÔÓ¦µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 21841, DDDDDDDDDDDDDDDDDDDD
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ1¸ö
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 19270, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 16699, FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 14136, GGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 5 ÄÚÈİDDDDDDDDDDDDDDDDDDDD
+ÍÍÍÜï5
+ĞòºÅ 6 ÄÚÈİEEEEEEEEEEEEEEEEEEEE
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİFFFFFFFFFFFFFFFFFFFF
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİGGGGGGGGGGGGGGGGGGGG
+ÍÍÍ
+»¬¶¯ºó£º
+
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ2¸ö
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ3¸ö
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ1¸ö
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ2¸ö
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ3¸ö
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ1¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 11565, HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºHHHHHHHHHHHHHHHHHHHH
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 1 ÄÚÈİHHHHHHHHHHHHHHHHHHHH
+ÍÍÍÜï5
+ĞòºÅ 2 ÄÚÈİIIIIIIIIIIIIIIIIIIII
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİJJJJJJJJJJJJJJJJJJJJ
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİKKKKKKKKKKKKKKKKKKKK
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 2 ÄÚÈİIIIIIIIIIIIIIIIIIIII
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİJJJJJJJJJJJJJJJJJJJJ
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİKKKKKKKKKKKKKKKKKKKK
+ÍÍÍÜï5
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 8994, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 6423, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+µÚ2¸ö
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºIIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºJJJJJJJJJJJJJJJJJJJJ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 2 ÄÚÈİIIIIIIIIIIIIIIIIIIII
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİJJJJJJJJJJJJJJJJJJJJ
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİKKKKKKKKKKKKKKKKKKKK
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+ĞòºÅ 4 ÄÚÈİKKKKKKKKKKKKKKKKKKKK
+ÍÍÍÜï5
+
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºKKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 3852, KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 4 ÄÚÈİKKKKKKKKKKKKKKKKKKKK
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ2¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 1281, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 64245, MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºLLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºMMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºNNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºOOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 5 ÄÚÈİLLLLLLLLLLLLLLLLLLLL
+ÍÍÍÜï5
+ĞòºÅ 6 ÄÚÈİMMMMMMMMMMMMMMMMMMMM
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİNNNNNNNNNNNNNNNNNNNN
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİOOOOOOOOOOOOOOOOOOOO
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 7 ÄÚÈİNNNNNNNNNNNNNNNNNNNN
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİOOOOOOOOOOOOOOOOOOOO
+ÍÍÍÜï5
+
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 61674, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 59111, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 7 ÄÚÈİNNNNNNNNNNNNNNNNNNNN
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİOOOOOOOOOOOOOOOOOOOO
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ2¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 56540, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 53969, QQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºPPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 1 ÄÚÈİPPPPPPPPPPPPPPPPPPPP
+ÍÍÍÜï5
+ĞòºÅ 2 ÄÚÈİQQQQQQQQQQQQQQQQQQQQ
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİRRRRRRRRRRRRRRRRRRRR
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİSSSSSSSSSSSSSSSSSSSS
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 2 ÄÚÈİQQQQQQQQQQQQQQQQQQQQ
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİRRRRRRRRRRRRRRRRRRRR
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİSSSSSSSSSSSSSSSSSSSS
+ÍÍÍÜï5
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 53969, QQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 51398, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 48827, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºQQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºRRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºSSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+µÚ2¸ö
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 2 ÄÚÈİQQQQQQQQQQQQQQQQQQQQ
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİRRRRRRRRRRRRRRRRRRRR
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİSSSSSSSSSSSSSSSSSSSS
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ2¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 46256, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 41114, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºTTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 5 ÄÚÈİTTTTTTTTTTTTTTTTTTTT
+ÍÍÍÜï5
+ĞòºÅ 6 ÄÚÈİUUUUUUUUUUUUUUUUUUUU
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİVVVVVVVVVVVVVVVVVVVV
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİWWWWWWWWWWWWWWWWWWWW
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 6 ÄÚÈİUUUUUUUUUUUUUUUUUUUU
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİVVVVVVVVVVVVVVVVVVVV
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİWWWWWWWWWWWWWWWWWWWW
+ÍÍÍÜï5
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 41114, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+µÚ2¸ö
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºUUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºVVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºWWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 43685, UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 41114, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 38551, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 6 ÄÚÈİUUUUUUUUUUUUUUUUUUUU
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİVVVVVVVVVVVVVVVVVVVV
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİWWWWWWWWWWWWWWWWWWWW
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ2¸ö
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ3¸ö
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ1¸ö
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ2¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 35980, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 33409, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºXXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºYYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 1 ÄÚÈİXXXXXXXXXXXXXXXXXXXX
+ÍÍÍÜï5
+ĞòºÅ 2 ÄÚÈİYYYYYYYYYYYYYYYYYYYY
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİAAAAAAAAAAAAAAAAAAAA
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 2 ÄÚÈİYYYYYYYYYYYYYYYYYYYY
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİAAAAAAAAAAAAAAAAAAAA
+ÍÍÍÜï5
+
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 33409, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 2 ÄÚÈİYYYYYYYYYYYYYYYYYYYY
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİAAAAAAAAAAAAAAAAAAAA
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+ĞòºÅ 3 ÄÚÈİZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİAAAAAAAAAAAAAAAAAAAA
+ÍÍÍÜï5
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 30838, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 29552, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+µÚ2¸ö
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºZZZZZZZZZZZZZZZZZZZZ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºAAAAAAAAAAAAAAAAAAAA
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 3 ÄÚÈİZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİAAAAAAAAAAAAAAAAAAAA
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 26981, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 24410, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 21839, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºBBBBBBBBBBBBBBBBBBBB
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºCCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºDDDDDDDDDDDDDDDDDDDD
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 5 ÄÚÈİBBBBBBBBBBBBBBBBBBBB
+ÍÍÍÜï5
+ĞòºÅ 6 ÄÚÈİCCCCCCCCCCCCCCCCCCCC
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİDDDDDDDDDDDDDDDDDDDD
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİEEEEEEEEEEEEEEEEEEEE
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 6 ÄÚÈİCCCCCCCCCCCCCCCCCCCC
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİDDDDDDDDDDDDDDDDDDDD
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİEEEEEEEEEEEEEEEEEEEE
+ÍÍÍÜï5
+
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 24410, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 21839, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 19276, EEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 6 ÄÚÈİCCCCCCCCCCCCCCCCCCCC
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİDDDDDDDDDDDDDDDDDDDD
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİEEEEEEEEEEEEEEEEEEEE
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+ĞòºÅ 0 ÄÚÈİEEEEEEEEEEEEEEEEEEEE
+ÍÍÍÜï5
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 0 ÄÚÈİEEEEEEEEEEEEEEEEEEEE
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ2¸ö
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ3¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 16705, FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 14134, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºFFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 1 ÄÚÈİFFFFFFFFFFFFFFFFFFFF
+ÍÍÍÜï5
+ĞòºÅ 2 ÄÚÈİGGGGGGGGGGGGGGGGGGGG
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİHHHHHHHHHHHHHHHHHHHH
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİIIIIIIIIIIIIIIIIIIII
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 2 ÄÚÈİGGGGGGGGGGGGGGGGGGGG
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİHHHHHHHHHHHHHHHHHHHH
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİIIIIIIIIIIIIIIIIIIII
+ÍÍÍÜï5
+
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºGGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 14134, GGGGGGGGGGGGGGGGGGGG
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 11563, HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 8992, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 2 ÄÚÈİGGGGGGGGGGGGGGGGGGGG
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİHHHHHHHHHHHHHHHHHHHH
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİIIIIIIIIIIIIIIIIIIII
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+ĞòºÅ 3 ÄÚÈİHHHHHHHHHHHHHHHHHHHH
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİIIIIIIIIIIIIIIIIIIII
+ÍÍÍÜï5
+
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºHHHHHHHHHHHHHHHHHHHH
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºIIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 3 ÄÚÈİHHHHHHHHHHHHHHHHHHHH
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİIIIIIIIIIIIIIIIIIIII
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 6421, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ2¸ö
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 6421, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 3850, KKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 1279, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 64251, MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ3¸ö
+ÊÕµ½Èı¸öÈßÓàACK£¬ÖØ·¢¶ÔÓ¦µÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 6421, JJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºJJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºKKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºLLLLLLLLLLLLLLLLLLLL
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºMMMMMMMMMMMMMMMMMMMM
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 5 ÄÚÈİJJJJJJJJJJJJJJJJJJJJ
+ÍÍÍÜï5
+ĞòºÅ 6 ÄÚÈİKKKKKKKKKKKKKKKKKKKK
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİLLLLLLLLLLLLLLLLLLLL
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİMMMMMMMMMMMMMMMMMMMM
+ÍÍÍ
+»¬¶¯ºó£º
+
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ2¸ö
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ3¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 61680, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 59109, OOOOOOOOOOOOOOOOOOOO
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºNNNNNNNNNNNNNNNNNNNN
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºOOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 1 ÄÚÈİNNNNNNNNNNNNNNNNNNNN
+ÍÍÍÜï5
+ĞòºÅ 2 ÄÚÈİOOOOOOOOOOOOOOOOOOOO
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİPPPPPPPPPPPPPPPPPPPP
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİQQQQQQQQQQQQQQQQQQQQ
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 2 ÄÚÈİOOOOOOOOOOOOOOOOOOOO
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİPPPPPPPPPPPPPPPPPPPP
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİQQQQQQQQQQQQQQQQQQQQ
+ÍÍÍÜï5
+
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 2 ÄÚÈİOOOOOOOOOOOOOOOOOOOO
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİPPPPPPPPPPPPPPPPPPPP
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİQQQQQQQQQQQQQQQQQQQQ
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+ĞòºÅ 3 ÄÚÈİPPPPPPPPPPPPPPPPPPPP
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİQQQQQQQQQQQQQQQQQQQQ
+ÍÍÍÜï5
+
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 56538, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 53967, QQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºPPPPPPPPPPPPPPPPPPPP
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºQQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 3 ÄÚÈİPPPPPPPPPPPPPPPPPPPP
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİQQQQQQQQQQQQQQQQQQQQ
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ2¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 48825, SSSSSSSSSSSSSSSSSSSS
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºRRRRRRRRRRRRRRRRRRRR
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºSSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 51396, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 48825, SSSSSSSSSSSSSSSSSSSS
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 5 ÄÚÈİRRRRRRRRRRRRRRRRRRRR
+ÍÍÍÜï5
+ĞòºÅ 6 ÄÚÈİSSSSSSSSSSSSSSSSSSSS
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİTTTTTTTTTTTTTTTTTTTT
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİUUUUUUUUUUUUUUUUUUUU
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 7 ÄÚÈİTTTTTTTTTTTTTTTTTTTT
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİUUUUUUUUUUUUUUUUUUUU
+ÍÍÍÜï5
+
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+µÚ2¸ö
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 43691, UUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+µÚ3¸ö
+ÊÕµ½Èı¸öÈßÓàACK£¬ÖØ·¢¶ÔÓ¦µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 46254, TTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºTTTTTTTTTTTTTTTTTTTT
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºUUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+µÚ1¸ö
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 7 ÄÚÈİTTTTTTTTTTTTTTTTTTTT
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİUUUUUUUUUUUUUUUUUUUU
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ2¸ö
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ3¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 41120, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 38549, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ1¸ö
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ2¸ö
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 41120, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 38549, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 35978, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 33407, YYYYYYYYYYYYYYYYYYYY
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºVVVVVVVVVVVVVVVVVVVV
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºWWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºXXXXXXXXXXXXXXXXXXXX
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºYYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ3¸ö
+ÊÕµ½Èı¸öÈßÓàACK£¬ÖØ·¢¶ÔÓ¦µÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 41120, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 1 ÄÚÈİVVVVVVVVVVVVVVVVVVVV
+ÍÍÍÜï5
+ĞòºÅ 2 ÄÚÈİWWWWWWWWWWWWWWWWWWWW
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİXXXXXXXXXXXXXXXXXXXX
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİYYYYYYYYYYYYYYYYYYYY
+ÍÍÍ
+»¬¶¯ºó£º
+
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ2¸ö
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ3¸ö
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ1¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 30836, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 5 ÄÚÈİZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍÜï5
+ĞòºÅ 6 ÄÚÈİAAAAAAAAAAAAAAAAAAAA
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİBBBBBBBBBBBBBBBBBBBB
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİCCCCCCCCCCCCCCCCCCCC
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 6 ÄÚÈİAAAAAAAAAAAAAAAAAAAA
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİBBBBBBBBBBBBBBBBBBBB
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİCCCCCCCCCCCCCCCCCCCC
+ÍÍÍÜï5
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+µÚ2¸ö
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+µÚ3¸ö
+ÊÕµ½Èı¸öÈßÓàACK£¬ÖØ·¢¶ÔÓ¦µÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 29550, AAAAAAAAAAAAAAAAAAAA
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 6, checksum = 12845, ....................
+µÚ1¸ö
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºAAAAAAAAAAAAAAAAAAAA
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºBBBBBBBBBBBBBBBBBBBB
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºCCCCCCCCCCCCCCCCCCCC
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 26979, BBBBBBBBBBBBBBBBBBBB
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 24416, CCCCCCCCCCCCCCCCCCCC
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 6 ÄÚÈİAAAAAAAAAAAAAAAAAAAA
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİBBBBBBBBBBBBBBBBBBBB
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİCCCCCCCCCCCCCCCCCCCC
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ2¸ö
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ3¸ö
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ1¸ö
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ2¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 21845, DDDDDDDDDDDDDDDDDDDD
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºDDDDDDDDDDDDDDDDDDDD
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 1 ÄÚÈİDDDDDDDDDDDDDDDDDDDD
+ÍÍÍÜï5
+ĞòºÅ 2 ÄÚÈİEEEEEEEEEEEEEEEEEEEE
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİFFFFFFFFFFFFFFFFFFFF
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİGGGGGGGGGGGGGGGGGGGG
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 2 ÄÚÈİEEEEEEEEEEEEEEEEEEEE
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİFFFFFFFFFFFFFFFFFFFF
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİGGGGGGGGGGGGGGGGGGGG
+ÍÍÍÜï5
+
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEEEEEEEEEEEEEEEEEEEE
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºFFFFFFFFFFFFFFFFFFFF
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 19274, EEEEEEEEEEEEEEEEEEEE
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 16703, FFFFFFFFFFFFFFFFFFFF
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 14132, GGGGGGGGGGGGGGGGGGGG
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºGGGGGGGGGGGGGGGGGGGG
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 2 ÄÚÈİEEEEEEEEEEEEEEEEEEEE
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİFFFFFFFFFFFFFFFFFFFF
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİGGGGGGGGGGGGGGGGGGGG
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+ĞòºÅ 3 ÄÚÈİFFFFFFFFFFFFFFFFFFFF
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİGGGGGGGGGGGGGGGGGGGG
+ÍÍÍÜï5
+
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 3 ÄÚÈİFFFFFFFFFFFFFFFFFFFF
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİGGGGGGGGGGGGGGGGGGGG
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+ĞòºÅ 4 ÄÚÈİGGGGGGGGGGGGGGGGGGGG
+ÍÍÍÜï5
+
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 4 ÄÚÈİGGGGGGGGGGGGGGGGGGGG
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ2¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 11561, HHHHHHHHHHHHHHHHHHHH
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 8990, IIIIIIIIIIIIIIIIIIII
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºHHHHHHHHHHHHHHHHHHHH
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºIIIIIIIIIIIIIIIIIIII
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 5 ÄÚÈİHHHHHHHHHHHHHHHHHHHH
+ÍÍÍÜï5
+ĞòºÅ 6 ÄÚÈİIIIIIIIIIIIIIIIIIIII
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİJJJJJJJJJJJJJJJJJJJJ
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİKKKKKKKKKKKKKKKKKKKK
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 6 ÄÚÈİIIIIIIIIIIIIIIIIIIII
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİJJJJJJJJJJJJJJJJJJJJ
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİKKKKKKKKKKKKKKKKKKKK
+ÍÍÍÜï5
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 6 ÄÚÈİIIIIIIIIIIIIIIIIIIII
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİJJJJJJJJJJJJJJJJJJJJ
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİKKKKKKKKKKKKKKKKKKKK
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+ĞòºÅ 7 ÄÚÈİJJJJJJJJJJJJJJJJJJJJ
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİKKKKKKKKKKKKKKKKKKKK
+ÍÍÍÜï5
+
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 6419, JJJJJJJJJJJJJJJJJJJJ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 3856, KKKKKKKKKKKKKKKKKKKK
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºJJJJJJJJJJJJJJJJJJJJ
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºKKKKKKKKKKKKKKKKKKKK
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 7 ÄÚÈİJJJJJJJJJJJJJJJJJJJJ
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİKKKKKKKKKKKKKKKKKKKK
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ2¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 1285, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 64249, MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºLLLLLLLLLLLLLLLLLLLL
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 1285, LLLLLLLLLLLLLLLLLLLL
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 64249, MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 1 ÄÚÈİLLLLLLLLLLLLLLLLLLLL
+ÍÍÍÜï5
+ĞòºÅ 2 ÄÚÈİMMMMMMMMMMMMMMMMMMMM
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİNNNNNNNNNNNNNNNNNNNN
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİOOOOOOOOOOOOOOOOOOOO
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 2 ÄÚÈİMMMMMMMMMMMMMMMMMMMM
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİNNNNNNNNNNNNNNNNNNNN
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİOOOOOOOOOOOOOOOOOOOO
+ÍÍÍÜï5
+
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+µÚ2¸ö
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+µÚ3¸ö
+ÊÕµ½Èı¸öÈßÓàACK£¬ÖØ·¢¶ÔÓ¦µÄ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 64249, MMMMMMMMMMMMMMMMMMMM
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 2, checksum = 12849, ....................
+µÚ1¸ö
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 61678, NNNNNNNNNNNNNNNNNNNN
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 59107, OOOOOOOOOOOOOOOOOOOO
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºMMMMMMMMMMMMMMMMMMMM
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºNNNNNNNNNNNNNNNNNNNN
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºOOOOOOOOOOOOOOOOOOOO
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 2 ÄÚÈİMMMMMMMMMMMMMMMMMMMM
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİNNNNNNNNNNNNNNNNNNNN
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİOOOOOOOOOOOOOOOOOOOO
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ2¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 53965, QQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 51394, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 48831, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºPPPPPPPPPPPPPPPPPPPP
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºQQQQQQQQQQQQQQQQQQQQ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 56536, PPPPPPPPPPPPPPPPPPPP
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 53965, QQQQQQQQQQQQQQQQQQQQ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 51394, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 48831, SSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 5 ÄÚÈİPPPPPPPPPPPPPPPPPPPP
+ÍÍÍÜï5
+ĞòºÅ 6 ÄÚÈİQQQQQQQQQQQQQQQQQQQQ
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİRRRRRRRRRRRRRRRRRRRR
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİSSSSSSSSSSSSSSSSSSSS
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 7 ÄÚÈİRRRRRRRRRRRRRRRRRRRR
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİSSSSSSSSSSSSSSSSSSSS
+ÍÍÍÜï5
+
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+µÚ2¸ö
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 7, checksum = 12844, ....................
+µÚ3¸ö
+ÊÕµ½Èı¸öÈßÓàACK£¬ÖØ·¢¶ÔÓ¦µÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 51394, RRRRRRRRRRRRRRRRRRRR
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 48831, SSSSSSSSSSSSSSSSSSSS
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºRRRRRRRRRRRRRRRRRRRR
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºSSSSSSSSSSSSSSSSSSSS
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 7 ÄÚÈİRRRRRRRRRRRRRRRRRRRR
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİSSSSSSSSSSSSSSSSSSSS
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ2¸ö
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ3¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 1, acknum = -1, checksum = 46260, TTTTTTTTTTTTTTTTTTTT
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 2, acknum = -1, checksum = 43689, UUUUUUUUUUUUUUUUUUUU
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºTTTTTTTTTTTTTTTTTTTT
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 2, checksum = 12849, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 1 ÄÚÈİTTTTTTTTTTTTTTTTTTTT
+ÍÍÍÜï5
+ĞòºÅ 2 ÄÚÈİUUUUUUUUUUUUUUUUUUUU
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİVVVVVVVVVVVVVVVVVVVV
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİWWWWWWWWWWWWWWWWWWWW
+ÍÍÍ
+»¬¶¯ºó£º
+
+ĞòºÅ 2 ÄÚÈİUUUUUUUUUUUUUUUUUUUU
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİVVVVVVVVVVVVVVVVVVVV
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİWWWWWWWWWWWWWWWWWWWW
+ÍÍÍÜï5
+
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºUUUUUUUUUUUUUUUUUUUU
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 3, checksum = 12848, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 2 ÄÚÈİUUUUUUUUUUUUUUUUUUUU
+ÍÍÍÜï5
+ĞòºÅ 3 ÄÚÈİVVVVVVVVVVVVVVVVVVVV
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİWWWWWWWWWWWWWWWWWWWW
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+ĞòºÅ 3 ÄÚÈİVVVVVVVVVVVVVVVVVVVV
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİWWWWWWWWWWWWWWWWWWWW
+ÍÍÍÜï5
+
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºVVVVVVVVVVVVVVVVVVVV
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 4, checksum = 12847, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºWWWWWWWWWWWWWWWWWWWW
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 3, acknum = -1, checksum = 41118, VVVVVVVVVVVVVVVVVVVV
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 4, acknum = -1, checksum = 38547, WWWWWWWWWWWWWWWWWWWW
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 5, checksum = 12846, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 3 ÄÚÈİVVVVVVVVVVVVVVVVVVVV
+ÍÍÍÜï5
+ĞòºÅ 4 ÄÚÈİWWWWWWWWWWWWWWWWWWWW
+ÍÍÍÜï5
+»¬¶¯ºó£º
+
+
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ2¸ö
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 5, checksum = 12846, ....................
+µÚ3¸ö
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 5, acknum = -1, checksum = 35976, XXXXXXXXXXXXXXXXXXXX
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 6, acknum = -1, checksum = 33405, YYYYYYYYYYYYYYYYYYYY
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½·¢ËÍ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºXXXXXXXXXXXXXXXXXXXX
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 6, checksum = 12845, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 5 ÄÚÈİXXXXXXXXXXXXXXXXXXXX
+ÍÍÍÜï5
+ĞòºÅ 6 ÄÚÈİYYYYYYYYYYYYYYYYYYYY
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİEOF
+»¬¶¯ºó£º
+
+ĞòºÅ 6 ÄÚÈİYYYYYYYYYYYYYYYYYYYY
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİEOF
+
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºYYYYYYYYYYYYYYYYYYYY
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºZZZZZZZZZZZZZZZZZZZZ
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 7, checksum = 12844, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 6 ÄÚÈİYYYYYYYYYYYYYYYYYYYY
+ÍÍÍÜï5
+ĞòºÅ 7 ÄÚÈİZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİEOF
+»¬¶¯ºó£º
+
+ĞòºÅ 7 ÄÚÈİZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİEOF
+
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 7, acknum = -1, checksum = 30834, ZZZZZZZZZZZZZZZZZZZZ
+·¢ËÍ·½¶¨Ê±Æ÷Ê±¼äµ½£¬ÖØ·¢ÉÏ´Î·¢ËÍµÄ±¨ÎÄ: seqnum = 0, acknum = -1, checksum = 29873, EOF                 
+******Ä£ÄâÍøÂç»·¾³******£ºÏòÉÏµİ½»¸øÓ¦ÓÃ²ãÊı¾İ£ºEOF                  
+½ÓÊÕ·½·¢ËÍÈ·ÈÏ±¨ÎÄ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+½ÓÊÕ·½·¢ËÍÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 0, checksum = 12851, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 7 ÄÚÈİZZZZZZZZZZZZZZZZZZZZ
+ÍÍÍÜï5
+ĞòºÅ 0 ÄÚÈİEOF
+»¬¶¯ºó£º
+
+ĞòºÅ 0 ÄÚÈİEOF
+
+·¢ËÍ·½ÕıÈ·ÊÕµ½È·ÈÏ: seqnum = -1, acknum = 1, checksum = 12850, ....................
+»¬¶¯Ç°£º
+
+ĞòºÅ 0 ÄÚÈİEOF
+»¬¶¯ºó£º
+
+
+·¢ËÍ·½ÊÕµ½ÈßÓàACK: seqnum = -1, acknum = 1, checksum = 12850, ....................
+µÚ2¸ö
+******Ä£ÄâÍøÂç»·¾³******£ºÄ£ÄâÍøÂç»·¾³ÒÑ·¢ËÍÍêÓ¦ÓÃ²ãÊı¾İ£¬¹Ø±ÕÄ£ÄâÍøÂç»·¾³
+ÒÑ·¢ËÍÓ¦ÓÃ²ãMessage¸öÊı: 105
+·¢ËÍµ½ÍøÂç²ãÊı¾İPacket¸öÊı: 230
+ÍøÂç²ã¶ªÊ§µÄÊı¾İPacket¸öÊı: 22
+ÍøÂç²ãËğ»µµÄÊı¾İpakcet¸öÊı:24
+·¢ËÍµ½ÍøÂç²ãÈ·ÈÏPacket¸öÊı:184
+ÍøÂç²ã¶ªÊ§µÄÈ·ÈÏPacket¸öÊı: 18
+ÍøÂç²ãËğ»µµÄÈ·ÈÏPacket¸öÊı: 26
+

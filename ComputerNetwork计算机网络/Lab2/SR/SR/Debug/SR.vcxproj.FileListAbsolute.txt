@@ -1,0 +1,2 @@
+G:\Cqh_files\2021CoputerNetworkExperiment\lab\Lab2\SR\SR\Debug\SR.exe
+G:\Cqh_files\2021CoputerNetworkExperiment\lab\Lab2\SR\SR\Debug\SR.pdb

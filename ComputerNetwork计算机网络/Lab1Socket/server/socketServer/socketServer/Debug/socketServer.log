@@ -1,0 +1,4 @@
+﻿  socketServer.cpp
+G:\Cqh_files\2021CoputerNetworkExperiment\lab\Lab1Socket\server\socketServer\socketServer\socketServer.cpp(115,23): warning C4018: “<”: 有符号/无符号不匹配
+G:\Cqh_files\2021CoputerNetworkExperiment\lab\Lab1Socket\server\socketServer\socketServer\socketServer.cpp(131,14): warning C4101: “ch”: 未引用的局部变量
+  socketServer.vcxproj -> G:\Cqh_files\2021CoputerNetworkExperiment\lab\Lab1Socket\server\socketServer\Debug\socketServer.exe

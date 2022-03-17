@@ -1,0 +1,44 @@
+﻿  GBN.cpp
+  GBNReceiver.cpp
+  GBNSender.cpp
+  stdafx.cpp
+  StopWaitRdtReceiver.cpp
+  StopWaitRdtSender.cpp
+netsimlib.lib(NetworkServiceSimulator.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(GBN.obj 中)
+netsimlib.lib(NetworkServiceSimulator.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(GBN.obj 中)
+netsimlib.lib(NetworkServiceSimulator.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:ICF”规范)
+netsimlib.lib(RdtReceiver.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(GBN.obj 中)
+netsimlib.lib(RdtReceiver.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(GBN.obj 中)
+netsimlib.lib(DataStructure.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(GBN.obj 中)
+netsimlib.lib(DataStructure.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(GBN.obj 中)
+netsimlib.lib(RdtSender.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(GBN.obj 中)
+netsimlib.lib(RdtSender.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(GBN.obj 中)
+netsimlib.lib(Utils.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(GBN.obj 中)
+netsimlib.lib(Utils.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(GBN.obj 中)
+netsimlib.lib(RandomEvent.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(GBN.obj 中)
+netsimlib.lib(RandomEvent.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(GBN.obj 中)
+netsimlib.lib(RandomEventList.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(GBN.obj 中)
+netsimlib.lib(RandomEventList.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(GBN.obj 中)
+netsimlib.lib(NetworkService.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(GBN.obj 中)
+netsimlib.lib(NetworkService.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(GBN.obj 中)
+netsimlib.lib(FileAppMessageFeeder.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(GBN.obj 中)
+netsimlib.lib(FileAppMessageFeeder.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(GBN.obj 中)
+netsimlib.lib(FileAppMessageWriter.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(GBN.obj 中)
+netsimlib.lib(FileAppMessageWriter.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(GBN.obj 中)
+netsimlib.lib(NetworkServiceConfiguration.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(GBN.obj 中)
+netsimlib.lib(NetworkServiceConfiguration.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(GBN.obj 中)
+netsimlib.lib(stdafx.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(GBN.obj 中)
+netsimlib.lib(stdafx.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(GBN.obj 中)
+netsimlib.lib(Tool.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“2”不匹配值“0”(GBN.obj 中)
+netsimlib.lib(Tool.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(GBN.obj 中)
+msvcprtd.lib(locale0_implib.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MDd_DynamicDebug”不匹配值“MD_DynamicRelease”(GBN.obj 中)
+LINK : warning LNK4098: 默认库“MSVCRTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+netsimlib.lib(NetworkServiceSimulator.obj) : error LNK2001: 无法解析的外部符号 __imp___invalid_parameter
+netsimlib.lib(FileAppMessageFeeder.obj) : error LNK2001: 无法解析的外部符号 __imp___invalid_parameter
+netsimlib.lib(FileAppMessageWriter.obj) : error LNK2001: 无法解析的外部符号 __imp___invalid_parameter
+netsimlib.lib(NetworkServiceSimulator.obj) : error LNK2001: 无法解析的外部符号 __imp___CrtDbgReport
+netsimlib.lib(FileAppMessageFeeder.obj) : error LNK2001: 无法解析的外部符号 __imp___CrtDbgReport
+netsimlib.lib(FileAppMessageWriter.obj) : error LNK2001: 无法解析的外部符号 __imp___CrtDbgReport
+msvcprtd.lib(locale0_implib.obj) : error LNK2001: 无法解析的外部符号 __imp___free_dbg
+msvcprtd.lib(locale0_implib.obj) : error LNK2001: 无法解析的外部符号 __imp___malloc_dbg
+G:\Cqh_files\2021CoputerNetworkExperiment\lab\Lab2\GBN\GBN\Release\GBN.exe : fatal error LNK1120: 4 个无法解析的外部命令
