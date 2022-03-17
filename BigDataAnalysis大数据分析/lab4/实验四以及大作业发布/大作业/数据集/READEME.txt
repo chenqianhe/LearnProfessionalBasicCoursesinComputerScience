@@ -1,0 +1,7 @@
+数据集（datasets)
+1、ratings.csv：原始数据（仅供参考）
+2、train_set.csv，test_set.csv：已将原始数据划分为训练集和测试集
+3、movies.csv：电影信息数据
+
+协同过滤（CF）算法使用的数据文件：2
+基于内容的推荐算法（CB）需要使用的数据文件：2、3
