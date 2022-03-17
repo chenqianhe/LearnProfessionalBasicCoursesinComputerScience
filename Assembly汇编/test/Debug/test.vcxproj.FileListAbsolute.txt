@@ -1,0 +1,2 @@
+F:\Cqh_files\2021assembly\test\Debug\test.exe
+F:\Cqh_files\2021assembly\test\Debug\test.pdb

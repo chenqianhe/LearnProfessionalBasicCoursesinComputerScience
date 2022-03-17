@@ -1,0 +1,19 @@
+﻿  Assembling CommodityBackgroudManagementSystem.asm...
+  Assembling myfunction.asm...
+myfunction.asm(18): warning A6004: procedure argument or local not referenced : TEMPvalue
+  partfunction.c
+F:\Cqh_files\2021assembly\lab4\CommodityBackgroudManagementSystem\partfunction.c(58,13): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+F:\Cqh_files\2021assembly\lab4\CommodityBackgroudManagementSystem\partfunction.c(58,13): message : 请考虑在格式字符串中使用“%hd”
+F:\Cqh_files\2021assembly\lab4\CommodityBackgroudManagementSystem\partfunction.c(61,13): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+F:\Cqh_files\2021assembly\lab4\CommodityBackgroudManagementSystem\partfunction.c(61,13): message : 请考虑在格式字符串中使用“%hd”
+F:\Cqh_files\2021assembly\lab4\CommodityBackgroudManagementSystem\partfunction.c(64,13): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+F:\Cqh_files\2021assembly\lab4\CommodityBackgroudManagementSystem\partfunction.c(64,13): message : 请考虑在格式字符串中使用“%hd”
+F:\Cqh_files\2021assembly\lab4\CommodityBackgroudManagementSystem\partfunction.c(67,13): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+F:\Cqh_files\2021assembly\lab4\CommodityBackgroudManagementSystem\partfunction.c(67,13): message : 请考虑在格式字符串中使用“%hd”
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+CommodityBackgroudManagementSystem.obj : error LNK2026: 模块对于 SAFESEH 映像是不安全的。
+myfunction.obj : error LNK2026: 模块对于 SAFESEH 映像是不安全的。
+F:\Cqh_files\2021assembly\lab4\CommodityBackgroudManagementSystem\Release\CommodityBackgroudManagementSystem.exe : fatal error LNK1281: 无法生成 SAFESEH 映像。

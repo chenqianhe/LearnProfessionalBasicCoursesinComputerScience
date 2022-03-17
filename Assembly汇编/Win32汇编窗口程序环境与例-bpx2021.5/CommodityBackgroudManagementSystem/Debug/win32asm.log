@@ -1,0 +1,3 @@
+﻿E:\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(win32asm.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+legacy_stdio_wide_specifiers.lib(legacy_stdio_wide_specifiers.obj) : warning LNK4210: 存在 .CRT 节；可能有未处理的静态初始值设定项或结束符
+  win32asm.vcxproj -> C:\Users\Administrator\Desktop\Win32汇编窗口程序环境与例-bpx2021.5\CommodityBackgroudManagementSystem\Debug\CommodityBackgroudManagementSystem.exe

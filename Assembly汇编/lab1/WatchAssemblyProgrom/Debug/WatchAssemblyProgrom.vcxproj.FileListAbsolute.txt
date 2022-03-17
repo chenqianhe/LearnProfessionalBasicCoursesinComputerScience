@@ -1,0 +1,2 @@
+F:\Cqh_files\2021assembly\lab1\WatchAssemblyProgrom\Debug\WatchAssemblyProgrom.exe
+F:\Cqh_files\2021assembly\lab1\WatchAssemblyProgrom\Debug\WatchAssemblyProgrom.pdb

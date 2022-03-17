@@ -1,0 +1,6 @@
+IDM_MYMENU         EQU             101
+ID_OP_EXIT         EQU             40006
+ID_HELP_VERSION    EQU             40007
+ID_HELP_AUTHOR     EQU             40008
+ID_ACTION_COMPUTERATE EQU		   40009
+ID_ACTION_LISTSORT EQU              40010

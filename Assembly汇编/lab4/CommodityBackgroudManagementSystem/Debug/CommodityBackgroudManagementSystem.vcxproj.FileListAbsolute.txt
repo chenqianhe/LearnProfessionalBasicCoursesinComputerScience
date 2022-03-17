@@ -1,0 +1,2 @@
+F:\Cqh_files\2021assembly\lab4\CommodityBackgroudManagementSystem\Debug\CommodityBackgroudManagementSystem.exe
+F:\Cqh_files\2021assembly\lab4\CommodityBackgroudManagementSystem\Debug\CommodityBackgroudManagementSystem.pdb

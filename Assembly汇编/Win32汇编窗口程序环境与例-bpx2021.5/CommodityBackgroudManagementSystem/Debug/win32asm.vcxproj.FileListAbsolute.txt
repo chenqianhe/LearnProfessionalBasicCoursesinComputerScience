@@ -1,0 +1,6 @@
+V:\win32asm\Debug\win32asm.exe
+V:\win32asm\Debug\win32asm.pdb
+C:\Users\Administrator\Desktop\Win32汇编窗口程序环境与例-bpx2021.5\win32asm\Debug\CommodityBackgroudManagementSystem.exe
+C:\Users\Administrator\Desktop\Win32汇编窗口程序环境与例-bpx2021.5\win32asm\Debug\CommodityBackgroudManagementSystem.pdb
+C:\Users\Administrator\Desktop\Win32汇编窗口程序环境与例-bpx2021.5\CommodityBackgroudManagementSystem\Debug\CommodityBackgroudManagementSystem.exe
+C:\Users\Administrator\Desktop\Win32汇编窗口程序环境与例-bpx2021.5\CommodityBackgroudManagementSystem\Debug\CommodityBackgroudManagementSystem.pdb

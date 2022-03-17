@@ -1,0 +1,2 @@
+F:\Cqh_files\2021assembly\lab1\FromCToAssembly\Debug\FromCToAssembly.exe
+F:\Cqh_files\2021assembly\lab1\FromCToAssembly\Debug\FromCToAssembly.pdb

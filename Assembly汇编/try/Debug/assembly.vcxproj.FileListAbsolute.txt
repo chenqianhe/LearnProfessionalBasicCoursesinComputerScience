@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\assembly\assembly\Debug\assembly.exe
+C:\Users\Administrator\Desktop\assembly\assembly\Debug\assembly.pdb

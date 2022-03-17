@@ -1,0 +1,3 @@
+﻿  Assembling CommodityBackgroudManagementSystem.asm...
+legacy_stdio_wide_specifiers.lib(legacy_stdio_wide_specifiers.obj) : warning LNK4210: 存在 .CRT 节；可能有未处理的静态初始值设定项或结束符
+  CommodityBackgroudManagementSystem.vcxproj -> F:\Cqh_files\2021assembly\lab2\CommodityBackgroudManagementSystem\Debug\CommodityBackgroudManagementSystem.exe
