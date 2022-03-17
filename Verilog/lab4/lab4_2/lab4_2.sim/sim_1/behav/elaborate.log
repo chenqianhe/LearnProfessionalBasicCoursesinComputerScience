@@ -1,0 +1,16 @@
+Vivado Simulator 2015.2
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: E:/xilinx/Vivado/2015.2/bin/unwrapped/win64.o/xelab.exe -wto 8a747f66714e4ed694da998313258c0a --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot FEM_tb_behav xil_defaultlib.FEM_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "F:/Cqh_files/2021verilog/upload/lab4/FSM.v" Line 1. Module FSM doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "F:/Cqh_files/2021verilog/upload/lab4/FSM.v" Line 1. Module FSM doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.FSM
+Compiling module xil_defaultlib.FEM_tb
+Compiling module xil_defaultlib.glbl
+Waiting for 2 sub-compilation(s) to finish...
+Built simulation snapshot FEM_tb_behav

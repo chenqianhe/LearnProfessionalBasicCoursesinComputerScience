@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1619699043">
+  <File Type="OPT-DCP" Name="dynamic_scan_opt.dcp"/>
+  <File Type="RUN-CONSTRS" Name="$PDATADIR/runs/impl_1/constrs_in.xml"/>
+  <File Type="RUN-SRCS" Name="$PDATADIR/runs/impl_1/sources.xml"/>
+  <File Type="PWROPT-DCP" Name="dynamic_scan_pwropt.dcp"/>
+  <File Type="ROUTE-DCP" Name="dynamic_scan_routed.dcp"/>
+  <File Type="PA-TCL" Name="dynamic_scan.tcl"/>
+  <File Type="RUN-STRAT" Name="$PDATADIR/runs/impl_1/impl_1.psg"/>
+  <File Type="OPT-DRC" Name="dynamic_scan_drc_opted.rpt"/>
+  <File Type="PWROPT-DRC" Name="dynamic_scan_drc_pwropted.rpt"/>
+  <File Type="OPT-HWDEF" Name="dynamic_scan.hwdef"/>
+  <File Type="PLACE-DCP" Name="dynamic_scan_placed.dcp"/>
+  <File Type="PLACE-IO" Name="dynamic_scan_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="dynamic_scan_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="dynamic_scan_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="dynamic_scan_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="dynamic_scan_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="dynamic_scan_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="dynamic_scan_incremental_reuse_pre_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="dynamic_scan_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="dynamic_scan_physopt.dcp"/>
+  <File Type="RDI-RDI" Name="dynamic_scan.vdi"/>
+  <File Type="PHYSOPT-DRC" Name="dynamic_scan_drc_physopted.rpt"/>
+  <File Type="ROUTE-DRC" Name="dynamic_scan_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="dynamic_scan_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="dynamic_scan_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="dynamic_scan_power_summary_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="dynamic_scan_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="dynamic_scan_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="dynamic_scan_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="dynamic_scan_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="dynamic_scan_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="dynamic_scan_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="dynamic_scan_clock_utilization_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="dynamic_scan_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="dynamic_scan_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="dynamic_scan_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="dynamic_scan_timing_summary_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="dynamic_scan.bit"/>
+  <File Type="BG-BIN" Name="dynamic_scan.bin"/>
+  <File Type="BITSTR-MSK" Name="dynamic_scan.msk"/>
+  <File Type="BITSTR-RBT" Name="dynamic_scan.rbt"/>
+  <File Type="BITSTR-NKY" Name="dynamic_scan.nky"/>
+  <File Type="BITSTR-BMM" Name="dynamic_scan_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="dynamic_scan.mmi"/>
+  <File Type="BITSTR-SYSDEF" Name="dynamic_scan.sysdef"/>
+  <File Type="BG-BGN" Name="dynamic_scan.bgn"/>
+  <File Type="BG-DRC" Name="dynamic_scan.drc"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../rom8x4.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../pattern.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../divider.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../counter.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../decoder3_8.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../dynamic_scan.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="dynamic_scan"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../Nexys4DDR_Master3.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2015">
+      <Desc>Vivado Implementation Defaults</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

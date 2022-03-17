@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Cqh_files/2021verilog/upload/lab4/lab4_3/ADD.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ADD
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Cqh_files/2021verilog/upload/lab4/lab4_3/LaserTimer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LaserTimer
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Cqh_files/2021verilog/upload/lab4/lab4_3/Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Cqh_files/2021verilog/upload/lab4/lab4_3/TOP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TOP
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Cqh_files/2021verilog/upload/lab4/lab4_3/comparator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Cqh_files/2021verilog/upload/lab4/lab4_3/datapath_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module datapath_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Cqh_files/2021verilog/upload/lab4/lab4_3/mux2_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Cqh_files/2021verilog/upload/lab4/lab4_3/register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Cqh_files/2021verilog/upload/lab4/auto_add_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module auto_add_tb

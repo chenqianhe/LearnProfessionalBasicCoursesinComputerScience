@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../ADD.v" \
+"../../../../../Memory.v" \
+"../../../../../comparator.v" \
+"../../../../../mux2_1.v" \
+"../../../../../register.v" \
+"../../../../../datapath_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ADD.v" \
+"../../../../LaserTimer.v" \
+"../../../../Memory.v" \
+"../../../../TOP.v" \
+"../../../../comparator.v" \
+"../../../../datapath_top.v" \
+"../../../../mux2_1.v" \
+"../../../../register.v" \
+"../../../../../auto_add_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

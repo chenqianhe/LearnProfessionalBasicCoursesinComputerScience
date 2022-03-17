@@ -1,0 +1,715 @@
+#-----------------------------------------------------------
+# Vivado v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Thu Apr 29 20:24:04 2021
+# Process ID: 14280
+# Log file: F:/Cqh_files/2021verilog/upload/lab3/lab3_2/lab3_2.runs/synth_1/dynamic_scan.vds
+# Journal file: F:/Cqh_files/2021verilog/upload/lab3/lab3_2/lab3_2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source dynamic_scan.tcl -notrace
+Command: synth_design -top dynamic_scan -part xc7a100tcsg324-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a100t'
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:03 ; elapsed = 00:00:03 . Memory (MB): peak = 247.113 ; gain = 74.371
+---------------------------------------------------------------------------------
+INFO: [Synth 8-638] synthesizing module 'dynamic_scan' [F:/Cqh_files/2021verilog/upload/lab3/dynamic_scan.v:1]
+INFO: [Synth 8-638] synthesizing module 'divider' [F:/Cqh_files/2021verilog/upload/lab3/divider.v:1]
+	Parameter N bound to: 100000000 - type: integer 
+INFO: [Synth 8-256] done synthesizing module 'divider' (1#1) [F:/Cqh_files/2021verilog/upload/lab3/divider.v:1]
+INFO: [Synth 8-638] synthesizing module 'counter' [F:/Cqh_files/2021verilog/upload/lab3/counter.v:1]
+INFO: [Synth 8-256] done synthesizing module 'counter' (2#1) [F:/Cqh_files/2021verilog/upload/lab3/counter.v:1]
+INFO: [Synth 8-638] synthesizing module 'decoder3_8' [F:/Cqh_files/2021verilog/upload/lab3/decoder3_8.v:1]
+INFO: [Synth 8-226] default block is never used [F:/Cqh_files/2021verilog/upload/lab3/decoder3_8.v:7]
+INFO: [Synth 8-256] done synthesizing module 'decoder3_8' (3#1) [F:/Cqh_files/2021verilog/upload/lab3/decoder3_8.v:1]
+INFO: [Synth 8-638] synthesizing module 'rom8x4' [F:/Cqh_files/2021verilog/upload/lab3/rom8x4.v:1]
+INFO: [Synth 8-256] done synthesizing module 'rom8x4' (4#1) [F:/Cqh_files/2021verilog/upload/lab3/rom8x4.v:1]
+INFO: [Synth 8-638] synthesizing module 'pattern' [F:/Cqh_files/2021verilog/upload/lab3/pattern.v:1]
+INFO: [Synth 8-226] default block is never used [F:/Cqh_files/2021verilog/upload/lab3/pattern.v:7]
+INFO: [Synth 8-256] done synthesizing module 'pattern' (5#1) [F:/Cqh_files/2021verilog/upload/lab3/pattern.v:1]
+INFO: [Synth 8-256] done synthesizing module 'dynamic_scan' (6#1) [F:/Cqh_files/2021verilog/upload/lab3/dynamic_scan.v:1]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:04 ; elapsed = 00:00:04 . Memory (MB): peak = 281.344 ; gain = 108.602
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:04 ; elapsed = 00:00:04 . Memory (MB): peak = 281.344 ; gain = 108.602
+---------------------------------------------------------------------------------
+INFO: [Device 21-403] Loading part xc7a100tcsg324-1
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Parsing XDC File [F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc]
+Finished Parsing XDC File [F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc]
+Completed Processing XDC Constraints
+
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.003 . Memory (MB): peak = 582.168 ; gain = 0.000
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:08 ; elapsed = 00:00:08 . Memory (MB): peak = 582.168 ; gain = 409.426
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7a100tcsg324-1
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:08 ; elapsed = 00:00:08 . Memory (MB): peak = 582.168 ; gain = 409.426
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying 'set_property' XDC Constraints
+---------------------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 7 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 7 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 60 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 60 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 61 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 61 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 62 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 62 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 63 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 63 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 64 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 64 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 65 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 65 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 66 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 66 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 68 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 68 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 70 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 70 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 71 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 71 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 72 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 72 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 73 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 73 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 74 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 74 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 75 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 75 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 76 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 76 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 77 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 77 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:08 ; elapsed = 00:00:08 . Memory (MB): peak = 582.168 ; gain = 409.426
+---------------------------------------------------------------------------------
+INFO: [Synth 8-5545] ROM "clk_N" won't be mapped to RAM because address size (32) is larger than maximum supported(18)
+INFO: [Synth 8-5545] ROM "counter" won't be mapped to RAM because address size (32) is larger than maximum supported(18)
+INFO: [Synth 8-5544] ROM "mem" won't be mapped to Block RAM because address size (3) smaller than threshold (5)
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:08 ; elapsed = 00:00:09 . Memory (MB): peak = 582.168 ; gain = 409.426
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+Detailed RTL Component Info : 
++---Adders : 
+	   2 Input     32 Bit       Adders := 1     
+	   2 Input      3 Bit       Adders := 1     
++---Registers : 
+	               32 Bit    Registers := 1     
+	                3 Bit    Registers := 1     
+	                1 Bit    Registers := 1     
++---Muxes : 
+	   8 Input      8 Bit        Muxes := 1     
+	  16 Input      8 Bit        Muxes := 1     
+	   9 Input      4 Bit        Muxes := 1     
+	   2 Input      3 Bit        Muxes := 1     
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start RTL Hierarchical Component Statistics 
+---------------------------------------------------------------------------------
+Hierarchical RTL Component report 
+Module divider 
+Detailed RTL Component Info : 
++---Adders : 
+	   2 Input     32 Bit       Adders := 1     
++---Registers : 
+	               32 Bit    Registers := 1     
+	                1 Bit    Registers := 1     
+Module counter 
+Detailed RTL Component Info : 
++---Adders : 
+	   2 Input      3 Bit       Adders := 1     
++---Registers : 
+	                3 Bit    Registers := 1     
++---Muxes : 
+	   2 Input      3 Bit        Muxes := 1     
+Module decoder3_8 
+Detailed RTL Component Info : 
++---Muxes : 
+	   8 Input      8 Bit        Muxes := 1     
+Module rom8x4 
+Detailed RTL Component Info : 
++---Muxes : 
+	   9 Input      4 Bit        Muxes := 1     
+Module pattern 
+Detailed RTL Component Info : 
++---Muxes : 
+	  16 Input      8 Bit        Muxes := 1     
+---------------------------------------------------------------------------------
+Finished RTL Hierarchical Component Statistics
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 240 (col length:80)
+BRAMs: 270 (col length: RAMB18 80 RAMB36 40)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+Start Parallel Synthesis Optimization  : Time (s): cpu = 00:00:08 ; elapsed = 00:00:09 . Memory (MB): peak = 582.168 ; gain = 409.426
+---------------------------------------------------------------------------------
+Start Cross Boundary Optimization
+---------------------------------------------------------------------------------
+INFO: [Synth 8-5545] ROM "mydivider/counter" won't be mapped to RAM because address size (32) is larger than maximum supported(18)
+INFO: [Synth 8-5545] ROM "mydivider/clk_N" won't be mapped to RAM because address size (32) is larger than maximum supported(18)
+WARNING: [Synth 8-3917] design dynamic_scan has port SEG[7] driven by constant 1
+---------------------------------------------------------------------------------
+Finished Cross Boundary Optimization : Time (s): cpu = 00:00:08 ; elapsed = 00:00:09 . Memory (MB): peak = 582.168 ; gain = 409.426
+---------------------------------------------------------------------------------
+Finished Parallel Reinference  : Time (s): cpu = 00:00:08 ; elapsed = 00:00:09 . Memory (MB): peak = 582.168 ; gain = 409.426
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Area Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Area Optimization : Time (s): cpu = 00:00:09 ; elapsed = 00:00:09 . Memory (MB): peak = 582.168 ; gain = 409.426
+---------------------------------------------------------------------------------
+Finished Parallel Area Optimization  : Time (s): cpu = 00:00:09 ; elapsed = 00:00:09 . Memory (MB): peak = 582.168 ; gain = 409.426
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+Finished Parallel Synthesis Optimization  : Time (s): cpu = 00:00:09 ; elapsed = 00:00:09 . Memory (MB): peak = 582.168 ; gain = 409.426
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying XDC Timing Constraints
+---------------------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 7 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 7 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 60 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 60 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 61 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 61 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 62 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 62 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 63 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 63 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 64 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 64 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 65 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 65 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 66 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 66 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 68 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 68 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 70 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 70 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 71 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 71 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 72 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 72 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 73 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 73 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 74 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 74 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 75 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 75 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 76 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 76 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 77 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+incorrect set of required parameters for "set_property" at line 77 of file F:/Cqh_files/2021verilog/upload/lab3/Nexys4DDR_Master3.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:00:16 ; elapsed = 00:00:17 . Memory (MB): peak = 582.168 ; gain = 409.426
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:00:16 ; elapsed = 00:00:17 . Memory (MB): peak = 582.168 ; gain = 409.426
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:00:16 ; elapsed = 00:00:17 . Memory (MB): peak = 582.168 ; gain = 409.426
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:00:17 ; elapsed = 00:00:17 . Memory (MB): peak = 582.168 ; gain = 409.426
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:00:17 ; elapsed = 00:00:17 . Memory (MB): peak = 582.168 ; gain = 409.426
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:00:17 ; elapsed = 00:00:17 . Memory (MB): peak = 582.168 ; gain = 409.426
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports : Time (s): cpu = 00:00:17 ; elapsed = 00:00:17 . Memory (MB): peak = 582.168 ; gain = 409.426
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:00:17 ; elapsed = 00:00:17 . Memory (MB): peak = 582.168 ; gain = 409.426
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+Report BlackBoxes: 
++-+--------------+----------+
+| |BlackBox name |Instances |
++-+--------------+----------+
++-+--------------+----------+
+
+Report Cell Usage: 
++------+-------+------+
+|      |Cell   |Count |
++------+-------+------+
+|1     |BUFG   |     1|
+|2     |CARRY4 |     8|
+|3     |LUT1   |    34|
+|4     |LUT2   |     3|
+|5     |LUT3   |    15|
+|6     |LUT6   |     6|
+|7     |FDRE   |    36|
+|8     |IBUF   |     1|
+|9     |OBUF   |    16|
++------+-------+------+
+
+Report Instance Areas: 
++------+------------+-----------+------+
+|      |Instance    |Module     |Cells |
++------+------------+-----------+------+
+|1     |top         |           |   120|
+|2     |  mycounter |counter    |     9|
+|3     |  mydecoder |decoder3_8 |     5|
+|4     |  mydivider |divider    |    82|
+|5     |  mypattern |pattern    |     6|
++------+------------+-----------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:00:17 ; elapsed = 00:00:17 . Memory (MB): peak = 582.168 ; gain = 409.426
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 1 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:00:11 ; elapsed = 00:00:13 . Memory (MB): peak = 582.168 ; gain = 87.051
+Synthesis Optimization Complete : Time (s): cpu = 00:00:17 ; elapsed = 00:00:17 . Memory (MB): peak = 582.168 ; gain = 409.426
+INFO: [Project 1-571] Translating synthesized netlist
+INFO: [Netlist 29-17] Analyzing 9 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+INFO: [Common 17-83] Releasing license: Synthesis
+30 Infos, 1 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:15 ; elapsed = 00:00:16 . Memory (MB): peak = 582.168 ; gain = 388.266
+report_utilization: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.023 . Memory (MB): peak = 582.168 ; gain = 0.000
+INFO: [Common 17-206] Exiting Vivado at Thu Apr 29 20:24:22 2021...

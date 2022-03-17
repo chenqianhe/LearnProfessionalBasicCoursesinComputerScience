@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1619096188">
+  <File Type="OPT-DCP" Name="_7Seg_Driver_Direct_opt.dcp"/>
+  <File Type="RUN-CONSTRS" Name="$PDATADIR/runs/impl_1/constrs_in.xml"/>
+  <File Type="RUN-SRCS" Name="$PDATADIR/runs/impl_1/sources.xml"/>
+  <File Type="PWROPT-DCP" Name="_7Seg_Driver_Direct_pwropt.dcp"/>
+  <File Type="ROUTE-DCP" Name="_7Seg_Driver_Direct_routed.dcp"/>
+  <File Type="PA-TCL" Name="_7Seg_Driver_Direct.tcl"/>
+  <File Type="RUN-STRAT" Name="$PDATADIR/runs/impl_1/impl_1.psg"/>
+  <File Type="OPT-DRC" Name="_7Seg_Driver_Direct_drc_opted.rpt"/>
+  <File Type="PWROPT-DRC" Name="_7Seg_Driver_Direct_drc_pwropted.rpt"/>
+  <File Type="OPT-HWDEF" Name="_7Seg_Driver_Direct.hwdef"/>
+  <File Type="PLACE-DCP" Name="_7Seg_Driver_Direct_placed.dcp"/>
+  <File Type="PLACE-IO" Name="_7Seg_Driver_Direct_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="_7Seg_Driver_Direct_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="_7Seg_Driver_Direct_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="_7Seg_Driver_Direct_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="_7Seg_Driver_Direct_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="_7Seg_Driver_Direct_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="_7Seg_Driver_Direct_incremental_reuse_pre_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="_7Seg_Driver_Direct_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="_7Seg_Driver_Direct_physopt.dcp"/>
+  <File Type="RDI-RDI" Name="_7Seg_Driver_Direct.vdi"/>
+  <File Type="PHYSOPT-DRC" Name="_7Seg_Driver_Direct_drc_physopted.rpt"/>
+  <File Type="ROUTE-DRC" Name="_7Seg_Driver_Direct_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="_7Seg_Driver_Direct_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="_7Seg_Driver_Direct_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="_7Seg_Driver_Direct_power_summary_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="_7Seg_Driver_Direct_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="_7Seg_Driver_Direct_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="_7Seg_Driver_Direct_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="_7Seg_Driver_Direct_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="_7Seg_Driver_Direct_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="_7Seg_Driver_Direct_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="_7Seg_Driver_Direct_clock_utilization_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="_7Seg_Driver_Direct_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="_7Seg_Driver_Direct_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="_7Seg_Driver_Direct_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="_7Seg_Driver_Direct_timing_summary_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="_7Seg_Driver_Direct.bit"/>
+  <File Type="BG-BIN" Name="_7Seg_Driver_Direct.bin"/>
+  <File Type="BITSTR-MSK" Name="_7Seg_Driver_Direct.msk"/>
+  <File Type="BITSTR-RBT" Name="_7Seg_Driver_Direct.rbt"/>
+  <File Type="BITSTR-NKY" Name="_7Seg_Driver_Direct.nky"/>
+  <File Type="BITSTR-BMM" Name="_7Seg_Driver_Direct_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="_7Seg_Driver_Direct.mmi"/>
+  <File Type="BITSTR-SYSDEF" Name="_7Seg_Driver_Direct.sysdef"/>
+  <File Type="BG-BGN" Name="_7Seg_Driver_Direct.bgn"/>
+  <File Type="BG-DRC" Name="_7Seg_Driver_Direct.drc"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../seg7_driver_decoder.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="_7Seg_Driver_Direct"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../Nexys4DDR_Master2.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2015">
+      <Desc>Vivado Implementation Defaults</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

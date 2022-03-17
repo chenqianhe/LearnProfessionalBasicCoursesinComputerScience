@@ -1,0 +1,23 @@
+
+*** Running vivado
+    with args -log FEM_tb.vds -m64 -mode batch -messageDb vivado.pb -notrace -source FEM_tb.tcl
+
+
+****** Vivado v2015.2 (64-bit)
+  **** SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+  **** IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+    ** Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+
+source FEM_tb.tcl -notrace
+Command: synth_design -top FEM_tb -part xc7a100tcsg324-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a100t'
+ERROR: [Synth 8-988] DONE is already declared [F:/Cqh_files/2021verilog/upload/lab4/FSM.v:4]
+INFO: [Synth 8-2350] module FSM ignored due to previous errors [F:/Cqh_files/2021verilog/upload/lab4/FSM.v:1]
+Failed to read verilog 'F:/Cqh_files/2021verilog/upload/lab4/FSM.v'
+INFO: [Common 17-83] Releasing license: Synthesis
+3 Infos, 0 Warnings, 0 Critical Warnings and 2 Errors encountered.
+synth_design failed
+ERROR: [Common 17-69] Command failed: Synthesis failed - please see the console or run log file for details
+INFO: [Common 17-206] Exiting Vivado at Sat May 15 22:26:05 2021...

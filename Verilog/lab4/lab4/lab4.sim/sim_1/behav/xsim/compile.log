@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Cqh_files/2021verilog/upload/lab4/ADD.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ADD
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Cqh_files/2021verilog/upload/lab4/Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Cqh_files/2021verilog/upload/lab4/comparator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Cqh_files/2021verilog/upload/lab4/mux2_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Cqh_files/2021verilog/upload/lab4/register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Cqh_files/2021verilog/upload/lab4/datapath_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module datapath_top

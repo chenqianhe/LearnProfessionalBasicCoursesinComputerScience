@@ -1,0 +1,14 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+G:/Cqh_files/2021verilog/upload/lab4/auto_add_tb.v,1622114447,verilog,,,,auto_add_tb,,,,,,,,
+G:/Cqh_files/2021verilog/upload/lab4/lab4_3/ADD.v,1620906226,verilog,,G:/Cqh_files/2021verilog/upload/lab4/lab4_3/LaserTimer.v,,ADD,,,,,,,,
+G:/Cqh_files/2021verilog/upload/lab4/lab4_3/LaserTimer.v,1621512032,verilog,,G:/Cqh_files/2021verilog/upload/lab4/lab4_3/Memory.v,,LaserTimer,,,,,,,,
+G:/Cqh_files/2021verilog/upload/lab4/lab4_3/Memory.v,1622114362,verilog,,G:/Cqh_files/2021verilog/upload/lab4/lab4_3/TOP.v,,Memory,,,,,,,,
+G:/Cqh_files/2021verilog/upload/lab4/lab4_3/TOP.v,1622114217,verilog,,G:/Cqh_files/2021verilog/upload/lab4/lab4_3/comparator.v,,TOP,,,,,,,,
+G:/Cqh_files/2021verilog/upload/lab4/lab4_3/comparator.v,1620910474,verilog,,G:/Cqh_files/2021verilog/upload/lab4/lab4_3/datapath_top.v,,comparator,,,,,,,,
+G:/Cqh_files/2021verilog/upload/lab4/lab4_3/datapath_top.v,1621513774,verilog,,G:/Cqh_files/2021verilog/upload/lab4/lab4_3/mux2_1.v,,datapath_top,,,,,,,,
+G:/Cqh_files/2021verilog/upload/lab4/lab4_3/lab4_3.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+G:/Cqh_files/2021verilog/upload/lab4/lab4_3/mux2_1.v,1620910474,verilog,,G:/Cqh_files/2021verilog/upload/lab4/lab4_3/register.v,,mux2_1,,,,,,,,
+G:/Cqh_files/2021verilog/upload/lab4/lab4_3/register.v,1621513742,verilog,,G:/Cqh_files/2021verilog/upload/lab4/auto_add_tb.v,,register,,,,,,,,

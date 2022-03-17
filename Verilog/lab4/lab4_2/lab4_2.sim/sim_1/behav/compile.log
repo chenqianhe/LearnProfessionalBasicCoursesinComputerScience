@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Cqh_files/2021verilog/upload/lab4/FSM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FSM
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Cqh_files/2021verilog/upload/lab4/FSM_testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FEM_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Cqh_files/2021verilog/upload/lab4/lab4_2/lab4_2.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

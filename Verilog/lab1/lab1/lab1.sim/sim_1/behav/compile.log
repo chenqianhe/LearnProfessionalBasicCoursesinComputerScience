@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Cqh_files/2021verilog/lab1/lab1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lab1
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Cqh_files/2021verilog/lab1/lab1_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lab1_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Cqh_files/2021verilog/lab1/lab1/lab1.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,19 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 902e6c67de6f49f4867a86990199fb9b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot datapath_top_behav xil_defaultlib.datapath_top xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 8 for port 'A' [G:/Cqh_files/2021verilog/upload/lab4/datapath_top.v:27]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.ADD(WIDTH=32)
+Compiling module xil_defaultlib.mux2_1(WIDTH=32)
+Compiling module xil_defaultlib.comparator(WIDTH=32)
+Compiling module xil_defaultlib.register(WIDTH=32)
+Compiling module xil_defaultlib.Memory(DATA_WIDTH=32)
+Compiling module xil_defaultlib.datapath_top
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot datapath_top_behav

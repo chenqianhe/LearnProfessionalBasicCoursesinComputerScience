@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1619696787">
+  <File Type="OPT-DCP" Name="rom8x4_opt.dcp"/>
+  <File Type="RUN-CONSTRS" Name="$PDATADIR/runs/impl_1/constrs_in.xml"/>
+  <File Type="RUN-SRCS" Name="$PDATADIR/runs/impl_1/sources.xml"/>
+  <File Type="PWROPT-DCP" Name="rom8x4_pwropt.dcp"/>
+  <File Type="ROUTE-DCP" Name="rom8x4_routed.dcp"/>
+  <File Type="PA-TCL" Name="rom8x4.tcl"/>
+  <File Type="RUN-STRAT" Name="$PDATADIR/runs/impl_1/impl_1.psg"/>
+  <File Type="OPT-DRC" Name="rom8x4_drc_opted.rpt"/>
+  <File Type="PWROPT-DRC" Name="rom8x4_drc_pwropted.rpt"/>
+  <File Type="OPT-HWDEF" Name="rom8x4.hwdef"/>
+  <File Type="PLACE-DCP" Name="rom8x4_placed.dcp"/>
+  <File Type="PLACE-IO" Name="rom8x4_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="rom8x4_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="rom8x4_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="rom8x4_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="rom8x4_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="rom8x4_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="rom8x4_incremental_reuse_pre_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="rom8x4_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="rom8x4_physopt.dcp"/>
+  <File Type="RDI-RDI" Name="rom8x4.vdi"/>
+  <File Type="PHYSOPT-DRC" Name="rom8x4_drc_physopted.rpt"/>
+  <File Type="ROUTE-DRC" Name="rom8x4_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="rom8x4_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="rom8x4_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="rom8x4_power_summary_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="rom8x4_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="rom8x4_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="rom8x4_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="rom8x4_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="rom8x4_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="rom8x4_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="rom8x4_clock_utilization_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="rom8x4_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="rom8x4_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="rom8x4_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="rom8x4_timing_summary_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="rom8x4.bit"/>
+  <File Type="BG-BIN" Name="rom8x4.bin"/>
+  <File Type="BITSTR-MSK" Name="rom8x4.msk"/>
+  <File Type="BITSTR-RBT" Name="rom8x4.rbt"/>
+  <File Type="BITSTR-NKY" Name="rom8x4.nky"/>
+  <File Type="BITSTR-BMM" Name="rom8x4_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="rom8x4.mmi"/>
+  <File Type="BITSTR-SYSDEF" Name="rom8x4.sysdef"/>
+  <File Type="BG-BGN" Name="rom8x4.bgn"/>
+  <File Type="BG-DRC" Name="rom8x4.drc"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../rom8x4.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="rom8x4"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../Nexys4DDR_Master2.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2015">
+      <Desc>Vivado Implementation Defaults</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

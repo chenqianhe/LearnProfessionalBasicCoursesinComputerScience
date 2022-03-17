@@ -1,0 +1,1444 @@
+#-----------------------------------------------------------
+# Vivado v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Thu Apr 22 21:49:42 2021
+# Process ID: 28796
+# Log file: F:/Cqh_files/2021verilog/upload/lab2/lab2_2/lab2_2.runs/synth_1/_7Seg_Driver_Direct.vds
+# Journal file: F:/Cqh_files/2021verilog/upload/lab2/lab2_2/lab2_2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source _7Seg_Driver_Direct.tcl -notrace
+Command: synth_design -top _7Seg_Driver_Direct -part xc7a100tcsg324-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a100t'
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:04 ; elapsed = 00:00:05 . Memory (MB): peak = 247.012 ; gain = 74.430
+---------------------------------------------------------------------------------
+INFO: [Synth 8-638] synthesizing module '_7Seg_Driver_Direct' [F:/Cqh_files/2021verilog/upload/lab2/seg7_driver_choice.v:1]
+INFO: [Synth 8-638] synthesizing module 'seg7_control' [F:/Cqh_files/2021verilog/upload/lab2/seg7_control.v:1]
+INFO: [Synth 8-226] default block is never used [F:/Cqh_files/2021verilog/upload/lab2/seg7_control.v:7]
+INFO: [Synth 8-256] done synthesizing module 'seg7_control' (1#1) [F:/Cqh_files/2021verilog/upload/lab2/seg7_control.v:1]
+INFO: [Synth 8-638] synthesizing module 'seg7_display' [F:/Cqh_files/2021verilog/upload/lab2/seg7_display.v:1]
+INFO: [Synth 8-226] default block is never used [F:/Cqh_files/2021verilog/upload/lab2/seg7_display.v:7]
+INFO: [Synth 8-256] done synthesizing module 'seg7_display' (2#1) [F:/Cqh_files/2021verilog/upload/lab2/seg7_display.v:1]
+INFO: [Synth 8-256] done synthesizing module '_7Seg_Driver_Direct' (3#1) [F:/Cqh_files/2021verilog/upload/lab2/seg7_driver_choice.v:1]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:05 ; elapsed = 00:00:06 . Memory (MB): peak = 282.203 ; gain = 109.621
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:05 ; elapsed = 00:00:06 . Memory (MB): peak = 282.203 ; gain = 109.621
+---------------------------------------------------------------------------------
+INFO: [Device 21-403] Loading part xc7a100tcsg324-1
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Parsing XDC File [F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc]
+invalid command name "IO_L24N_T3_RS0_15"
+CRITICAL WARNING: [Designutils 20-964] Command failed: invalid command name "IO_L24N_T3_RS0_15". [F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc:13]
+invalid command name "IO_L3N_T0_DQS_EMCCLK_14"
+CRITICAL WARNING: [Designutils 20-964] Command failed: invalid command name "IO_L3N_T0_DQS_EMCCLK_14". [F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc:14]
+invalid command name "IO_L6N_T0_D08_VREF_14"
+CRITICAL WARNING: [Designutils 20-964] Command failed: invalid command name "IO_L6N_T0_D08_VREF_14". [F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc:15]
+invalid command name "IO_L13N_T2_MRCC_14"
+CRITICAL WARNING: [Designutils 20-964] Command failed: invalid command name "IO_L13N_T2_MRCC_14". [F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc:16]
+invalid command name "IO_L12N_T1_MRCC_14"
+CRITICAL WARNING: [Designutils 20-964] Command failed: invalid command name "IO_L12N_T1_MRCC_14". [F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc:17]
+invalid command name "IO_L7N_T1_D10_14"
+CRITICAL WARNING: [Designutils 20-964] Command failed: invalid command name "IO_L7N_T1_D10_14". [F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc:18]
+invalid command name "IO_L17N_T2_A13_D29_14"
+CRITICAL WARNING: [Designutils 20-964] Command failed: invalid command name "IO_L17N_T2_A13_D29_14". [F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc:19]
+invalid command name "IO_L5N_T0_D07_14"
+CRITICAL WARNING: [Designutils 20-964] Command failed: invalid command name "IO_L5N_T0_D07_14". [F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc:20]
+invalid command name "IO_L24N_T3_34"
+CRITICAL WARNING: [Designutils 20-964] Command failed: invalid command name "IO_L24N_T3_34". [F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc:21]
+invalid command name "IO_25_34"
+CRITICAL WARNING: [Designutils 20-964] Command failed: invalid command name "IO_25_34". [F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc:22]
+invalid command name "IO_L15P_T2_DQS_RDWR_B_14"
+CRITICAL WARNING: [Designutils 20-964] Command failed: invalid command name "IO_L15P_T2_DQS_RDWR_B_14". [F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc:23]
+invalid command name "IO_L23P_T3_A03_D19_14"
+CRITICAL WARNING: [Designutils 20-964] Command failed: invalid command name "IO_L23P_T3_A03_D19_14". [F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc:24]
+invalid command name "IO_L24P_T3_35"
+CRITICAL WARNING: [Designutils 20-964] Command failed: invalid command name "IO_L24P_T3_35". [F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc:25]
+invalid command name "IO_L20P_T3_A08_D24_14"
+CRITICAL WARNING: [Designutils 20-964] Command failed: invalid command name "IO_L20P_T3_A08_D24_14". [F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc:26]
+invalid command name "IO_L19N_T3_A09_D25_VREF_14"
+CRITICAL WARNING: [Designutils 20-964] Command failed: invalid command name "IO_L19N_T3_A09_D25_VREF_14". [F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc:27]
+invalid command name "IO_L21P_T3_DQS_14"
+CRITICAL WARNING: [Designutils 20-964] Command failed: invalid command name "IO_L21P_T3_DQS_14". [F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc:28]
+Finished Parsing XDC File [F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc]
+Completed Processing XDC Constraints
+
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.008 . Memory (MB): peak = 498.363 ; gain = 0.000
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:11 ; elapsed = 00:00:12 . Memory (MB): peak = 498.363 ; gain = 325.781
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7a100tcsg324-1
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:11 ; elapsed = 00:00:12 . Memory (MB): peak = 498.363 ; gain = 325.781
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying 'set_property' XDC Constraints
+---------------------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 13 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 13 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 14 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 14 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 15 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 15 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 16 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 16 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 17 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 17 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 18 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 18 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 19 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 19 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 20 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 20 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 21 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 21 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 22 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 22 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 23 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 23 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 24 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 24 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 25 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 25 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 26 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 26 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 27 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 27 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 28 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 28 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 33 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 33 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 34 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 34 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 35 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 35 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 36 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 36 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 37 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 37 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 38 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 38 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 39 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 39 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 40 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 40 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 41 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 41 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 42 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 42 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 43 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 43 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 44 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 44 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 45 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 45 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 46 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 46 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 47 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 47 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 48 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 48 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 60 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 60 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 61 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 61 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 62 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 62 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 63 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 63 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 64 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 64 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 65 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 65 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 66 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 66 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 68 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 68 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 70 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 70 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 71 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 71 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 72 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 72 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 73 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 73 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 74 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 74 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 75 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 75 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 76 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 76 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 77 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 77 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:11 ; elapsed = 00:00:12 . Memory (MB): peak = 498.363 ; gain = 325.781
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:11 ; elapsed = 00:00:13 . Memory (MB): peak = 498.363 ; gain = 325.781
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+Detailed RTL Component Info : 
++---Muxes : 
+	   8 Input      8 Bit        Muxes := 1     
+	  16 Input      8 Bit        Muxes := 1     
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start RTL Hierarchical Component Statistics 
+---------------------------------------------------------------------------------
+Hierarchical RTL Component report 
+Module seg7_control 
+Detailed RTL Component Info : 
++---Muxes : 
+	   8 Input      8 Bit        Muxes := 1     
+Module seg7_display 
+Detailed RTL Component Info : 
++---Muxes : 
+	  16 Input      8 Bit        Muxes := 1     
+---------------------------------------------------------------------------------
+Finished RTL Hierarchical Component Statistics
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 240 (col length:80)
+BRAMs: 270 (col length: RAMB18 80 RAMB36 40)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+Start Parallel Synthesis Optimization  : Time (s): cpu = 00:00:11 ; elapsed = 00:00:13 . Memory (MB): peak = 498.363 ; gain = 325.781
+---------------------------------------------------------------------------------
+Start Cross Boundary Optimization
+---------------------------------------------------------------------------------
+WARNING: [Synth 8-3917] design _7Seg_Driver_Direct has port SEG[7] driven by constant 1
+---------------------------------------------------------------------------------
+Finished Cross Boundary Optimization : Time (s): cpu = 00:00:11 ; elapsed = 00:00:13 . Memory (MB): peak = 498.363 ; gain = 325.781
+---------------------------------------------------------------------------------
+Finished Parallel Reinference  : Time (s): cpu = 00:00:11 ; elapsed = 00:00:13 . Memory (MB): peak = 498.363 ; gain = 325.781
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Area Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Area Optimization : Time (s): cpu = 00:00:11 ; elapsed = 00:00:13 . Memory (MB): peak = 498.363 ; gain = 325.781
+---------------------------------------------------------------------------------
+Finished Parallel Area Optimization  : Time (s): cpu = 00:00:11 ; elapsed = 00:00:13 . Memory (MB): peak = 498.363 ; gain = 325.781
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+Finished Parallel Synthesis Optimization  : Time (s): cpu = 00:00:11 ; elapsed = 00:00:13 . Memory (MB): peak = 498.363 ; gain = 325.781
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying XDC Timing Constraints
+---------------------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 13 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 13 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 14 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 14 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 15 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 15 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 16 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 16 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 17 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 17 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 18 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 18 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 19 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 19 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 20 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 20 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 21 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 21 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 22 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 22 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 23 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 23 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 24 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 24 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 25 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 25 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 26 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 26 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 27 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 27 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 28 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 28 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 33 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 33 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 34 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 34 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 35 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 35 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 36 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 36 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 37 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 37 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 38 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 38 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 39 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 39 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 40 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 40 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 41 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 41 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 42 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 42 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 43 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 43 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 44 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 44 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 45 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 45 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 46 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 46 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 47 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 47 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 48 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 48 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 60 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 60 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 61 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 61 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 62 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 62 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 63 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 63 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 64 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 64 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 65 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 65 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 66 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 66 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 68 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 68 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 70 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 70 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 71 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 71 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 72 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 72 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 73 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 73 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 74 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 74 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 75 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 75 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 76 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 76 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+incorrect argument "-dict" for "set_property" at line 77 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+incorrect set of required parameters for "set_property" at line 77 of file F:/Cqh_files/2021verilog/upload/lab2/Nexys4DDR_Master2.xdc
+---------------------------------------------------------------------
+Usage:
+  set_property
+    [-help]
+    [-quiet]
+    attribute
+    value
+    object
+    [{>|>>} <stdoutFile>]
+---------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:00:22 ; elapsed = 00:00:23 . Memory (MB): peak = 550.531 ; gain = 377.949
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:00:22 ; elapsed = 00:00:23 . Memory (MB): peak = 550.531 ; gain = 377.949
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:00:22 ; elapsed = 00:00:23 . Memory (MB): peak = 571.465 ; gain = 398.883
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:00:22 ; elapsed = 00:00:24 . Memory (MB): peak = 571.465 ; gain = 398.883
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:00:22 ; elapsed = 00:00:24 . Memory (MB): peak = 571.465 ; gain = 398.883
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:00:22 ; elapsed = 00:00:24 . Memory (MB): peak = 571.465 ; gain = 398.883
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports : Time (s): cpu = 00:00:22 ; elapsed = 00:00:24 . Memory (MB): peak = 571.465 ; gain = 398.883
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:00:22 ; elapsed = 00:00:24 . Memory (MB): peak = 571.465 ; gain = 398.883
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+Report BlackBoxes: 
++-+--------------+----------+
+| |BlackBox name |Instances |
++-+--------------+----------+
++-+--------------+----------+
+
+Report Cell Usage: 
++------+-----+------+
+|      |Cell |Count |
++------+-----+------+
+|1     |LUT3 |     8|
+|2     |LUT4 |     7|
+|3     |IBUF |    16|
+|4     |OBUF |    32|
++------+-----+------+
+
+Report Instance Areas: 
++------+----------+-------------+------+
+|      |Instance  |Module       |Cells |
++------+----------+-------------+------+
+|1     |top       |             |    63|
+|2     |  control |seg7_control |     8|
+|3     |  display |seg7_display |     6|
++------+----------+-------------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:00:22 ; elapsed = 00:00:24 . Memory (MB): peak = 571.465 ; gain = 398.883
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 1 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:00:13 ; elapsed = 00:00:17 . Memory (MB): peak = 571.465 ; gain = 160.156
+Synthesis Optimization Complete : Time (s): cpu = 00:00:22 ; elapsed = 00:00:24 . Memory (MB): peak = 571.465 ; gain = 398.883
+INFO: [Project 1-571] Translating synthesized netlist
+INFO: [Netlist 29-17] Analyzing 16 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+INFO: [Common 17-83] Releasing license: Synthesis
+19 Infos, 1 Warnings, 16 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:21 ; elapsed = 00:00:22 . Memory (MB): peak = 571.465 ; gain = 377.742
+report_utilization: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.040 . Memory (MB): peak = 571.465 ; gain = 0.000
+INFO: [Common 17-206] Exiting Vivado at Thu Apr 22 21:50:07 2021...

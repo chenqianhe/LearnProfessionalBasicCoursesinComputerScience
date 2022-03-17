@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu May 27 19:05:53 2021
+# Process ID: 10044
+# Current directory: G:/Cqh_files/2021verilog/upload/lab4/lab4/lab4.runs/synth_1
+# Command line: vivado.exe -log datapath_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source datapath_top.tcl
+# Log file: G:/Cqh_files/2021verilog/upload/lab4/lab4/lab4.runs/synth_1/datapath_top.vds
+# Journal file: G:/Cqh_files/2021verilog/upload/lab4/lab4/lab4.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source datapath_top.tcl -notrace
