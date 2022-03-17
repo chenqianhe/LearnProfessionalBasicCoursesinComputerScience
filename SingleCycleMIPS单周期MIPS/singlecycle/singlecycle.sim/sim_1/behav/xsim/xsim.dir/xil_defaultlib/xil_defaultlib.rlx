@@ -1,0 +1,16 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/ALU.v,1646149999,verilog,,G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/COUNTER.v,,ALU,,,,,,,,
+G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/COUNTER.v,1646141331,verilog,,G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/ControlSignalGenerator.v,,COUNTER,,,,,,,,
+G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/ControlSignalGenerator.v,1645842051,verilog,,G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/HardwiredController.v,,ControlSignalGenerator,,,,,,,,
+G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/DIVIDER.v,1645863624,verilog,,G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/HardwiredController.v,,DIVIDER,,,,,,,,
+G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/HardwiredController.v,1645858082,verilog,,G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/OPSignalGeneration.v,,HardwiredController,,,,,,,,
+G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/OPSignalGeneration.v,1645843452,verilog,,G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/RAM.v,,OPSignalGeneration,,,,,,,,
+G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/RAM.v,1646185517,verilog,,G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/REG.v,,RAM,,,,,,,,
+G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/REG.v,1645965543,verilog,,G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/ROM.v,,REG,,,,,,,,
+G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/ROM.v,1645965556,verilog,,G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/mips.v,,ROM,,,,,,,,
+G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/mips.v,1646187362,verilog,,G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/mips_tb.v,,mips,,,,,,,,
+G:/Cqh_files/2022Verilog-CPU/singleCycle/singlecycle/singlecycle.srcs/sources_1/new/mips_tb.v,1645962003,verilog,,,,mips_tb,,,,,,,,
