@@ -13,6 +13,7 @@
 | [PrincipleofComputerComposition计算机组成原理](https://github.com/chenqianhe/LearnProfessionalBasicCoursesinComputerScience/tree/main/PrincipleofComputerComposition%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86) |       组原实验        |
 | [SingleCycleMIPS单周期MIPS](https://github.com/chenqianhe/LearnProfessionalBasicCoursesinComputerScience/tree/main/SingleCycleMIPS%E5%8D%95%E5%91%A8%E6%9C%9FMIPS) | Verilog实现单周期MIPS |
 | [Verilog](https://github.com/chenqianhe/LearnProfessionalBasicCoursesinComputerScience/tree/main/Verilog) |      Verilog实验      |
+| [ComputerSystemStructure计算机系统结构](https://github.com/chenqianhe/LearnProfessionalBasicCoursesinComputerScience/tree/main/ComputerSystemStructure%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84) |  计算机系统结构实验   |
 
 
 
